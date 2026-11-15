@@ -1,0 +1,7427 @@
+{
+ "id": "k7-rest-1800s",
+ "language": "vi",
+ "lang_prob": 0.996,
+ "segments": [
+  {
+   "start": 1800.0,
+   "end": 1804.84,
+   "text": "Mà môi trường đi khắc nghiệt, sợ nhất là rằng con Bát thì bị lạnh cống, Nuby đến đây thì chỉ biết khóc thôi",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 1805.84,
+   "end": 1811.6,
+   "text": "Nhưng mà tôi thì không phải dạy Nuby đó, tôi có hệ thống và có khí ức ở tiến khiếc, nhưng việc liếm mép tiến khá là đơn giản với tôi",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 1811.6,
+   "end": 1817.16,
+   "text": "Câu chế giải đồ của mép tiến rất đơn giản, khó khăn là ở việc vừa phải con Bát và vừa đến nhân vật không bị lạnh cống",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 1817.16,
+   "end": 1819.6,
+   "text": "Cuối ngày, tôi mở khoảng 3 mình đã băng",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 1819.6,
+   "end": 1826.7,
+   "text": "Ngày 45, đã lên hạ 50 rồi, phải đi phang nguyên liệu cho nhân vật đột phá lên vô 90 thôi",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 1826.7,
+   "end": 1830.06,
+   "text": "Tôi ưu tiêm phít sổ và sang linh, với hai nhân vật ấy gây đam rất ổn",
+   "avg_logprob": -0.33,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 1830.18,
+   "end": 1832.74,
+   "text": "Không quên phang nguyên liệu cần là phong ma long và xóa bóc phong",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 1833.74,
+   "end": 1839.18,
+   "text": "Sau đó, tôi tiếp tục đi mở rương máp tuyết, tôi giấc ghét cái động này, cửa hàng trăng trịt mà điểm tên lên rất xa nhau",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 1839.18,
+   "end": 1844.58,
+   "text": "Tôi không nhờ cái chỗ này phải do thiên ly cảm xuống không, ông nào biết về cốt chuyện của Cái Đinh thì comment cho mọi người cũng biết nhé",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 1844.58,
+   "end": 1852.8,
+   "text": "Đang lên đỉnh của Cái Đinh để lụng hành tự ẩn rồi đã tiếp tục mở rương",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 1853.88,
+   "end": 1856.52,
+   "text": "Tôi đã lụng đủ mưa rô xanh và...",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 1856.52,
+   "end": 1861.2,
+   "text": "Rì đây? Tôi không biết nên vui hay nên buồn nữa, đúng là trời thương cái thời tác của tôi rồi",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 1861.24,
+   "end": 1864.24,
+   "text": "Ngày 45, tôi nhận những vụ nhặt răng rồng cho ô ban",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.231
+  },
+  {
+   "start": 1864.24,
+   "end": 1869.32,
+   "text": "Nhặt xong còn phải con bắt căng về đám phát tôi ở gần tim rồng, cái khu vực tim rồng này trông sợ või trưởng",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.231
+  },
+  {
+   "start": 1869.32,
+   "end": 1871.64,
+   "text": "Tôi có cảm giác giấc hồi hộp khi bước vào đây",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.231
+  },
+  {
+   "start": 1871.64,
+   "end": 1877.08,
+   "text": "Xong nhiệm vụ, phần thường sẽ là cái thương rồng, mặc dù tôi chẳng dùng nó nhưng mà thôi, mở lấy về vì nhiệm vụ",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.231
+  },
+  {
+   "start": 1877.08,
+   "end": 1880.0,
+   "text": "Tôi đã lụng đủ 3 trích rương vàng để mở cửa hâm bí mật",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.231
+  },
+  {
+   "start": 1881.0,
+   "end": 1883.88,
+   "text": "Trong đây có rất nhiều rương, nhưng mà quan trọng nhất là cái bia đá này",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.231
+  },
+  {
+   "start": 1883.88,
+   "end": 1887.12,
+   "text": "Tôi phải thắp sáng đủ 8 cái bia đá để mở khóa căn phòng ẩn cuối cùng",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.231
+  },
+  {
+   "start": 1887.4,
+   "end": 1890.76,
+   "text": "Và nó đây, bên trong chỉ có 1 trích rương nhưng đừng để bị lừa",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.156
+  },
+  {
+   "start": 1890.76,
+   "end": 1894.24,
+   "text": "Mấy ông cần bắn 4 cái đuốc ở 4 góc phòng để nhận phi 1 cây đại kiếm",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.156
+  },
+  {
+   "start": 1894.24,
+   "end": 1896.84,
+   "text": "Tôi sẽ không rút nó ra mà sẽ chụp ảnh lại 5 kỷ niệm",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.156
+  },
+  {
+   "start": 1896.84,
+   "end": 1898.52,
+   "text": "Bông hoa đẹp ra để ngắm thôi",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.156
+  },
+  {
+   "start": 1898.52,
+   "end": 1901.16,
+   "text": "Và khi tất cả rương đã lộn được thì...",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.156
+  },
+  {
+   "start": 1901.16,
+   "end": 1905.76,
+   "text": "Ta-da! 100% map lông tích nhất sơn và level 8 cây chịu lạnh",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.156
+  },
+  {
+   "start": 1906.68,
+   "end": 1909.52,
+   "text": "Tôi không để đã level 12 luôn mà phải làm những vụ hàng tuần",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.156
+  },
+  {
+   "start": 1909.52,
+   "end": 1912.12,
+   "text": "Mỗi tuần sẽ reset 2 lần để nhận 10 ngọc đỏ",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.156
+  },
+  {
+   "start": 1912.12,
+   "end": 1914.88,
+   "text": "Thôi, chờ ngày lấy vụn người khuya cánh cho mấy ông sao vậy?",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.156
+  },
+  {
+   "start": 1914.92,
+   "end": 1918.32,
+   "text": "Ngày 47, tôi đi nhận niềm danh vọng monstatt và đã lên cấp 8",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 1918.32,
+   "end": 1920.84,
+   "text": "Chỉ còn 2 những vụ nữa là phun hành monstatt rồi",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 1920.84,
+   "end": 1924.32,
+   "text": "Tôi nhận liên cày cánh và mặc cho babarra, chắc có mình em hợp thui",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 1924.32,
+   "end": 1926.48,
+   "text": "Sau đấy tôi đi phang nguyên liệu thiên phú cho kaya",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 1926.48,
+   "end": 1929.76,
+   "text": "Lên được level 8 chiêu nộ và level 6 kỹ năng nguyên tố",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 1929.76,
+   "end": 1932.08,
+   "text": "Sau đó, tôi nhận những vụ truyền thuyết của lo hên",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 1932.08,
+   "end": 1933.6,
+   "text": "Bài trê này thì quá mạnh rồi",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 1933.6,
+   "end": 1936.6,
+   "text": "Hồi tôi mới bắt đầu series, cũng nghĩ lo hên sẽ là nhân vật bên được thường",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 1936.6,
+   "end": 1939.88,
+   "text": "Nếu là vậy thì khả năng clear là hoàn tầng 12 của tôi khả thích hơn",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 1939.88,
+   "end": 1942.08,
+   "text": "Nhưng tiếc là người tính không bằng mỹ tổng tính",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.063
+  },
+  {
+   "start": 1945.28,
+   "end": 1947.84,
+   "text": "Ui, cái pha này anh gai đúng chất quần chiến",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.64
+  },
+  {
+   "start": 1947.84,
+   "end": 1950.72,
+   "text": "Trong cơ niên loạn, anh tự đánh mình để bản thân khuất khỏi áo giác",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.64
+  },
+  {
+   "start": 1950.72,
+   "end": 1953.6,
+   "text": "Kết thúc nhiệm vụ, kết luận anh gai này ngầu",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.64
+  },
+  {
+   "start": 1953.6,
+   "end": 1955.84,
+   "text": "Sau đấy tôi tiếp tục làm nhiệm vụ của Eula",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.64
+  },
+  {
+   "start": 1955.84,
+   "end": 1958.64,
+   "text": "Ê kệ Ê của H.C. Chỗ Đô khuyên đảo dưới gác trang một thời",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.64
+  },
+  {
+   "start": 1958.64,
+   "end": 1960.64,
+   "text": "Hồi ấy tôi cũng bị mẹ em lắm mấy chứ",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.64
+  },
+  {
+   "start": 1960.64,
+   "end": 1962.96,
+   "text": "Để mà chấm điểm tôi xin chấm em 10-10",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.64
+  },
+  {
+   "start": 1962.96,
+   "end": 1964.96,
+   "text": "Từ design từ animation combat",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.64
+  },
+  {
+   "start": 1964.96,
+   "end": 1968.08,
+   "text": "Chỉ tiếc là em theo đam vật lý nên không thể chơi một cách bình thường được",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.64
+  },
+  {
+   "start": 1968.08,
+   "end": 1970.08,
+   "text": "Hoàn thành có chuyện một cách nhanh chóng",
+   "avg_logprob": -0.336,
+   "no_speech_prob": 0.64
+  },
+  {
+   "start": 1970.08,
+   "end": 1972.08,
+   "text": "Tiếc là không được trải nghiệm Eula lâu hơn",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1972.08,
+   "end": 1975.52,
+   "text": "Ngày 49, tôi nâng cấp ẩn chân ca lên cấp 7",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1975.52,
+   "end": 1978.48,
+   "text": "Đặt hết đồ trang trí da và tôi đã đạt được 15.000 điểm của ấm",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1978.48,
+   "end": 1980.8,
+   "text": "Trong cái ấm như là bãi giác ấy, nhưng mà yên tâm",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1980.8,
+   "end": 1982.96,
+   "text": "Sau này tôi sẽ trang trí nó như một cung điện lộng lấy",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1982.96,
+   "end": 1985.36,
+   "text": "Sau đó tôi đi phong nguy liệu đột phá cho Kaya",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1985.36,
+   "end": 1987.68,
+   "text": "Wow, được cái nóng ngon quá đi mất",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1987.68,
+   "end": 1989.68,
+   "text": "Và nâng cấp thì wow",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1989.68,
+   "end": 1991.36,
+   "text": "Tôi dùng tạm vệ",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1991.36,
+   "end": 1993.36,
+   "text": "Phám nốt họa cho Kaya là",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1993.36,
+   "end": 1996.8,
+   "text": "Yes! Tôi đã có nhân vật đầu tiên, level 90",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1996.8,
+   "end": 1998.8,
+   "text": "Sau đấy tôi đi làm sự kiện của game",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.609
+  },
+  {
+   "start": 1998.8,
+   "end": 2002.0,
+   "text": "Sự kiện này không có gì để kể nhiều, chỉ chạy ranh quanh lùa vịt là xong",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2002.0,
+   "end": 2004.0,
+   "text": "Phần trường cũng ngon, không đến nỗi",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2004.0,
+   "end": 2007.6,
+   "text": "Ngày 50, cả ngày mà tôi đã chờ rất lâu rồi",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2007.6,
+   "end": 2010.72,
+   "text": "Nhưng mà trước khi bắt đầu xả roll, tôi sẽ đi lụm hết nguyên thạch có thể",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2010.72,
+   "end": 2012.88,
+   "text": "Tôi vào nhà hát, cơ liếp áp, phòng đầu đơn giản",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2012.88,
+   "end": 2014.88,
+   "text": "Hiện tại đây là giới hạn của tôi",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2014.88,
+   "end": 2017.04,
+   "text": "Tiếp đó là nhận chiếc rương cuối cùng ở monster",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2017.04,
+   "end": 2019.6,
+   "text": "Kiểm tra thì hiện tại tôi có 28.000 nguyên thạch",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2019.6,
+   "end": 2023.04,
+   "text": "Tôi sẽ nhận hết 301 thành tiệu mà tôi đã thích cóc từ đầu game đến giờ",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2023.04,
+   "end": 2025.68,
+   "text": "Không những thế, tôi cũng lụt hết cả ở phần hướng dẫn game",
+   "avg_logprob": -0.226,
+   "no_speech_prob": 0.006
+  },
+  {
+   "start": 2025.68,
+   "end": 2028.64,
+   "text": "Và tổng cộng tự đã có 30.000 nguyên thạch để bắt đầu roll",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.071
+  },
+  {
+   "start": 2028.64,
+   "end": 2031.84,
+   "text": "Rồi cả tinh huy thì tổng cộng chúng ta sẽ có 218 roll hồng",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.071
+  },
+  {
+   "start": 2031.84,
+   "end": 2035.76,
+   "text": "Không biết tôi sẽ nhận được những gì, nhưng mà trước hết tôi sẽ đi xem chỉ số may màn đá",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.071
+  },
+  {
+   "start": 2035.76,
+   "end": 2039.44,
+   "text": "Oh no, vận may hôm nay không có tốt rồi",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.071
+  },
+  {
+   "start": 2039.44,
+   "end": 2042.24,
+   "text": "Thôi kẹ vậy, lơ hứa rồi thì phải làm thôi",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.071
+  },
+  {
+   "start": 2042.24,
+   "end": 2043.6,
+   "text": "Bắt đầu roll nào",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.071
+  },
+  {
+   "start": 2043.6,
+   "end": 2059.17,
+   "text": "Một kết thì tôi cũng nhận được khá khá đồ tốt",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.071
+  },
+  {
+   "start": 2059.17,
+   "end": 2062.53,
+   "text": "Một nuôi vũ khí nhu dụng, đặc biệt là đi lúc và bnx c6",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.071
+  },
+  {
+   "start": 2062.53,
+   "end": 2064.93,
+   "text": "Chỉ còn siêu nữa thôi là mavica c2 rồi",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.071
+  },
+  {
+   "start": 2064.93,
+   "end": 2067.41,
+   "text": "Nhưng mà thôi, thử thách là này chúng ta không cho nhân vật limit",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.071
+  },
+  {
+   "start": 2067.49,
+   "end": 2069.41,
+   "text": "Đừng tạo cắt em vào kho vậy",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 2069.41,
+   "end": 2072.77,
+   "text": "Kết thúc ngày 50, tuy không được như tôi kỷ vọng nhưng mà không sao",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 2072.77,
+   "end": 2075.01,
+   "text": "Chẳng đường của chúng ta còn rất dài ở phía trước",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 2075.01,
+   "end": 2078.29,
+   "text": "Ngày 51, vì đã roll được khá khá nhân vật tốt ở ngày 50",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 2078.29,
+   "end": 2080.53,
+   "text": "Nhưng tôi phải vào ngay lao hoàn kiểm tra sức mạnh",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 2080.53,
+   "end": 2083.65,
+   "text": "Đần này tôi đã tìm ra điểm yếu của mấy con kỳ lân",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 2083.65,
+   "end": 2086.77,
+   "text": "Con kỳ lân sẽ có 2 dạng, dạng dáp nguyên tố và dạng thường",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 2086.77,
+   "end": 2091.09,
+   "text": "Ở dạng dáp nguyên tố, phải đánh nguyên tố tương ứng lên con kỳ lân cho nó mất dáp nguyên tố đi",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 2091.09,
+   "end": 2092.69,
+   "text": "Ở đây là nguyên tố hỏa",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.206
+  },
+  {
+   "start": 2092.77,
+   "end": 2094.77,
+   "text": "Sau đó mình có thể gây đam bình thường được",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.339
+  },
+  {
+   "start": 2094.77,
+   "end": 2098.05,
+   "text": "Sau khi mất lất dáp, con kỳ lân sẽ về màu đen và rất dễ đánh",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.339
+  },
+  {
+   "start": 2098.05,
+   "end": 2100.69,
+   "text": "Hiểu được nguyên lý từ vật qua luôn từng chính phòng 3",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.339
+  },
+  {
+   "start": 2100.69,
+   "end": 2103.41,
+   "text": "Tiếp theo là đến từng 10, từng tự tầng 9",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.339
+  },
+  {
+   "start": 2103.41,
+   "end": 2105.57,
+   "text": "Con kỳ lân thảo cũng là một vấn đề rất khó",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.339
+  },
+  {
+   "start": 2105.57,
+   "end": 2108.05,
+   "text": "Thu sử dụng Coley và Barbara để phải giác thảo",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.339
+  },
+  {
+   "start": 2108.05,
+   "end": 2110.53,
+   "text": "Sau đó kết thúc con quái vật bằng kia",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.339
+  },
+  {
+   "start": 2110.53,
+   "end": 2115.66,
+   "text": "Tầng 11, phòng 1 là tầng phòng thủ",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.339
+  },
+  {
+   "start": 2115.66,
+   "end": 2117.66,
+   "text": "Những con pháp dư lôi là vấn đề rất lớn",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.339
+  },
+  {
+   "start": 2117.66,
+   "end": 2120.86,
+   "text": "Lượng đam của tim tuy gây ra chưa đủ sức liên nhanh tàn bộ quái vật",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.339
+  },
+  {
+   "start": 2120.86,
+   "end": 2122.86,
+   "text": "nên chỉ có thể nhận 2 sao cây đắng",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2122.86,
+   "end": 2124.86,
+   "text": "Phòng thứ 2 và 3 tương tự",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2124.86,
+   "end": 2126.86,
+   "text": "Vấn đề lớn nhất là sức mạnh của toàn tim",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2126.86,
+   "end": 2128.86,
+   "text": "Tôi nhận thất bại ở tầng 11, phòng 2",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2128.86,
+   "end": 2130.86,
+   "text": "Việc thất bại là để tôi nhận ra sức mạnh của toàn tim",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2130.86,
+   "end": 2132.86,
+   "text": "Chỉ có thử nghiệm mới thêm gia vấn đề",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2132.86,
+   "end": 2136.86,
+   "text": "Sau đó tôi bắt đầu tiền tới Inazuma và bắt đầu cho nhiệm vụ man thân",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2136.86,
+   "end": 2138.86,
+   "text": "Ngày năm 2",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2138.86,
+   "end": 2140.86,
+   "text": "Tôi bắt đầu làm nhiệm vụ man thân của Inazuma",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2140.86,
+   "end": 2142.86,
+   "text": "Cô chuyện của Inazuma rất hay và tâm tối",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2142.86,
+   "end": 2144.86,
+   "text": "Tôi sẽ tóm tắt nhé",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2144.86,
+   "end": 2146.86,
+   "text": "Như mấy ông đã biết",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2146.86,
+   "end": 2148.86,
+   "text": "Inazuma đang ban hành luật bế quan tỏ cả",
+   "avg_logprob": -0.162,
+   "no_speech_prob": 0.286
+  },
+  {
+   "start": 2148.86,
+   "end": 2150.86,
+   "text": "Inazuma trở thành vùng đất khép khín hoàn toàn",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2150.86,
+   "end": 2153.86,
+   "text": "Không lâu sau đó, lạnh Chishan Vision cũng được thi hành",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2153.86,
+   "end": 2156.86,
+   "text": "Với lôi thần Vision thì chính là ước nguyện, là khát vọng",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2156.86,
+   "end": 2158.86,
+   "text": "Và sự xuất hiện của những thứ ấy sẽ ảnh hưởng từ viễn hàng",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2158.86,
+   "end": 2160.86,
+   "text": "Lý tưởng mà cô luôn theo đuổi",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2160.86,
+   "end": 2162.86,
+   "text": "Nhưng một đất nuốt không thể đừng yên mãi mãi",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2162.86,
+   "end": 2164.86,
+   "text": "Khi người dẫn bất đi Vision",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2164.86,
+   "end": 2166.86,
+   "text": "Họ cũng dần đánh bất ước mơ và ý chí",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2166.86,
+   "end": 2168.86,
+   "text": "Cắp Inazuma những tiếng hoàn than vang lên",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2168.86,
+   "end": 2170.86,
+   "text": "Lợi dụng tình hề",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2170.86,
+   "end": 2172.86,
+   "text": "Tổ chức ba tôi đã ấm thầm trâm vào của chiến tranh của mang phủ",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2172.86,
+   "end": 2174.86,
+   "text": "Và quân thăng chiến Watatsumi",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.213
+  },
+  {
+   "start": 2174.86,
+   "end": 2176.86,
+   "text": "Bọn chú không phát tắm một lượng lần Vision",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2176.86,
+   "end": 2178.86,
+   "text": "Hiếm vô số miếng phải hít sinh",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2178.86,
+   "end": 2180.86,
+   "text": "Trải qua muôn vàn khó khăn",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2180.86,
+   "end": 2182.86,
+   "text": "Nhà Lữ Hành đã kết bạc được với tiểu thư Ayaka và Yomiya",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2182.86,
+   "end": 2184.86,
+   "text": "Bà Hoàng chê lửa",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2184.86,
+   "end": 2186.86,
+   "text": "Nhưng mọi chuyện bị Raiden Shogun để ý",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2186.86,
+   "end": 2188.86,
+   "text": "Thôma đã bị bắt và âm giải đứng tượng nghìn mắt",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2188.86,
+   "end": 2191.86,
+   "text": "Tại đây, Nhà Lữ Hành lần đầu trực tiếp đối diện với lôi thần",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2191.86,
+   "end": 2202.77,
+   "text": "Cảnh rút kiếm huyên thoại Quynh Đáo",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2202.77,
+   "end": 2204.77,
+   "text": "Rồi ga tra một thời",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2204.77,
+   "end": 2206.77,
+   "text": "Tự cũng đảm trong số những người chơi bị xin em với thời điểm đó",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2206.77,
+   "end": 2208.77,
+   "text": "Chờ về với cốt chuyện",
+   "avg_logprob": -0.341,
+   "no_speech_prob": 0.065
+  },
+  {
+   "start": 2208.77,
+   "end": 2210.77,
+   "text": "Sau khi đối mặt với cửa tử và được Thôma cứu phút chót",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2210.77,
+   "end": 2212.77,
+   "text": "Nhà Lữ Hành đã thành công chuẩn thoát",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2212.77,
+   "end": 2214.77,
+   "text": "Và ra nhập quân thăng chiến Watatsumi",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2214.77,
+   "end": 2216.77,
+   "text": "Giữa sự trí huy của Mytong Kokomi",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2216.77,
+   "end": 2218.77,
+   "text": "Quân thăng chiến Watatsumi tướng bước giảm gọn mạc phụ",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2218.77,
+   "end": 2220.77,
+   "text": "Và quyết tấm thay đổi ý chí của lôi thần",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2220.77,
+   "end": 2222.77,
+   "text": "Cũng tại đây, chúng ta thấy được sự tan đập của phát tuy",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2222.77,
+   "end": 2224.77,
+   "text": "Chúng sử dụng Dilution làm vũ khí trên tranh",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2224.77,
+   "end": 2226.77,
+   "text": "Dilution là một loại thuốc cho người sử dụng sức mạnh",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2226.77,
+   "end": 2228.77,
+   "text": "Nhanh với Vision",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2228.77,
+   "end": 2230.77,
+   "text": "Nhưng cái giá phải trả là chính sinh mệnh của họ",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2230.77,
+   "end": 2232.77,
+   "text": "Chính thất pay, một người lính trung thành",
+   "avg_logprob": -0.216,
+   "no_speech_prob": 0.017
+  },
+  {
+   "start": 2232.77,
+   "end": 2234.77,
+   "text": "đã phải hy sinh vì loại thuốc",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2234.77,
+   "end": 2236.77,
+   "text": "Anh là một người có khát vọng manh liệt",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2236.77,
+   "end": 2238.77,
+   "text": "Và có lý tưởng rất ánh hùng",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2238.77,
+   "end": 2240.77,
+   "text": "Nhưng anh chỉ là người thường và phản bận Dilution được chiến đấu",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2240.77,
+   "end": 2242.77,
+   "text": "Nhờ Dilution, anh đã đồng góp rất nhiều chiến tích súng quân kháng chiến",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2242.77,
+   "end": 2244.77,
+   "text": "Nhưng cái giá phải trả chính là tuổi thọ của anh",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2244.77,
+   "end": 2246.77,
+   "text": "Không thể chấp nhận được cái chết vô nghĩa của thất bay",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2246.77,
+   "end": 2248.77,
+   "text": "Phella tới thẳng sử chế thuốc của phát tuy để đập phá",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2248.77,
+   "end": 2250.77,
+   "text": "Tại đây, cô được nàng cáo Yemiko cứu giúp",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2250.77,
+   "end": 2252.77,
+   "text": "Khoa sự huấn luyện của Yemiko",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2252.77,
+   "end": 2254.77,
+   "text": "Phella sống thẳng từ dinh thượng của lôi thần",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2254.77,
+   "end": 2256.77,
+   "text": "Và đối mặt với cô là Signora",
+   "avg_logprob": -0.202,
+   "no_speech_prob": 0.699
+  },
+  {
+   "start": 2256.77,
+   "end": 2258.77,
+   "text": "Nha lựa hành đã thắc đấu Signora và chiến thắng",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2258.77,
+   "end": 2260.77,
+   "text": "Tuy nhiên, sau khi giải phói dinh thượng của lôi thần",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2264.77,
+   "end": 2266.77,
+   "text": "Với sự ướp sức của Yemiko và ý chí của những người dân không từ bỏ khát vọng",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2266.77,
+   "end": 2274.66,
+   "text": "Nha lựa hành tiến vào nhất tâm tịnh thổ và đối mặt trực tiếp về anh",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2274.66,
+   "end": 2276.66,
+   "text": "Sao một loạt chận chiến cam go",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2276.66,
+   "end": 2289.5,
+   "text": "Cuối cùng, anh cũng đã được thông nã",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2289.5,
+   "end": 2291.5,
+   "text": "Vĩnh hàng không có nghĩa là ngăn cản sự thay đổi",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2291.5,
+   "end": 2293.5,
+   "text": "Mà là để những mọi người thay đổi",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2293.5,
+   "end": 2295.5,
+   "text": "Nhưng có lý tưởng rất nhiều",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2295.5,
+   "end": 2297.5,
+   "text": "Nhưng có lý tưởng rất nhiều",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2297.5,
+   "end": 2299.5,
+   "text": "Nhưng có lý tưởng rất nhiều",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2299.5,
+   "end": 2301.5,
+   "text": "Nhưng có lý tưởng rất nhiều",
+   "avg_logprob": -0.295,
+   "no_speech_prob": 0.067
+  },
+  {
+   "start": 2301.5,
+   "end": 2307.5,
+   "text": "Nhưng có lý t haut kh Simpson",
+   "avg_logprob": -1.298,
+   "no_speech_prob": 0.172
+  },
+  {
+   "start": 2307.5,
+   "end": 2309.5,
+   "text": "Nhưng có lý tưởng rất nhiều",
+   "avg_logprob": -1.298,
+   "no_speech_prob": 0.172
+  },
+  {
+   "start": 2309.5,
+   "end": 2321.5,
+   "text": "Nhưng có lý tưởng rất nhiều",
+   "avg_logprob": -1.298,
+   "no_speech_prob": 0.172
+  },
+  {
+   "start": 2321.5,
+   "end": 2324.96,
+   "text": "với bước cảnh tâm tối khiến Inazuma trở thành phố đất rất đáng nhớ.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.342
+  },
+  {
+   "start": 2324.96,
+   "end": 2328.38,
+   "text": "Ngày 55, cư đợi gió bằng hoàn thành một số thanh tự nhặt sách,",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.342
+  },
+  {
+   "start": 2328.38,
+   "end": 2330.94,
+   "text": "loanh quanh nhặt sách một hồi là xong 2 thanh tự này.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.342
+  },
+  {
+   "start": 2330.94,
+   "end": 2334.62,
+   "text": "Tiếp theo, tui đi nhặt dương Inazuma và làm một số nhiệm một thế giới.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.342
+  },
+  {
+   "start": 2334.62,
+   "end": 2337.66,
+   "text": "Yêu tiên làm nhiệm vụ trước dù mới đi mở dương ngam mấy ông.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.342
+  },
+  {
+   "start": 2337.66,
+   "end": 2339.9,
+   "text": "Từ hoàn thành hết nhiệm vụ trong thành Inazuma,",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.342
+  },
+  {
+   "start": 2339.9,
+   "end": 2342.3,
+   "text": "xong rồi bắt tay và làm nhiệm vụ tế lê anh đào thân.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.342
+  },
+  {
+   "start": 2342.3,
+   "end": 2345.26,
+   "text": "Đây là nhiệm vụ rất quan trọng nhưng cũng không kém phân châm cảm.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.342
+  },
+  {
+   "start": 2345.26,
+   "end": 2348.62,
+   "text": "Những vụ này khá dài, đòa hỏi mấy ông cần tập trung cao độ để giải đố.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.763
+  },
+  {
+   "start": 2348.62,
+   "end": 2350.3,
+   "text": "Hoàn thành xong thì cũng hết ngày.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.763
+  },
+  {
+   "start": 2350.3,
+   "end": 2354.46,
+   "text": "Ngày 56, tui tiếp tục làm nhiệm vụ truyền thuyết của Lui Thần để hiểu hơn mấy cô.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.763
+  },
+  {
+   "start": 2354.46,
+   "end": 2357.34,
+   "text": "Thực ra, Lui Thần từng có một chị gái từ năm Makoto.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.763
+  },
+  {
+   "start": 2357.34,
+   "end": 2359.9,
+   "text": "Makoto thì thông minh, còn A thì giờ về chiến đấu.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.763
+  },
+  {
+   "start": 2359.9,
+   "end": 2363.34,
+   "text": "Nhưng trận chiến Kenrier 500 năm trước đã lấy đi sinh mạng của Makoto",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.763
+  },
+  {
+   "start": 2363.34,
+   "end": 2365.82,
+   "text": "và những chiến hiệu luôn kể vai sắt cánh bên A.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.763
+  },
+  {
+   "start": 2365.82,
+   "end": 2370.62,
+   "text": "Sự mất mát ấy quá lớn khiến A quyết tâm đóng cử Inazuma và thực hiện kế hoạc phĩnh hàng.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.763
+  },
+  {
+   "start": 2370.62,
+   "end": 2372.86,
+   "text": "A tạo ra Raiden Sougan,",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.763
+  },
+  {
+   "start": 2372.94,
+   "end": 2376.22,
+   "text": "một con dối để giúp cô cai trị Inazuma giữa trên những nguyên tắc hà khác.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.038
+  },
+  {
+   "start": 2376.22,
+   "end": 2379.42,
+   "text": "Và từ đó cô dám mình trong nhất tâm tệnh thổ trong cô độc.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.038
+  },
+  {
+   "start": 2379.42,
+   "end": 2383.58,
+   "text": "Nhờ sự giúp đỡ của nhà lưỡi hành, cô đã thoát khỏi sự bảo thủ của cô",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.038
+  },
+  {
+   "start": 2383.58,
+   "end": 2387.18,
+   "text": "trên đấu vượt qua Raiden Sougan để toàn quyến kiểm soát cơ thể.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.038
+  },
+  {
+   "start": 2387.18,
+   "end": 2390.46,
+   "text": "Từ dây phút đó cô đã trở lại và chính thức dẫn dắt Inazuma trở lại.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.038
+  },
+  {
+   "start": 2390.46,
+   "end": 2399.46,
+   "text": "Ngày 58, sau khi đã hoàn thành nhiệm vụ Makoto trên đảo Inazuma,",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.038
+  },
+  {
+   "start": 2399.46,
+   "end": 2402.1,
+   "text": "tui về thành monstop hoàn thành nốt hành nhiệm vụ con sang dở.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.038
+  },
+  {
+   "start": 2402.18,
+   "end": 2406.34,
+   "text": "Nhận vụ đầu tiên là của Grace, giúp cô giải hạt của công anh từ tiệu phong thần.",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.779
+  },
+  {
+   "start": 2406.34,
+   "end": 2409.62,
+   "text": "Nhận vụ cuối cùng cũng là nhiệm vụ ẩn, thời gian và gió.",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.779
+  },
+  {
+   "start": 2409.62,
+   "end": 2412.02,
+   "text": "Để làm được, tui cần chạy lên đỉnh núi vực hái sao.",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.779
+  },
+  {
+   "start": 2412.02,
+   "end": 2415.86,
+   "text": "Tại đây, tui sẽ sử dụng emper cùng hai nhân vật hệ phong để bay tới hồn đảo Hoàng.",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.779
+  },
+  {
+   "start": 2415.86,
+   "end": 2418.74,
+   "text": "Sử dụng thêm một ăn giảm kêu ha thể lực nữa là dứt sang.",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.779
+  },
+  {
+   "start": 2418.74,
+   "end": 2420.82,
+   "text": "Sau khi lên đảo, tui bắt đầu làm nhiệm vụ luận.",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.779
+  },
+  {
+   "start": 2420.82,
+   "end": 2424.74,
+   "text": "Nhận vụ này tui đã có hướng dẫn trên kênh, làm xong là lụp 60 nguyên tạch nè.",
+   "avg_logprob": -0.215,
+   "no_speech_prob": 0.779
+  },
+  {
+   "start": 2424.9,
+   "end": 2427.22,
+   "text": "Và tui đã hoàn thành tan vô nhiệm vụ của thành monster.",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.845
+  },
+  {
+   "start": 2427.22,
+   "end": 2430.9,
+   "text": "Tui cũng lên núi tuyết để cho con cáo ăn.",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.845
+  },
+  {
+   "start": 2430.9,
+   "end": 2433.62,
+   "text": "Thỏa cho con cáo ăn 5 ngày, tui chích dương một xuất hiện nha.",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.845
+  },
+  {
+   "start": 2433.62,
+   "end": 2436.1,
+   "text": "Đừng quên bên cạnh còn có vài thành vi vật 3 sao nhe.",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.845
+  },
+  {
+   "start": 2436.1,
+   "end": 2438.1,
+   "text": "Tui cũng làm luôn nhiệm vụ ước nguyện đỏ thấm.",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.845
+  },
+  {
+   "start": 2438.1,
+   "end": 2440.9,
+   "text": "Vậy là chỉ còn 2 ngày nữa thu ảnh là tui sẽ có cái cánh dối.",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.845
+  },
+  {
+   "start": 2440.9,
+   "end": 2443.46,
+   "text": "Hết việc tui trở lại Enazuma để cánh dương mở bép.",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.845
+  },
+  {
+   "start": 2443.46,
+   "end": 2446.42,
+   "text": "Cũng được 100% đảo Narugami sau vài ngày cài.",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.845
+  },
+  {
+   "start": 2446.42,
+   "end": 2450.5,
+   "text": "Ngày năm 9, tui tới danh chạy cùi dâu làm nhiệm vụ mở lo rượu mica.",
+   "avg_logprob": -0.293,
+   "no_speech_prob": 0.845
+  },
+  {
+   "start": 2450.74,
+   "end": 2452.74,
+   "text": "Nhân vụ này là một chuyện rất dài ngày.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.247
+  },
+  {
+   "start": 2452.74,
+   "end": 2455.46,
+   "text": "Mỗi ngày sẽ phải tới gặp Xavier để hoàn thành nhiệm vụ nhỏ.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.247
+  },
+  {
+   "start": 2455.46,
+   "end": 2457.46,
+   "text": "Tui đã phá lớm làng kết giới bằng pháo lôi.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.247
+  },
+  {
+   "start": 2457.46,
+   "end": 2460.26,
+   "text": "Tui thử bắn pháo lôi vào miếng tên Samurai thì được thêm tựu này.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.247
+  },
+  {
+   "start": 2460.26,
+   "end": 2463.06,
+   "text": "Tui nghĩ nó chỉ có khi bắn vào tảng đá gần này trước nhở.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.247
+  },
+  {
+   "start": 2463.06,
+   "end": 2464.9,
+   "text": "Tui kệ, tui sẽ tìm hiểu sao vậy.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.247
+  },
+  {
+   "start": 2464.9,
+   "end": 2467.46,
+   "text": "Sau đó tui đi dạo mở dương và mở điểm dịch chuyển.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.247
+  },
+  {
+   "start": 2467.46,
+   "end": 2469.62,
+   "text": "Làm nhiệm vụ của tên Samurai vào danh ngày nữa.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.247
+  },
+  {
+   "start": 2469.62,
+   "end": 2472.34,
+   "text": "Nhân vụ này đơn giản, hiệu trình cái tên này vai lên ra đường.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.247
+  },
+  {
+   "start": 2472.34,
+   "end": 2475.54,
+   "text": "Sau cùng tui IFK để lụng thành tựu quest fail.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.247
+  },
+  {
+   "start": 2475.54,
+   "end": 2479.7,
+   "text": "Ngày 60, tui đi mở dương quanh biển đảo, bên trong lọ luyện để nhiễm lôi độc nặng.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.257
+  },
+  {
+   "start": 2479.7,
+   "end": 2483.06,
+   "text": "Khi vào bên trong bất máu rất nhiều, tui sẽ mở dương chỗ này cuối cùng.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.257
+  },
+  {
+   "start": 2483.06,
+   "end": 2486.1,
+   "text": "Cái dương chán rồi, tui dành chút thời gian đi phám sách nướng cấp nhân vật.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.257
+  },
+  {
+   "start": 2486.1,
+   "end": 2488.1,
+   "text": "Và DILAC đã lên level 80.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.257
+  },
+  {
+   "start": 2488.1,
+   "end": 2491.54,
+   "text": "Hiện tại, tui sẽ dừng ở level 80 để đầu tư thiên phú bắt thành di vật.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.257
+  },
+  {
+   "start": 2491.54,
+   "end": 2495.94,
+   "text": "Cả Bandnet cũng gần lên level 80 nhưng mà tui thiếu sách kinh nghiệm nên tạm thời chờ vậy.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.257
+  },
+  {
+   "start": 2495.94,
+   "end": 2498.26,
+   "text": "Cũng đã đến lúc tui sử dụng đúng nhựa dễ vỡ lối.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.257
+  },
+  {
+   "start": 2498.34,
+   "end": 2500.74,
+   "text": "Tui dành 15 nhựa để phám chút thành di vật cho DILAC.",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.607
+  },
+  {
+   "start": 2500.74,
+   "end": 2504.34,
+   "text": "Muối trận chiến kéo dài hơn 1 phút nên cũng phải mất chút thời gian mới phám xong.",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.607
+  },
+  {
+   "start": 2504.34,
+   "end": 2508.02,
+   "text": "Tui đem chép hết những thành di vật củi để gà trà, cũng được 1 cái lông tạm.",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.607
+  },
+  {
+   "start": 2508.02,
+   "end": 2510.58,
+   "text": "Tui cũng trộn luôn cái ly của xiang linh để cải thiện chỉ số.",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.607
+  },
+  {
+   "start": 2510.58,
+   "end": 2513.3,
+   "text": "Cái nó này khá ngon này, rất là cường hóa củi quá.",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.607
+  },
+  {
+   "start": 2513.3,
+   "end": 2515.54,
+   "text": "Tiếp đến là cái lông, cũng không đến nối tệ.",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.607
+  },
+  {
+   "start": 2515.54,
+   "end": 2517.22,
+   "text": "Nhưng tui muốn vào rong thì lại cơ.",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.607
+  },
+  {
+   "start": 2517.22,
+   "end": 2521.06,
+   "text": "Tui đầu tư nốt 3 1 thành hóa để lấy 1 cái đông hồ tinh công và 1 cái hoa.",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.607
+  },
+  {
+   "start": 2521.06,
+   "end": 2522.26,
+   "text": "Cơ bản là cũng ngon.",
+   "avg_logprob": -0.217,
+   "no_speech_prob": 0.607
+  },
+  {
+   "start": 2522.34,
+   "end": 2524.02,
+   "text": "Giá như nó là 4 dòng thì tốt.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2524.02,
+   "end": 2527.22,
+   "text": "Hoa thì cường hóa bơ phích, còn cái đông hồ thì...",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2527.22,
+   "end": 2527.78,
+   "text": "YES!",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2527.78,
+   "end": 2529.46,
+   "text": "Cá 2 đều cường hóa rất ổn rồi.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2529.46,
+   "end": 2531.7,
+   "text": "44 161 cũng không đến nối tệ.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2531.7,
+   "end": 2533.14,
+   "text": "Sau này update thêm sao?",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2533.14,
+   "end": 2535.22,
+   "text": "Thánh di vật ngon thì không để thiếu vũ khí được.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2535.22,
+   "end": 2537.3,
+   "text": "Tui lựa chọn cây dén nát lan là mục tiểu.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2537.3,
+   "end": 2540.5,
+   "text": "Chạy 1 mạch tiến nát lan, bí hưởng thì sẽ dành được luôn mà quên mất.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2540.5,
+   "end": 2543.06,
+   "text": "Để làm bản mẽ thì còn phải đổi đặc sản quốc nữa.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2543.06,
+   "end": 2544.66,
+   "text": "Lại sách môn đi phám đá vậy.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2544.66,
+   "end": 2545.94,
+   "text": "Nhưng mà cũng không lâu lắm.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.284
+  },
+  {
+   "start": 2546.02,
+   "end": 2548.18,
+   "text": "Tụi có hệ thống nên bực tìm kiến rất xuân sẻ.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.83
+  },
+  {
+   "start": 2548.18,
+   "end": 2549.94,
+   "text": "Thu thập đùa mọi thứ là xong.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.83
+  },
+  {
+   "start": 2549.94,
+   "end": 2552.9,
+   "text": "Đào chấn động đã hoàn thành nhưng mà nguy liệu đột phá còn thiếu quá nhiều.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.83
+  },
+  {
+   "start": 2552.9,
+   "end": 2555.46,
+   "text": "Hiện tại, DILAC vẫn chưa được đấu tư thiên phú và mũ khí.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.83
+  },
+  {
+   "start": 2555.46,
+   "end": 2557.3,
+   "text": "Nhìn lượng đam nghe ra khá là gùi.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.83
+  },
+  {
+   "start": 2557.3,
+   "end": 2559.22,
+   "text": "Đào chấn động đã lên level 70.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.83
+  },
+  {
+   "start": 2559.22,
+   "end": 2561.06,
+   "text": "Này 61, mở đầu ngày mới.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.83
+  },
+  {
+   "start": 2561.06,
+   "end": 2562.58,
+   "text": "Tụi ủy ngay 2 con box tuần.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.83
+  },
+  {
+   "start": 2562.58,
+   "end": 2565.46,
+   "text": "Tụi cần rất nhiều nguy liệu từ 2 con box này để áp thiên phú nhân vật.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.83
+  },
+  {
+   "start": 2565.46,
+   "end": 2569.14,
+   "text": "Tụi cũng nhận được thành tiệu kháng ngầu nhưng cái giá phải chạm đi.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.83
+  },
+  {
+   "start": 2569.38,
+   "end": 2572.34,
+   "text": "Được dụi, đã đến lúc phám xách kiến phú cho DILAC và Benet rồi.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.743
+  },
+  {
+   "start": 2572.34,
+   "end": 2574.74,
+   "text": "Cả hai dùng chung 1 vụ xách kiến phú nên quá nhản.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.743
+  },
+  {
+   "start": 2574.74,
+   "end": 2577.38,
+   "text": "Mời ông xem này, còn ai giám chê DILAC của tui?",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.743
+  },
+  {
+   "start": 2577.38,
+   "end": 2579.46,
+   "text": "Thậm chí đây mới là cách mạnh nhất của ảnh.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.743
+  },
+  {
+   "start": 2579.46,
+   "end": 2581.38,
+   "text": "Và đây là thành quả của một ngay phạm.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.743
+  },
+  {
+   "start": 2581.38,
+   "end": 2583.38,
+   "text": "Và cuối cùng thì...",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.743
+  },
+  {
+   "start": 2583.38,
+   "end": 2585.86,
+   "text": "Chích cánh của Long Tích Tấp Sơn cuối cùng cũng hoàn thành.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.743
+  },
+  {
+   "start": 2585.86,
+   "end": 2588.66,
+   "text": "Bọn đất xem 3 thành thiệu khi đặt trong 12 kênh chịu lạnh nha.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.743
+  },
+  {
+   "start": 2588.66,
+   "end": 2590.98,
+   "text": "Uuuu, cảnh cánh trong đẹp quá trời.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.743
+  },
+  {
+   "start": 2590.98,
+   "end": 2593.38,
+   "text": "Từ giờ thì tạm biệt Long Tích Tấp Sơn nha.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.743
+  },
+  {
+   "start": 2593.86,
+   "end": 2596.58,
+   "text": "Vui chơi đủ dùi, giờ quay lại Inazuma mở dưng thôi.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.649
+  },
+  {
+   "start": 2596.58,
+   "end": 2599.06,
+   "text": "Không quên ngày xa vì nhận nhận nhận vụ mới ngay nhé.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.649
+  },
+  {
+   "start": 2599.06,
+   "end": 2600.74,
+   "text": "Còn nhớ thành tiệu ngay năm chín trước.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.649
+  },
+  {
+   "start": 2600.74,
+   "end": 2602.5,
+   "text": "Thì ra, đó là một chiếc dương ẩn.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.649
+  },
+  {
+   "start": 2602.5,
+   "end": 2603.78,
+   "text": "Tôi lại gần lụng mới biết.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.649
+  },
+  {
+   "start": 2603.78,
+   "end": 2607.46,
+   "text": "Tôi hoàn thành nhận vụ trước trị cây anh đào của Miyuki dường mở dương đến hết ngày.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.649
+  },
+  {
+   "start": 2607.46,
+   "end": 2610.34,
+   "text": "Ngày 6.2, vẫn là hành trình mở dương phun mét.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.649
+  },
+  {
+   "start": 2610.34,
+   "end": 2612.42,
+   "text": "Dành răng, tôi làm nhận vụ phương pháp trồng trọc.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.649
+  },
+  {
+   "start": 2612.42,
+   "end": 2615.22,
+   "text": "Nhận vụ này trong một phần thường rất hữu dụng, đó là hộp hạt giống.",
+   "avg_logprob": -0.28,
+   "no_speech_prob": 0.649
+  },
+  {
+   "start": 2615.3,
+   "end": 2618.5,
+   "text": "Công dụng của nó là tạo hạt giống hoa với những mật phẩm mình nhận được quanh mét.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.347
+  },
+  {
+   "start": 2618.5,
+   "end": 2621.3,
+   "text": "Sau đó, tôi làm những vụ ca nhi để xóa tan mưa sân xét.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.347
+  },
+  {
+   "start": 2621.3,
+   "end": 2624.18,
+   "text": "Nhận vụ này gồm 4 phần, cơ chế giải đối rất hữu.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.347
+  },
+  {
+   "start": 2624.18,
+   "end": 2627.46,
+   "text": "Nhưng cực 1 cái là phải bay vòng vòng trình thủ công từng cốt chụng 1.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.347
+  },
+  {
+   "start": 2627.46,
+   "end": 2630.5,
+   "text": "Sau mỗi kỷ là lụng 40.000 thạch, nhưng cũng rất dừng đáng.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.347
+  },
+  {
+   "start": 2630.5,
+   "end": 2632.98,
+   "text": "Sau viện, tôi tiến hành clear dương đào này luôn.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.347
+  },
+  {
+   "start": 2632.98,
+   "end": 2635.06,
+   "text": "Tôi không nhớ là có thành tiệu sửa nhà luôn đấy.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.347
+  },
+  {
+   "start": 2635.06,
+   "end": 2637.3,
+   "text": "Giờ cái nhà chọn này trong đáng tiền hơn rồi.",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.347
+  },
+  {
+   "start": 2637.3,
+   "end": 2639.78,
+   "text": "Tựa ít cốc đủ 10 rô xanh và...",
+   "avg_logprob": -0.283,
+   "no_speech_prob": 0.347
+  },
+  {
+   "start": 2639.86,
+   "end": 2643.95,
+   "text": "Cùi vỡi!",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.369
+  },
+  {
+   "start": 2643.95,
+   "end": 2646.91,
+   "text": "Ngày 6, 3, tôi tiến vào lao hoàn để thương nhiễn tiếp.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.369
+  },
+  {
+   "start": 2646.91,
+   "end": 2651.23,
+   "text": "Mặc dù đổi hình Tainary chưa có gì nền bộ, nhưng mà từng giới đi đắc làm rất tốt việc của anh.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.369
+  },
+  {
+   "start": 2651.23,
+   "end": 2653.07,
+   "text": "Tôi đã vượt qua phòng 1 khá dễ dàng.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.369
+  },
+  {
+   "start": 2653.07,
+   "end": 2657.07,
+   "text": "Sao đến phòng 2, ở nơi trên đổi hình của Tainary đã lỗ rõ điểm yếu là thiếu kháng thảo.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.369
+  },
+  {
+   "start": 2657.07,
+   "end": 2661.07,
+   "text": "Tôi phải lập lại đổi hình với cô lây và đúng là hiệu quả đã cải thiện đáng đẻ.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.369
+  },
+  {
+   "start": 2661.07,
+   "end": 2665.07,
+   "text": "Ở nơi dưới, mặc dù có truyền khó khăn nhưng mà đi lắc của tôi tỏ ra rất đáng tin đậy.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.369
+  },
+  {
+   "start": 2665.07,
+   "end": 2667.79,
+   "text": "Và này, tôi cũng không ngờ là ảnh cái được nhiều đam dậy luôn ạ.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.433
+  },
+  {
+   "start": 2667.79,
+   "end": 2672.19,
+   "text": "Đến phòng 3, ngay từ những phút đầu tiêm của trận chiến, tôi đã thấy không có tý hy vọng rồi.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.433
+  },
+  {
+   "start": 2672.19,
+   "end": 2676.83,
+   "text": "Tainary của tôi mất 30 giây mới gây được 1 phần tác vào con quái thì không để clear 4 con nhanh được.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.433
+  },
+  {
+   "start": 2676.83,
+   "end": 2679.79,
+   "text": "Tôi chức nhận dừng trận chiến tại đây và dành thời gian nắng cấp đổi hình.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.433
+  },
+  {
+   "start": 2679.79,
+   "end": 2681.79,
+   "text": "Thời gian còn lại trong ngày tôi tiếp tục mở dương.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.433
+  },
+  {
+   "start": 2682.91,
+   "end": 2686.19,
+   "text": "Ngày 6, 4, hôm nay là ngày ao cảnh hiểm act reset.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.433
+  },
+  {
+   "start": 2686.19,
+   "end": 2688.43,
+   "text": "Mà trong tuần đầu sẽ có sự kiện buông nổ nhiễu loạn.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.433
+  },
+  {
+   "start": 2688.43,
+   "end": 2691.71,
+   "text": "Sự kiện này cho phép chúng ta farm các bộ thành vi vật khi chơi mất khó.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.433
+  },
+  {
+   "start": 2691.79,
+   "end": 2693.95,
+   "text": "Mặc dù tim của tôi yếu nhưng mà tôi có ác mạng.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2693.95,
+   "end": 2696.75,
+   "text": "Tôi sử dụng đích chính của tôi, giúp clear quái vật để tôi nhận thử.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2696.75,
+   "end": 2699.55,
+   "text": "Hôm nay, tôi quyết dành 50 giây vỡ để farm thành vi vật.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2699.55,
+   "end": 2703.15,
+   "text": "Tôi cũng không rõ là sự kiện niếu loạn buông nổ có bốc thì lại nhận thêm thành vi vật không.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2703.15,
+   "end": 2705.15,
+   "text": "Nhưng mà tôi cảm giác được nhận thêm rất nhiều.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2705.15,
+   "end": 2707.71,
+   "text": "Wow, được cái lông khá ngon nè.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2707.71,
+   "end": 2709.23,
+   "text": "Thái liên hành cũng ok luôn.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2709.23,
+   "end": 2711.95,
+   "text": "Tôi thử vận mày với cái lông của Tainary thì...",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2711.95,
+   "end": 2717.68,
+   "text": "Con rồi.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2717.68,
+   "end": 2720.64,
+   "text": "Hơi mi, nhưng mà thôi có đồ ngon là tốt rồi.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2720.64,
+   "end": 2721.84,
+   "text": "Lộm luôn thôi.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2721.84,
+   "end": 2723.28,
+   "text": "Thử tiếp về con hoa nào.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.291
+  },
+  {
+   "start": 2725.23,
+   "end": 2727.55,
+   "text": "Ui cha, hôm nay tôi chúng số rồi.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.186
+  },
+  {
+   "start": 2727.55,
+   "end": 2730.67,
+   "text": "Mặc dù farm rất nhiều, nhưng mà Tainary của tôi vẫn thiếu mũ và ly nè.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.186
+  },
+  {
+   "start": 2730.67,
+   "end": 2732.11,
+   "text": "Cái này farm sao vậy?",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.186
+  },
+  {
+   "start": 2732.11,
+   "end": 2734.51,
+   "text": "Với tôi thì ngày hôm nay là quá mí mà ăn rồi.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.186
+  },
+  {
+   "start": 2734.51,
+   "end": 2737.95,
+   "text": "Không dừng ở đấy tôi lại tới tài chiến lôi thần ấy để đôi phá thiên phú.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.186
+  },
+  {
+   "start": 2737.95,
+   "end": 2741.23,
+   "text": "Khắc mọi khi, lần này tôi đã có sự trợ giúp của một bạn viewer.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.186
+  },
+  {
+   "start": 2741.23,
+   "end": 2743.87,
+   "text": "Cảm ơn Hoshi Yuna Việt Nam rất nhiều nha.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.186
+  },
+  {
+   "start": 2743.87,
+   "end": 2747.23,
+   "text": "Sau đó, tôi đi lụt nốt 100% rừng đảo Yashiyori.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.186
+  },
+  {
+   "start": 2747.23,
+   "end": 2750.35,
+   "text": "Ngày 65, đã đến lúc tôi kiến tới đảo Serai.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.186
+  },
+  {
+   "start": 2750.35,
+   "end": 2752.35,
+   "text": "Nơi ụ ám bậc nhất trên Shin.",
+   "avg_logprob": -0.287,
+   "no_speech_prob": 0.186
+  },
+  {
+   "start": 2752.51,
+   "end": 2755.15,
+   "text": "Tại đây, tôi cũng tranh thù mở rước và mở điểm dịch chuyển.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.397
+  },
+  {
+   "start": 2755.15,
+   "end": 2757.47,
+   "text": "Sau đó, tôi làm những vụ chính trên đảo Serai.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.397
+  },
+  {
+   "start": 2757.47,
+   "end": 2760.99,
+   "text": "Hoàn thành nhiệm vụ này, chúng ta sẽ được đưa tới hòn đảo cuối cùng của Inazuma.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.397
+  },
+  {
+   "start": 2760.99,
+   "end": 2762.35,
+   "text": "Đó là hòn đảo sương mù.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.397
+  },
+  {
+   "start": 2762.35,
+   "end": 2764.51,
+   "text": "Hành trình của chúng ta đã đến tuần thứ 10 rồi đấy.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.397
+  },
+  {
+   "start": 2764.51,
+   "end": 2768.19,
+   "text": "Tôi sẽ có một chút thay đổi trong thứ thách để đem lại trải nghiệm tốt hơn cho người xem.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.397
+  },
+  {
+   "start": 2768.19,
+   "end": 2771.55,
+   "text": "Từ giờ, tôi sẽ giảm số ngay Robender nhân vật xuống còn 25 ngày.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.397
+  },
+  {
+   "start": 2771.55,
+   "end": 2773.79,
+   "text": "Việc giảm như vậy giúp tôi có nhiều nhân vật hơn.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.397
+  },
+  {
+   "start": 2773.79,
+   "end": 2777.31,
+   "text": "Nhưng cũng đủ nghĩa với việc phải kiếm nhiều nguyên thạch và tình toàn tành nguyên cho các nhân vật.",
+   "avg_logprob": -0.157,
+   "no_speech_prob": 0.397
+  },
+  {
+   "start": 2777.39,
+   "end": 2779.39,
+   "text": "Hi vọng mấy ông sẽ hài lòng với thay đổi này.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.675
+  },
+  {
+   "start": 2779.39,
+   "end": 2782.91,
+   "text": "Ngay 6.6, mở đầu ngày, tôi làm những vụ của đội ẩm thực này.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.675
+  },
+  {
+   "start": 2782.91,
+   "end": 2784.91,
+   "text": "Đội này có khá nhiều những vụ nhỏ quanh map.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.675
+  },
+  {
+   "start": 2784.91,
+   "end": 2787.23,
+   "text": "Nếu gặp thì cứ làm lên luôn nhạ, kéo quên đấy.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.675
+  },
+  {
+   "start": 2787.23,
+   "end": 2790.35,
+   "text": "Sau suổi, tôi lên đường đến đảo Serai, nơi sấm xét ngữ chị.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.675
+  },
+  {
+   "start": 2790.35,
+   "end": 2793.71,
+   "text": "Thực ra, tôi thấy cũng bình thường. Không nhiều bằng đảo Yashiyori.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.675
+  },
+  {
+   "start": 2793.71,
+   "end": 2795.87,
+   "text": "Hồi mới tới đảo, tôi bị xét đánh quá trời.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.675
+  },
+  {
+   "start": 2795.87,
+   "end": 2800.03,
+   "text": "Vẫn thù tục thường lệ, tôi đi dọc vào biển nhạt hết dương rồi 10 tiếng vào giữa map.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.675
+  },
+  {
+   "start": 2800.03,
+   "end": 2803.07,
+   "text": "Wow, sao lại có con tàu đắm trôi vào trong hang này nhỉ?",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.675
+  },
+  {
+   "start": 2803.23,
+   "end": 2806.59,
+   "text": "Trong này có 1 cơ quan giải đối cũng lăng nhanh, nhưng cũng không làm khó đốt tuy.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.475
+  },
+  {
+   "start": 2806.59,
+   "end": 2809.47,
+   "text": "Sau đấy, tôi đi mở quá thân tượng cho việc khám phá dễ dàng hơn.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.475
+  },
+  {
+   "start": 2810.83,
+   "end": 2813.79,
+   "text": "Ngay cạnh đó là những vụ không báo Serai, nên tôi làm luôn.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.475
+  },
+  {
+   "start": 2813.79,
+   "end": 2816.19,
+   "text": "Lại là giải đối, nhưng cái này quá dễ với tuy.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.475
+  },
+  {
+   "start": 2816.19,
+   "end": 2818.19,
+   "text": "Cái này cũng tương tự chứ gì?",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.475
+  },
+  {
+   "start": 2819.31,
+   "end": 2821.31,
+   "text": "Ờ, thử lại đần nữa nào.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.475
+  },
+  {
+   "start": 2821.31,
+   "end": 2822.43,
+   "text": "Một lần nữa.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.475
+  },
+  {
+   "start": 2822.43,
+   "end": 2825.31,
+   "text": "Và sau 1 hồi, tôi thứ đi, thử lại thì cũng tìm ra cách giải.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.475
+  },
+  {
+   "start": 2825.31,
+   "end": 2828.99,
+   "text": "Mấy ông cứ tìm con đường nào của chữ T, C, L như tôi đi là được.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.475
+  },
+  {
+   "start": 2828.99,
+   "end": 2831.79,
+   "text": "Đây là câu đầu tiện, sau đó là câu thứ 2.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.475
+  },
+  {
+   "start": 2833.39,
+   "end": 2834.59,
+   "text": "Vậy là xong.",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2834.59,
+   "end": 2838.03,
+   "text": "Nhưng nhiệm vụ chưa dừng ở đó đâu, còn phải hộ tống Toshiko về doanh trại nữa.",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2838.03,
+   "end": 2839.63,
+   "text": "Có 3 đợt quài đến thăm luôn đấy.",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2839.63,
+   "end": 2841.15,
+   "text": "May mặt tôi có đi lắc đánh.",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2841.15,
+   "end": 2843.79,
+   "text": "Hộ tống xong là lũ ngay 50 nguyên thạch và 1 thanh tiệu.",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2843.79,
+   "end": 2847.63,
+   "text": "Ngay sau vậy, vẫn là hành trình ngày dương mở mép cũng sương sương rồi.",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2847.63,
+   "end": 2849.31,
+   "text": "Tôi nghỉ tay đi làm nhiệm vụ lớn của đảo.",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2849.31,
+   "end": 2851.23,
+   "text": "Nó có tên là Chuyến sân Sâm Serai.",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2851.23,
+   "end": 2855.15,
+   "text": "Nhịp vụ này giải thích nguồn gốc của cân báo Sét ĩnh kiểu, nam bao phù đảo Serai.",
+   "avg_logprob": -0.304,
+   "no_speech_prob": 0.022
+  },
+  {
+   "start": 2855.23,
+   "end": 2858.35,
+   "text": "Theo trên những nhà mạo hiểm, chúng ta sẽ từng bước vào phòng ấn lõ sớm Sét.",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.4
+  },
+  {
+   "start": 2858.35,
+   "end": 2861.55,
+   "text": "Chúng ta sẽ tìm và nói chuyện với một con mèo bên nói tên Neko.",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.4
+  },
+  {
+   "start": 2861.55,
+   "end": 2864.03,
+   "text": "Nó sẽ hướng dẫn ta cách giải máy phòng ấn các thứng thạch.",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.4
+  },
+  {
+   "start": 2864.03,
+   "end": 2867.15,
+   "text": "Giải máy phòng ấn trông hơi lăng nhanh nhưng hiểu cơ chế thì khá dễ.",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.4
+  },
+  {
+   "start": 2867.15,
+   "end": 2870.35,
+   "text": "Sau một hồi giải máy tránh chê thì tôi được chân tới đỉnh Amakumo.",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.4
+  },
+  {
+   "start": 2870.35,
+   "end": 2872.35,
+   "text": "Tại đây, giam giữ một thực thể sớm Sét.",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.4
+  },
+  {
+   "start": 2872.35,
+   "end": 2874.99,
+   "text": "Nó là hiện thân của lối điểu bằng hoàn hận út trời.",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.4
+  },
+  {
+   "start": 2874.99,
+   "end": 2878.03,
+   "text": "Sau khi đánh bại nó, hồn đảo đã chính thức được trở lại sự bình yên.",
+   "avg_logprob": -0.251,
+   "no_speech_prob": 0.4
+  },
+  {
+   "start": 2878.51,
+   "end": 2881.31,
+   "text": "Thực ra, cân bảo trên đảo Serai không tự nhiên mà sinh ra.",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.481
+  },
+  {
+   "start": 2881.31,
+   "end": 2883.07,
+   "text": "Nó là một chuỗi bí kịch kết nối nhau.",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.481
+  },
+  {
+   "start": 2883.07,
+   "end": 2886.27,
+   "text": "Sau này, khi tới đảo Tosurumi, tôi sẽ kể cho nghe.",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.481
+  },
+  {
+   "start": 2886.27,
+   "end": 2890.67,
+   "text": "Sau cái kết thúc nhận vụ trên đảo Serai, tôi gặp Kamma để được đưa tới đạo sương mù Tosurumi.",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.481
+  },
+  {
+   "start": 2891.39,
+   "end": 2895.87,
+   "text": "Ngay sau 8, sau khi đã hoàn thành những vụ đảo Serai, tôi tới cái anh đào thần nhận thưởng.",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.481
+  },
+  {
+   "start": 2895.87,
+   "end": 2899.55,
+   "text": "Cũng đã 7 miếng PT rồi, nhưng tôi sẽ roll từng roll để lấy nhân vật năm sau.",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.481
+  },
+  {
+   "start": 2899.55,
+   "end": 2905.23,
+   "text": "Và... lạ ra đi lắc lên C1 Rui.",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.481
+  },
+  {
+   "start": 2905.23,
+   "end": 2906.43,
+   "text": "Vê cam dance rồi nhỉ?",
+   "avg_logprob": -0.315,
+   "no_speech_prob": 0.481
+  },
+  {
+   "start": 2906.51,
+   "end": 2911.39,
+   "text": "Không thể để Thaynari thua thiệt được, tôi làm luôn nhận vụ ý tác hàng ngày, và Thaynari cũng C1 luôn.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.072
+  },
+  {
+   "start": 2911.39,
+   "end": 2916.59,
+   "text": "Thực ra cũng hèn, hôm nay là ngày nhận thưởng dây luyện tiến bức cuối cùng, nên hôm nay tôi đã có 2 DPS lên C1.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.072
+  },
+  {
+   "start": 2916.59,
+   "end": 2920.91,
+   "text": "Tạ lên C1 rồi thì phải lên cấp 90 thôi, tôi dành chân nhận farm nguy liệu đột phá.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.072
+  },
+  {
+   "start": 2920.91,
+   "end": 2926.59,
+   "text": "Wow, đúng là mới lên C1 của khác, nhưng mà vẫn còn thiếu nhiều tay nguyên quá, lại phải farm tham xách mới đủ.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.072
+  },
+  {
+   "start": 2926.59,
+   "end": 2929.15,
+   "text": "Farm đủ xách cũng là lúc tôi đặt hạng mạo hiểm 5 năm.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.072
+  },
+  {
+   "start": 2929.15,
+   "end": 2930.99,
+   "text": "Cứ mạo hiểm đã đặt cốc 8.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.072
+  },
+  {
+   "start": 2930.99,
+   "end": 2934.35,
+   "text": "Tiếp vợ, từ giờ tôi có thể có công quân khắc dễ dạng hơn nhiều rồi.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.072
+  },
+  {
+   "start": 2934.43,
+   "end": 2936.43,
+   "text": "Về Cathery nhận thưởng lốt nèo.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 2936.43,
+   "end": 2940.27,
+   "text": "Oh, cứ tưởng là farm đủ xách rồi, ai dẻ còn thiếu một xíu xíu.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 2940.27,
+   "end": 2941.47,
+   "text": "Thôi để sao vậy?",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 2941.47,
+   "end": 2943.95,
+   "text": "Tôi vào dùng thử San Bron và một số nhân vật khác.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 2943.95,
+   "end": 2946.59,
+   "text": "Lấy nguyên liệu là chính chứ mà nhân vật này tôi có hết rồi.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 2946.59,
+   "end": 2950.19,
+   "text": "Hết việc tôi lại gây quát Xavier làm nhân vụ, mình hôm nay quên ảnh miết.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 2950.19,
+   "end": 2951.31,
+   "text": "Sorry!",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 2951.31,
+   "end": 2954.75,
+   "text": "Tôi cây trở lại đào C-Ride mở dương, kết thúc một ngày cực xứn xé.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 2954.75,
+   "end": 2958.59,
+   "text": "Ngày sau 9, tôi đang đi mở mam như mọi khi thì tình cơ nghe được 4 bức tranh.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 2958.59,
+   "end": 2961.71,
+   "text": "Đây là nhân vụ ẩn trên đào C-Ride mang tiên hối ức C-Ride.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.148
+  },
+  {
+   "start": 2964.35,
+   "end": 2968.35,
+   "text": "Tiếm trong ảnh là xong, cái đầu tiên là đây, thứ 2 là như thế này.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.875
+  },
+  {
+   "start": 2968.35,
+   "end": 2974.35,
+   "text": "Cái số 3 phải tìm góc hơi cực một chút, mấy ông từ sau cái cây nho nho lên rồi trục giống tôi là được.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.875
+  },
+  {
+   "start": 2974.35,
+   "end": 2977.07,
+   "text": "Cái số 4 là trục đà mèo.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.875
+  },
+  {
+   "start": 2977.07,
+   "end": 2980.35,
+   "text": "Vậy là xong trong một nốt nhạc, lụn luôn 30 nguyên thạch.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.875
+  },
+  {
+   "start": 2980.35,
+   "end": 2984.19,
+   "text": "Đã lâu rồi, tôi không vào ấm chân ca, hiện tại tôi vẫn chỉ ở level 7.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.875
+  },
+  {
+   "start": 2984.19,
+   "end": 2986.51,
+   "text": "Tôi đặt một số thừa dụng ra để trong cây thành tiểu.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.875
+  },
+  {
+   "start": 2986.51,
+   "end": 2989.31,
+   "text": "Eo, trong cái ấm như bãi dáng vậy.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.875
+  },
+  {
+   "start": 2989.31,
+   "end": 2993.55,
+   "text": "Thôi, hiện tại chưa có thời gian trang trí, sau này chắc chắn tôi sẽ xinh nó thật đẹp.",
+   "avg_logprob": -0.258,
+   "no_speech_prob": 0.875
+  },
+  {
+   "start": 2993.79,
+   "end": 2997.79,
+   "text": "Quay trở lại với hành trình mở dương, ở ngay trung tâm đạo C-Ride có cái động to dữ.",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.062
+  },
+  {
+   "start": 2997.79,
+   "end": 3001.79,
+   "text": "Rưới này giải đồ cũng khá làng nằm, nó cứ xanh đỏ tím vàng làm tư khóa cả mắt.",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.062
+  },
+  {
+   "start": 3001.79,
+   "end": 3003.79,
+   "text": "Rai hoay một hồi, cũng tìm đến hết đường giả.",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.062
+  },
+  {
+   "start": 3003.79,
+   "end": 3006.99,
+   "text": "Phần thường ở cuối con đường là một dương hiếm với một dương siêu cấp.",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.062
+  },
+  {
+   "start": 3006.99,
+   "end": 3009.31,
+   "text": "Hmm, cũng tạm thạm.",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.062
+  },
+  {
+   "start": 3009.31,
+   "end": 3016.11,
+   "text": "Và cách quả la, 100% đạo C-Ride vẫn còn đảo Wattatsumi và Wattatsurumi nữa để danh không sâu vậy.",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.062
+  },
+  {
+   "start": 3016.11,
+   "end": 3019.47,
+   "text": "Ngay 70, mở đầu ngay là 2 con boss tuần quen thuộc.",
+   "avg_logprob": -0.306,
+   "no_speech_prob": 0.062
+  },
+  {
+   "start": 3019.79,
+   "end": 3022.35,
+   "text": "Thanary level 90 rồi thì Dilac cũng phải thế.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.154
+  },
+  {
+   "start": 3022.35,
+   "end": 3025.07,
+   "text": "Tôi pham một chút nguy liệu cho Dilac được được phá level 90.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.154
+  },
+  {
+   "start": 3025.07,
+   "end": 3027.39,
+   "text": "Sau đó là tới sửa cầu cho Xavier.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.154
+  },
+  {
+   "start": 3027.39,
+   "end": 3032.35,
+   "text": "Thực sự, nhậm vũ trên Inezuma có một làm nhanh cũng không được, nó cứ chia từ ngành làm tôi rất lễ quen.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.154
+  },
+  {
+   "start": 3032.35,
+   "end": 3035.07,
+   "text": "Xong suội thì cũng là lúc tôi tới đảo Tatsurumi.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.154
+  },
+  {
+   "start": 3035.07,
+   "end": 3038.59,
+   "text": "Tại đây, chúng ta sẽ cùng Ru gặp cửa những người dân thông một bộ tập cố xưa.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.154
+  },
+  {
+   "start": 3038.59,
+   "end": 3042.59,
+   "text": "Họ đang lên kế hoạch chẳng bị một lết tên lớn, dâng lên thần linh của họ là lôi điều canna.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.154
+  },
+  {
+   "start": 3042.59,
+   "end": 3046.35,
+   "text": "Quay trở lại em vụ, tôi gặp Ru đang nói chuyện với Ype và Makiri.",
+   "avg_logprob": -0.301,
+   "no_speech_prob": 0.154
+  },
+  {
+   "start": 3046.43,
+   "end": 3049.15,
+   "text": "Nói chuyện một hồi, thì cũng ra vấn đề là tim lông vụ.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.116
+  },
+  {
+   "start": 3049.15,
+   "end": 3054.26,
+   "text": "Đây, mấy ông biết tại sao nhận vụ này nằm trong số những nhận vụ trồng cảm nhất rồi đấy.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.116
+  },
+  {
+   "start": 3054.26,
+   "end": 3056.26,
+   "text": "Mờ mờ mình bị trả nhiễn thế gì cả.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.116
+  },
+  {
+   "start": 3056.26,
+   "end": 3058.5,
+   "text": "Đã thế là còn phải làm tận 4 điểm mới xong.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.116
+  },
+  {
+   "start": 3058.5,
+   "end": 3061.78,
+   "text": "Mỗi một cái cây mà giải đồ quá trời, 3 con tiên linh nước này,",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.116
+  },
+  {
+   "start": 3061.78,
+   "end": 3065.22,
+   "text": "rồi đến cảm mấy cái tụ điện này nữa, tôi tuấn nguyên ngày chỉ làm nhận vụ ấy.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.116
+  },
+  {
+   "start": 3065.22,
+   "end": 3067.94,
+   "text": "Sau đấy tôi quay lại gặp Sumida để hoàn thành nhận vụ.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.116
+  },
+  {
+   "start": 3067.94,
+   "end": 3070.82,
+   "text": "Cuối ngày, tôi có 9 rô xanh và thử trước mấy mắn.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.116
+  },
+  {
+   "start": 3070.82,
+   "end": 3072.82,
+   "text": "Kết quả là chỉ nhận được mỗi cô lây.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.116
+  },
+  {
+   "start": 3073.14,
+   "end": 3076.5,
+   "text": "Ngay bể mốt, tôi gặp Xavier để diễn thành bước cuối cùng của nhận vụ.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.586
+  },
+  {
+   "start": 3076.5,
+   "end": 3079.38,
+   "text": "Đầu tiên là kiếm 3 linh kiện thất lạc, đơn giản.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.586
+  },
+  {
+   "start": 3079.38,
+   "end": 3082.1,
+   "text": "Tiếp so đó là bờ vệ Xavier khỏi 2 tiên pha tuổi.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.586
+  },
+  {
+   "start": 3082.1,
+   "end": 3085.78,
+   "text": "Và cuối cùng là bờ vệ bộ máy của Xavier hoạt động khỏi mấy tiên pha tuổi.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.586
+  },
+  {
+   "start": 3085.78,
+   "end": 3087.46,
+   "text": "Ban đầu, tôi cứ nghĩ là dễ.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.586
+  },
+  {
+   "start": 3087.46,
+   "end": 3090.42,
+   "text": "Nhưng xong đến Phase 2, tôi bị 3 tiên này hành cho ra bã.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.586
+  },
+  {
+   "start": 3091.22,
+   "end": 3093.3,
+   "text": "Tôi phải đuổi ngay đổi hình đi lắc để thủ lại.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.586
+  },
+  {
+   "start": 3093.3,
+   "end": 3097.14,
+   "text": "Con pha tuy nước này rất khó chịu, nó có skill giam cầm làm tôi không dít chuyển được.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.586
+  },
+  {
+   "start": 3097.22,
+   "end": 3101.14,
+   "text": "Mặc dù khá khó khăn, nhưng chỉ cần tiêu diệt được tiên giam cầm, là mọi chuyện đã coi như xong.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.161
+  },
+  {
+   "start": 3102.02,
+   "end": 3104.26,
+   "text": "Vậy là chuyện nhận vụ giải đằng đã cuối cùng cũng xong.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.161
+  },
+  {
+   "start": 3104.26,
+   "end": 3112.18,
+   "text": "Sau đó, tôi nhờ bạn bể đánh lôi thân giúp tôi.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.161
+  },
+  {
+   "start": 3112.18,
+   "end": 3113.78,
+   "text": "Có ai online là tôi nhớ luôn.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.161
+  },
+  {
+   "start": 3113.78,
+   "end": 3116.42,
+   "text": "Lần này, rất cảm ơn yêu các chị vô tô nha.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.161
+  },
+  {
+   "start": 3116.42,
+   "end": 3119.54,
+   "text": "Sau đó, tôi tiếp tục quay lại đảo Tatsurumi để làm nhận vụ.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.161
+  },
+  {
+   "start": 3119.54,
+   "end": 3120.66,
+   "text": "Hi!",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.161
+  },
+  {
+   "start": 3120.66,
+   "end": 3122.66,
+   "text": "Còn 2 ngày nữa mới rắt khỏi nhận vụ này.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.161
+  },
+  {
+   "start": 3122.66,
+   "end": 3124.34,
+   "text": "Hôm nay là nhận vụ giải đố.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.161
+  },
+  {
+   "start": 3124.34,
+   "end": 3126.34,
+   "text": "Mày qua, tôi rất thích những nhận vụ giải đố.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.161
+  },
+  {
+   "start": 3126.42,
+   "end": 3129.22,
+   "text": "Nhận vụ đầu đơn giản, chỉ cần thắp sáng những viên đá theo thứ tự.",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.692
+  },
+  {
+   "start": 3129.22,
+   "end": 3131.86,
+   "text": "Nhận vụ thứ 2 là dít chuyển sắp xếp những hoàn đá.",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.692
+  },
+  {
+   "start": 3131.86,
+   "end": 3132.82,
+   "text": "Khá hay!",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.692
+  },
+  {
+   "start": 3132.82,
+   "end": 3134.34,
+   "text": "Lần mỏng một xíu là xong.",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.692
+  },
+  {
+   "start": 3134.34,
+   "end": 3137.86,
+   "text": "Nhưng đến nhận vụ cuối lại châm cảm, lại là sương mùa và tiên linh dẫn đường.",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.692
+  },
+  {
+   "start": 3137.86,
+   "end": 3141.14,
+   "text": "Đó là trước cả tôi bị lạc được mấy lần vì quên thắp sáng mấy cái chủ lôi này.",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.692
+  },
+  {
+   "start": 3141.14,
+   "end": 3144.98,
+   "text": "Sau cùng, tôi nhận 50 nguyên thạch, có như mùa đáp tổn thương tinh thần nguyên ngày hôm nay.",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.692
+  },
+  {
+   "start": 3144.98,
+   "end": 3148.58,
+   "text": "Ngày 72, tôi sản nhựa cảnh nguyên lượng đột phá phít sổ.",
+   "avg_logprob": -0.245,
+   "no_speech_prob": 0.692
+  },
+  {
+   "start": 3148.66,
+   "end": 3150.66,
+   "text": "Mục tiêu lần này là level 90 phít sổ.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.555
+  },
+  {
+   "start": 3150.66,
+   "end": 3153.7,
+   "text": "Sau đó, tôi lại tới đảo tờ Surumi để phá hủy cây cư chú.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.555
+  },
+  {
+   "start": 3153.7,
+   "end": 3155.62,
+   "text": "Nhận vụ này cũng kỳ cục thật.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.555
+  },
+  {
+   "start": 3155.62,
+   "end": 3158.26,
+   "text": "Ngay đầu thì giúp cây nở, giờ thì lại bắt chặt cây đi.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.555
+  },
+  {
+   "start": 3158.26,
+   "end": 3161.22,
+   "text": "Tôi phải lôi hoay phá hủy 3 cái cây cư chú trong màn sương dày đặc.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.555
+  },
+  {
+   "start": 3161.22,
+   "end": 3164.26,
+   "text": "Nhưng lần này rất nhanh, phá hủy 3 cây là xong hiệm vụ hôm nay.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.555
+  },
+  {
+   "start": 3164.26,
+   "end": 3167.7,
+   "text": "Ngày 73, mở đầu ngày, tôi đến Sam Mạc sản nhựa lấy xét kinh nghiệm.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.555
+  },
+  {
+   "start": 3167.7,
+   "end": 3170.58,
+   "text": "Tiện thể farm thêm nhiều bao tử nấm quỷ để nâng cấp thiên phố.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.555
+  },
+  {
+   "start": 3170.58,
+   "end": 3173.38,
+   "text": "Đúng dịp lao hoàn với reset, tôi vào thử chiến đấu luôn.",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3173.38,
+   "end": 3175.46,
+   "text": "Ở đường 9, tôi chơi 2 đội hình này.",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3175.46,
+   "end": 3178.1,
+   "text": "Từng này đã quá quên thuộc rủi, tôi vượt có các phòng dễ dàng.",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3178.1,
+   "end": 3181.14,
+   "text": "Chỉ có điều vẫn là cái con kỳ lân này là mất chút thời gian thôi.",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3181.14,
+   "end": 3182.98,
+   "text": "May mà có cây gia cánh tim.",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3182.98,
+   "end": 3185.14,
+   "text": "Sa đến tầng 10, tôi chơi đội hình này.",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3185.14,
+   "end": 3188.34,
+   "text": "Vì thiếu hiệu là ở tầng dưới, nên tôi chấp nhận thất bại phong 3.",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3188.34,
+   "end": 3191.3,
+   "text": "Tôi cũng hơi lười để không khác đại đầu con tê giác vậy.",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3191.3,
+   "end": 3194.9,
+   "text": "Sau đó, tôi trở lại đảo tờ Surumi để hoàn thành nốt chỗ nhận vụ.",
+   "avg_logprob": -0.241,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3194.98,
+   "end": 3196.9,
+   "text": "Vừa tới nơi, không cảnh rất đáng rợ.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.56
+  },
+  {
+   "start": 3196.9,
+   "end": 3199.14,
+   "text": "Một màu đỏ ú ám bao phủ khắp cả hồn đảo,",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.56
+  },
+  {
+   "start": 3199.14,
+   "end": 3201.94,
+   "text": "tôi sẽ kẻ cho mấy ông nghe về lương nguyên của đảo tờ Surumi.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.56
+  },
+  {
+   "start": 3201.94,
+   "end": 3206.74,
+   "text": "Hàng ngang năm trước, ngựa trên đảo tờ Surumi có một con lôi điểu, tên là Kanna Kappachi.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.56
+  },
+  {
+   "start": 3206.74,
+   "end": 3210.82,
+   "text": "Những cư dân trên đảo rất tôn thờ lôi điểu và thường xuyên hiền tiết cùng phẩm để câu may.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.56
+  },
+  {
+   "start": 3210.82,
+   "end": 3213.78,
+   "text": "Trong một lần, lôi điểu đã tình cơ nghe thấy rộng hát của bè Roo.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.56
+  },
+  {
+   "start": 3213.78,
+   "end": 3216.9,
+   "text": "Rộng hát trong trẻo và mê Roo của cậu bé làm mê hoặc nôi điểu.",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.56
+  },
+  {
+   "start": 3216.9,
+   "end": 3219.54,
+   "text": "Bè Roo hứa xuyên hát cho lôi điểu vào lần gặp tiếp theo.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.775
+  },
+  {
+   "start": 3219.54,
+   "end": 3223.22,
+   "text": "Nhưng bình kịch bắt đầu xảy ra thì dân làng lầm tưởng lôi điểu muốn thiên tê bè Roo,",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.775
+  },
+  {
+   "start": 3223.22,
+   "end": 3225.46,
+   "text": "và chuỗi bình kịch tai họa cũng bắt đầu từ đây,",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.775
+  },
+  {
+   "start": 3225.46,
+   "end": 3227.78,
+   "text": "phẫn nộ và đau đơn khi thế rùa bị sát hại.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.775
+  },
+  {
+   "start": 3227.78,
+   "end": 3231.78,
+   "text": "Ta bay chỉ đã huyền diệt toàn bộ tờ Surumi và dáng một phong là bố hạn lê hòn đảo.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.775
+  },
+  {
+   "start": 3231.78,
+   "end": 3235.22,
+   "text": "Chính thứ đó, đảo Seirai cũng bị ảnh hưởng bởi cơn dẫn của lôi điểu.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.775
+  },
+  {
+   "start": 3235.22,
+   "end": 3238.9,
+   "text": "Toàn bộ hòn đảo Seirai bị lôi điểu tàn pháng nghiêm trọng khiến đích thân Raiden A,",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.775
+  },
+  {
+   "start": 3238.9,
+   "end": 3240.9,
+   "text": "ra tay trảm sắt Campuchy.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3240.9,
+   "end": 3245.78,
+   "text": "Sau đó, tàn giữa sức mạnh và ảnh nghiệm được phong ẩn dưới đảo Seirai bởi đen Asa xe.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3245.78,
+   "end": 3248.1,
+   "text": "Cũng chính là đảo mèo tập trốn tôi đã nói đó.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3248.1,
+   "end": 3251.06,
+   "text": "Nhưng trận chín 500 năm trước của quân hải tạc chống lại mặc phủ,",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3251.06,
+   "end": 3253.06,
+   "text": "đã một lần nữa mở ra phong ẩn sấm xen.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3253.06,
+   "end": 3257.78,
+   "text": "Thua ấy, nữ tư tế Asa xe Hibiki đã liều lĩnh mở phong ẩn lôi điểu để cứu người minh yêu.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3257.78,
+   "end": 3260.9,
+   "text": "Vịt giải phong ẩn đã giải phóng toàn bộ năng lượng tàn ba của lôi điểu",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.658
+  },
+  {
+   "start": 3260.9,
+   "end": 3262.9,
+   "text": "khiến phần lớn diễn tích của đảo Seirai bị hủy diệt.",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.909
+  },
+  {
+   "start": 3262.9,
+   "end": 3266.26,
+   "text": "Quản núi ở trung tâm bị xé nát, rồi bay lơ lường chân không chung.",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.909
+  },
+  {
+   "start": 3266.26,
+   "end": 3269.86,
+   "text": "Người dân trên đảo phải di tàn gấp, biến đảo Seirai trở thành hôn đảo Hoang Tạm,",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.909
+  },
+  {
+   "start": 3269.86,
+   "end": 3271.86,
+   "text": "quanh năm sớm xét báo phủ.",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.909
+  },
+  {
+   "start": 3271.86,
+   "end": 3275.86,
+   "text": "Để chấm dứt vòng lặp, tôi đã đưa lính hồn bế ru từ đảo Tosurumi sang đảo Seirai.",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.909
+  },
+  {
+   "start": 3275.86,
+   "end": 3278.98,
+   "text": "Tại đây, ru cất tính hát năm xưa chất tàn giữa sức mạnh của lôi điểu,",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.909
+  },
+  {
+   "start": 3278.98,
+   "end": 3282.26,
+   "text": "tính hát của ru đã xóa diệu án niệm hàng ngàn năm của Campuchy.",
+   "avg_logprob": -0.271,
+   "no_speech_prob": 0.909
+  },
+  {
+   "start": 3282.26,
+   "end": 3285.62,
+   "text": "Nhờ đó, lông lôi điểu đã tích đủ năng lượng chính thức hóa giải lớp sương mù",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 3285.62,
+   "end": 3288.1,
+   "text": "và giải thoát những lính hồn mắc kẹt trên đảo Tosurumi.",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 3288.1,
+   "end": 3290.98,
+   "text": "Câu chuyện của đảo Tosurumi thực sự rất buồn.",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 3290.98,
+   "end": 3294.02,
+   "text": "Ngày 74, tôi đi pham nguyên liệu đột phá Phít Sồ.",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 3294.02,
+   "end": 3296.34,
+   "text": "Theo chút tàn nguyên, tôi sang các quốc khác sinh hoa.",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 3296.34,
+   "end": 3300.66,
+   "text": "Phít Sồ đã lê level 90, giữa một câu chuyện đảo Tosurumi làm tôi có chút ám ảnh.",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 3300.66,
+   "end": 3303.78,
+   "text": "Tôi đã đuổi hướng sang đảo Watatsumi, mở dâng và làm nhiệm vụ.",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 3303.78,
+   "end": 3305.78,
+   "text": "Tôi loanh quanh mở dâng đến hết ngày.",
+   "avg_logprob": -0.231,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 3306.26,
+   "end": 3311.62,
+   "text": "Ngày 75, ngày mà tôi rất mong chờ, kiểm tra số row thì tôi có 12 rô hồng và 7 ca chính nguyên thành.",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.548
+  },
+  {
+   "start": 3311.62,
+   "end": 3313.06,
+   "text": "Chúng ta bắt đầu thôi!",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.548
+  },
+  {
+   "start": 3313.06,
+   "end": 3315.86,
+   "text": "Râu đầu tiên, Diona, rất hữu dụng nha!",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.548
+  },
+  {
+   "start": 3315.86,
+   "end": 3318.82,
+   "text": "Râu tiếp theo, Vang Rui!",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.548
+  },
+  {
+   "start": 3318.82,
+   "end": 3322.98,
+   "text": "Hmm, không biết nữa. Tôi vừa thấy vui và thấy buồn thế nào ấy.",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.548
+  },
+  {
+   "start": 3322.98,
+   "end": 3325.46,
+   "text": "Từ giờ chúng ta đã có một nhân vật chạy mác hiệu quả rùi.",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.548
+  },
+  {
+   "start": 3325.46,
+   "end": 3330.18,
+   "text": "Những rows sau đó tôi được thêm Bedo, Dory, Feminette và một vài vũ khí 4 sao.",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.548
+  },
+  {
+   "start": 3330.18,
+   "end": 3333.54,
+   "text": "Cuối ngày, tôi vào kiểm tra lại Bender thì thấy đã chuyển sang Face2 rồi.",
+   "avg_logprob": -0.323,
+   "no_speech_prob": 0.548
+  },
+  {
+   "start": 3333.62,
+   "end": 3335.86,
+   "text": "Tôi vào chơi thử ngay Columbina và Loi Thần Ây.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.214
+  },
+  {
+   "start": 3335.86,
+   "end": 3338.66,
+   "text": "Còn chút nguyên hạch của Ngày, tôi đã may mắn lấy được thêm Aurora.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.214
+  },
+  {
+   "start": 3339.3,
+   "end": 3342.66,
+   "text": "Ngày 76, mở đầu Ngày, tôi lễ phăm Hai Anh Boston.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.214
+  },
+  {
+   "start": 3342.66,
+   "end": 3344.74,
+   "text": "Là vô xôi Bắc Phong và Phong Malong.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.214
+  },
+  {
+   "start": 3344.74,
+   "end": 3347.46,
+   "text": "Sau đó, tôi tới Fontaine mở đường từ sự kiện tập bắn.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.214
+  },
+  {
+   "start": 3347.46,
+   "end": 3349.3,
+   "text": "Sự kiện ấy rất dễ mà chưa cũng vui.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.214
+  },
+  {
+   "start": 3349.3,
+   "end": 3351.3,
+   "text": "Tôi hoàn thành phôn điểm và nhấn đích phần thưởng.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.214
+  },
+  {
+   "start": 3351.3,
+   "end": 3353.86,
+   "text": "Tôi cũng nghe qua thiên tinh kỳ vực để nhận chút nguyên thạch.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.214
+  },
+  {
+   "start": 3353.86,
+   "end": 3357.14,
+   "text": "Chỉ cần mặc đồ sự kiện rồi chơi mặt Ice Fishing là xong.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.214
+  },
+  {
+   "start": 3357.54,
+   "end": 3358.74,
+   "text": "Lụm luôn 60 nguyên thạch.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.581
+  },
+  {
+   "start": 3358.74,
+   "end": 3362.98,
+   "text": "Tôi kiểm tra bạn bè thì có bạn nơ tê hát cấp cao đăng on nên có nhờ giúp đỡ đánh Loi Thần.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.581
+  },
+  {
+   "start": 3362.98,
+   "end": 3365.7,
+   "text": "Bạn ấy còn giúp tôi đánh bí cạnh phám sắc cho Tainary nữa.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.581
+  },
+  {
+   "start": 3365.7,
+   "end": 3367.22,
+   "text": "Người đâu mà tốt bụng quá trời.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.581
+  },
+  {
+   "start": 3367.22,
+   "end": 3369.86,
+   "text": "Sau đó, từ tới Not Cry, bắt đầu làm cốt chuyện mắt thần.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.581
+  },
+  {
+   "start": 3370.34,
+   "end": 3373.7,
+   "text": "Ngày 77, với sự giúp đất của bạn nơ tê hát ở ngày 76,",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.581
+  },
+  {
+   "start": 3373.7,
+   "end": 3376.82,
+   "text": "tôi đã thành công uph tiên phú nơ A của Tainary Level 10.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.581
+  },
+  {
+   "start": 3376.82,
+   "end": 3378.18,
+   "text": "Tôi giúp muốn đột phán đi lắc.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.581
+  },
+  {
+   "start": 3378.18,
+   "end": 3381.7,
+   "text": "Mặc dù nhiều nguyên liệu đã dưa thừa, nhưng mà nào chạy thì tôi thử tận 2 cái.",
+   "avg_logprob": -0.29,
+   "no_speech_prob": 0.581
+  },
+  {
+   "start": 3381.86,
+   "end": 3383.22,
+   "text": "Lại phải phám hoa lửa tiếp.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.923
+  },
+  {
+   "start": 3383.78,
+   "end": 3386.02,
+   "text": "Hiện tại, tôi xin phép skip đảo Inazuma,",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.923
+  },
+  {
+   "start": 3386.02,
+   "end": 3387.38,
+   "text": "một phần là do dự âm cốt chuyện,",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.923
+  },
+  {
+   "start": 3387.38,
+   "end": 3390.26,
+   "text": "phần còn lại là muốn hoàn thành cốt chuyện Not Cry trước khi qua phía bản mới.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.923
+  },
+  {
+   "start": 3390.66,
+   "end": 3392.42,
+   "text": "Được dùi, trở lại với phần nhâm vụ.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.923
+  },
+  {
+   "start": 3392.42,
+   "end": 3396.58,
+   "text": "Hiện tại, tôi đang giúp Aino và Inefa sửa chữ khẩu vào ánh sáng tại thị trấn NASA.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.923
+  },
+  {
+   "start": 3396.58,
+   "end": 3398.58,
+   "text": "Sự công vã của nó là khỏi phải bàn.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.923
+  },
+  {
+   "start": 3399.14,
+   "end": 3402.02,
+   "text": "Sau đó, Fela tới gặp cô luôn để tìm hiểu về quá khứ.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.923
+  },
+  {
+   "start": 3402.02,
+   "end": 3405.46,
+   "text": "Trong nghĩ ức, Fela nhìn thấy du thuyền của cô và anh trai dây xuống Not Cry,",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.923
+  },
+  {
+   "start": 3405.46,
+   "end": 3406.82,
+   "text": "trải qua không biết bao lâu,",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.923
+  },
+  {
+   "start": 3407.14,
+   "end": 3409.62,
+   "text": "và gọi Fela tỉnh dậy với rộng rất khẩn thiết.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.73
+  },
+  {
+   "start": 3409.62,
+   "end": 3414.38,
+   "text": "Cũng lúc đó, Flynn đang bị nghiên ngờ trong một vụ án khủng khiếp.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.73
+  },
+  {
+   "start": 3414.38,
+   "end": 3418.62,
+   "text": "Fela được giao những vụ phải đi tìm Flynn và tình cơ thiếu thoát anh khởi tình thế nguy hiểm.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.73
+  },
+  {
+   "start": 3418.62,
+   "end": 3421.66,
+   "text": "Hãy đứng sau mọi chuyện là Rarier, thở săn mặt trang,",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.73
+  },
+  {
+   "start": 3421.66,
+   "end": 3425.5,
+   "text": "cụ chính cực ký gai cấn, may mắn là cả hai đều an toàn đánh đuổi hắn.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.73
+  },
+  {
+   "start": 3425.5,
+   "end": 3427.66,
+   "text": "Vụ án bị ẩn có liên quan đến tên Rarier,",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.73
+  },
+  {
+   "start": 3427.66,
+   "end": 3431.34,
+   "text": "hắn đã giả dạng thành người dân để ấm thầm kiểm soát khẩu pháo tại thị trấn NASA.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.73
+  },
+  {
+   "start": 3431.42,
+   "end": 3434.38,
+   "text": "Theo trên Flynn, Fela tới thư viện tranh ngọn đen Hải Đăng,",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.232
+  },
+  {
+   "start": 3434.38,
+   "end": 3438.14,
+   "text": "tại đây có một con ma bị ẩn đã giúp cả hai tím thông tin người con săn hoang giã.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.232
+  },
+  {
+   "start": 3438.14,
+   "end": 3440.3,
+   "text": "Trong khi cả hai đang bịt máy tìm kiếm thông tin,",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.232
+  },
+  {
+   "start": 3440.3,
+   "end": 3444.54,
+   "text": "khi Rarier đã đón đầu, tàn phá một phần thị trấn NASA khiến bao người dân phải sơ tán.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.232
+  },
+  {
+   "start": 3444.54,
+   "end": 3446.78,
+   "text": "Nefer và Loma có nhiêu vụ trấn ăn người dân,",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.232
+  },
+  {
+   "start": 3446.78,
+   "end": 3449.74,
+   "text": "còn Aino và Inefa phải đột phá màn chắn bảo vệ khẩu pháo,",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.232
+  },
+  {
+   "start": 3449.74,
+   "end": 3451.18,
+   "text": "rồi ngăn khẩu pháo hoạt động.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.232
+  },
+  {
+   "start": 3451.18,
+   "end": 3452.62,
+   "text": "Nhờ phát hiện âm niu kịp thời,",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.232
+  },
+  {
+   "start": 3452.62,
+   "end": 3455.66,
+   "text": "Fela và Flynn đã ngăn chặn được tên Rarier khô khục sức mạnh,",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.232
+  },
+  {
+   "start": 3455.74,
+   "end": 3488.91,
+   "text": "của Nutt quay lúc nào cũng làm tuân nổi ra gà.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.54
+  },
+  {
+   "start": 3488.91,
+   "end": 3490.99,
+   "text": "Sau khi kế hoạch cất bại, Rarier tức dẫn,",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.54
+  },
+  {
+   "start": 3490.99,
+   "end": 3492.99,
+   "text": "bột phá câm dẫn lên Fela và Flynn,",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.54
+  },
+  {
+   "start": 3492.99,
+   "end": 3494.99,
+   "text": "nhưng may màn Sandro đã kịp thời ứng cứu",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.54
+  },
+  {
+   "start": 3494.99,
+   "end": 3499.15,
+   "text": "và cùng với đó là trận chiến cực mã nhắn của Putonia và Rarier.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.54
+  },
+  {
+   "start": 3499.15,
+   "end": 3542.29,
+   "text": "Khi do tranh trấn hết khốc liệt,",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.54
+  },
+  {
+   "start": 3542.29,
+   "end": 3546.21,
+   "text": "Columbia đã sử dụng mang thật dịch chuyển đưa nhóm Fela tới nơi an toàn.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.54
+  },
+  {
+   "start": 3546.21,
+   "end": 3548.53,
+   "text": "Cuộc chiến khép lại, Rarier tạm thơ giúp lùi,",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.54
+  },
+  {
+   "start": 3548.53,
+   "end": 3551.81,
+   "text": "còn nhóm của Fela bắt đầu chuẩn bị cho những biên cố lốn sắp xảy ra.",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.54
+  },
+  {
+   "start": 3551.81,
+   "end": 3553.73,
+   "text": "Và đó là những gì xảy ra ở tân mê 1,",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.54
+  },
+  {
+   "start": 3553.81,
+   "end": 3556.85,
+   "text": "hẹn mấy ống 1 tần sau của bởi toàn bộ trương mắt thật Nuttcrane nhé!",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.188
+  },
+  {
+   "start": 3556.85,
+   "end": 3560.8,
+   "text": "Mời làm Nubi trong danh sinh!",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.188
+  },
+  {
+   "start": 3560.8,
+   "end": 3564.32,
+   "text": "Mở đầu ngày, tư tài chiến lôi thần, cùng với sự trợ giúp của bạn tuổi.",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.188
+  },
+  {
+   "start": 3564.32,
+   "end": 3567.04,
+   "text": "Với Nubi, cứ mạnh dạng kết bạc và thật nhiều bạn bé cốc cao,",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.188
+  },
+  {
+   "start": 3567.04,
+   "end": 3568.16,
+   "text": "rồi xin trợ giúp nhé!",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.188
+  },
+  {
+   "start": 3568.16,
+   "end": 3571.68,
+   "text": "Sau đó, tôi đi farm một chút say kinh nghiệm để nâng cốc các nhân vật trong khó.",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.188
+  },
+  {
+   "start": 3571.68,
+   "end": 3573.36,
+   "text": "Cryt trở lại có chuyện Nuttcrane.",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.188
+  },
+  {
+   "start": 3573.36,
+   "end": 3575.76,
+   "text": "Sau khi nhóm của Fela thắt khỏi nguy hiểm trong gang tức,",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.188
+  },
+  {
+   "start": 3575.76,
+   "end": 3579.04,
+   "text": "Fela đã trở lại chân NASA để điều tra thêm về Rarier.",
+   "avg_logprob": -0.342,
+   "no_speech_prob": 0.188
+  },
+  {
+   "start": 3579.12,
+   "end": 3582.8,
+   "text": "Cũng lúc đó, cả Flings, Laoma, Inefa và I know",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.685
+  },
+  {
+   "start": 3582.8,
+   "end": 3585.6,
+   "text": "đều ra sức tìm kiếm thêm thông tin về tên tội đồ Rarier.",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.685
+  },
+  {
+   "start": 3585.6,
+   "end": 3587.52,
+   "text": "Mành mồ đã dẫn họ tới đảo Henshin,",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.685
+  },
+  {
+   "start": 3587.52,
+   "end": 3588.96,
+   "text": "nơi Nguyệt Thuân đang nhỉnh dưỡng.",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.685
+  },
+  {
+   "start": 3588.96,
+   "end": 3592.64,
+   "text": "Nhưng khi họ bự tới đã bắt cặp Nguyệt Thuân đâm bị Rarier tấn công.",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.685
+  },
+  {
+   "start": 3592.64,
+   "end": 3615.33,
+   "text": "Cả đội đã tới kịp thời và ngăn chặn tên Rarier làm hại Columbina,",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.685
+  },
+  {
+   "start": 3615.33,
+   "end": 3650.51,
+   "text": "đã thất tỉnh sương mạnh và đã giải cứu cả đội khỏi tình thí nguy hiểm.",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.685
+  },
+  {
+   "start": 3650.51,
+   "end": 3672.44,
+   "text": "Động của sân hoang dãi trên chiện rộng,",
+   "avg_logprob": -0.331,
+   "no_speech_prob": 0.685
+  },
+  {
+   "start": 3672.44,
+   "end": 3674.84,
+   "text": "mục tiêu của hắn là trí đuổi băng dữ nguyệt thần.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.639
+  },
+  {
+   "start": 3674.84,
+   "end": 3678.28,
+   "text": "Trước tình thí nguy hiểm ấy, đột nhiên một thanh đại kiếm lớn lao tới,",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.639
+  },
+  {
+   "start": 3678.28,
+   "end": 3680.28,
+   "text": "bụi bay kín trời, sương mơ dây đặc,",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.639
+  },
+  {
+   "start": 3680.28,
+   "end": 3683.24,
+   "text": "xuất hiện cùng với cái đại kiếm là ngay đổi trường vắc ca cực ngầu,",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.639
+  },
+  {
+   "start": 3683.24,
+   "end": 3686.36,
+   "text": "vắc ca tới dạy kiếm nhóm Fela và đưa cả đội tới nơi hầm bí mật.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.639
+  },
+  {
+   "start": 3686.36,
+   "end": 3688.36,
+   "text": "Nơi đây là điểm tập kết của đội chỉ sĩ,",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.639
+  },
+  {
+   "start": 3688.36,
+   "end": 3690.68,
+   "text": "cũng là nơi những thông tin của mạng lưới tình báo Bắc Đại lục.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.639
+  },
+  {
+   "start": 3690.68,
+   "end": 3694.36,
+   "text": "Cùng nhau họ lên kế hoạch lấy lại 3 mặt trang để khối phục sức mạnh của Columbina.",
+   "avg_logprob": -0.243,
+   "no_speech_prob": 0.639
+  },
+  {
+   "start": 3694.52,
+   "end": 3696.76,
+   "text": "Nefer cũng có mặt để tham gia trong chiến dịch này.",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.841
+  },
+  {
+   "start": 3696.76,
+   "end": 3700.04,
+   "text": "Kế hoạch thực thi, mỗi đội được chi nhỏ ra để lôi kéo thêm đồng đội.",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.841
+  },
+  {
+   "start": 3700.04,
+   "end": 3705.56,
+   "text": "Columbina, Vela và Paimon đã tới chủ sở vô pha tui để gặp Sandron đắm phán và xin chợ giúp.",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.841
+  },
+  {
+   "start": 3705.56,
+   "end": 3709.0,
+   "text": "Nhưng chính họ cũng không thể ngờ quân đoàn của sân hoang dã được quá áp đảo,",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.841
+  },
+  {
+   "start": 3709.0,
+   "end": 3711.0,
+   "text": "khiến quân pha tui bị thiết hại nặng nề.",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.841
+  },
+  {
+   "start": 3711.0,
+   "end": 3712.6,
+   "text": "Nhóm của Nefer cũng mệt không kém,",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.841
+  },
+  {
+   "start": 3712.6,
+   "end": 3716.2,
+   "text": "cô cùng lau ma và Yahuda phải niêu tra về quả cứu của Tên Barrier.",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.841
+  },
+  {
+   "start": 3716.2,
+   "end": 3720.2,
+   "text": "Bang một cùng vật hân kỳ, Nefer đã thành công thâm nhập vào tâm trí của Tên Barrier.",
+   "avg_logprob": -0.254,
+   "no_speech_prob": 0.841
+  },
+  {
+   "start": 3720.2,
+   "end": 3723.64,
+   "text": "Tại đây, họ đã tìm ra được cái tên Torindis là hôn phu của hắn",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.095
+  },
+  {
+   "start": 3723.64,
+   "end": 3726.68,
+   "text": "và cũng biết được hành chính là đồ tề trí sắt của người dân Kenrier.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.095
+  },
+  {
+   "start": 3726.68,
+   "end": 3730.36,
+   "text": "Trở lại về nhóm của Vela, họ đang bị bao vây bởi cuộc sân hoang dã.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.095
+  },
+  {
+   "start": 3730.36,
+   "end": 3732.92,
+   "text": "Nhưng bất ngờ, một đối lửa đó lứt ngang quá.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.095
+  },
+  {
+   "start": 3732.92,
+   "end": 3735.64,
+   "text": "Phía sau của đảm quái vật mẫu xuất hiện một bóng hình của ai đó.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.095
+  },
+  {
+   "start": 3735.64,
+   "end": 3738.52,
+   "text": "Và đó là... Alexio cực ngầu,",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.095
+  },
+  {
+   "start": 3738.52,
+   "end": 3741.08,
+   "text": "Đen đi nột phá vòng vây và giải kiếm nhóm của Vela.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.095
+  },
+  {
+   "start": 3741.08,
+   "end": 3743.0,
+   "text": "Sau một hồi giải thích kế hoạch cho Alex,",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.095
+  },
+  {
+   "start": 3743.0,
+   "end": 3745.56,
+   "text": "Đen đi đã tham gia và hỗ trợ Columbina lấy lại hồng nguyệt.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.095
+  },
+  {
+   "start": 3745.64,
+   "end": 3747.08,
+   "text": "Điều đó là một người dân.",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3748.2,
+   "end": 3753.46,
+   "text": "Hôn vật mẫu xuất hiện của ai đó.",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3753.46,
+   "end": 3755.06,
+   "text": "Điều đó là một bóng hình của ai đó.",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3755.06,
+   "end": 3770.57,
+   "text": "Chạy qua vô và trận chiến khó khăn,",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3770.57,
+   "end": 3773.69,
+   "text": "cuối cùng Vela cũng thanh tỉnh được hồng nguyệt và rau hồng nguyệt cho Columbina.",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3773.69,
+   "end": 3775.93,
+   "text": "Hồng nguyệt vừa rau, toàn hâm ngủ bỗng sụp đổ,",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3775.93,
+   "end": 3778.09,
+   "text": "quái vật áo áo rất tỉnh ngăn cản hồng Vela,",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3778.09,
+   "end": 3779.61,
+   "text": "nhưng mọi thứ chỉ dừng lại ở đấy,",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3779.61,
+   "end": 3780.97,
+   "text": "vẫn luôn là Alex cực ngầu,",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3780.97,
+   "end": 3784.09,
+   "text": "vào lúc thêm trót cũng ngăn cản hồng quái vật và giải kiếm nhóm Vela.",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3784.09,
+   "end": 3790.98,
+   "text": "Ngày 81, trở lại căn hầm bí mật",
+   "avg_logprob": -0.438,
+   "no_speech_prob": 0.018
+  },
+  {
+   "start": 3791.06,
+   "end": 3792.9,
+   "text": "Lần này, quân số của chiến dịch đã tăng vọt",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3792.9,
+   "end": 3796.18,
+   "text": "với sự tham gia của Dance Lake, Abedo và Durin.",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3796.18,
+   "end": 3797.78,
+   "text": "Có thể nói, đây là lần đầu tiên,",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3797.78,
+   "end": 3799.94,
+   "text": "một cuộc chuyến của sự xuất hiện của quá nhiều tin anh.",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3799.94,
+   "end": 3801.7,
+   "text": "Chiến dịch lần này quy mô rất lớn,",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3801.7,
+   "end": 3803.38,
+   "text": "mỗi nhóm lại có một nhiệm vụ riêng,",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3803.38,
+   "end": 3806.58,
+   "text": "nhóm của Nenfer lại tiếp tục điều tra về coi cứu của tên Verrier.",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3806.58,
+   "end": 3808.9,
+   "text": "Thực ra, Verrier chỉ là một kẹt bất hạnh.",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3808.9,
+   "end": 3811.78,
+   "text": "Số phận của hắn là trở thành công cụ của tên Hắc Vương Yilmin.",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3811.78,
+   "end": 3814.5,
+   "text": "Công địch của hắn đó là đồ sát găn bộ người dân Fenrir,",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3814.5,
+   "end": 3815.7,
+   "text": "theo lệnh của tên Hắc Vương.",
+   "avg_logprob": -0.303,
+   "no_speech_prob": 0.786
+  },
+  {
+   "start": 3815.7,
+   "end": 3818.9,
+   "text": "Mất kể giá hai trẻ, chỉ cần là người Fenrir thì đâu phải tiêu diệt.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 3818.9,
+   "end": 3820.9,
+   "text": "Trải qua hàng loạt mang rẻ mã nạo đồ,",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 3820.9,
+   "end": 3822.42,
+   "text": "chúng ta càng hiểu hơn về hắn.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 3822.42,
+   "end": 3825.14,
+   "text": "Cùng thời điểm ấy, Dance Lake, cùng hình quân thần khác",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 3825.14,
+   "end": 3827.38,
+   "text": "đang lên thường hạch mương phản, lật đổ tên Hắc Vương.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 3827.38,
+   "end": 3831.38,
+   "text": "Holindice, cô là hôn vù của Verrier và cũng là người Verrier yêu thương nhất.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 3831.38,
+   "end": 3834.02,
+   "text": "Nhưng trở chiêu thay, cô lẹ mang dòng màu Fenrir,",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 3834.02,
+   "end": 3836.26,
+   "text": "thứ Verrier phải tiêu diệt băng mọi giá.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 3836.26,
+   "end": 3838.26,
+   "text": "Số phận đưa đẩy, tình thế nguy cấp.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 3838.26,
+   "end": 3840.58,
+   "text": "Ngay dưới phút xuyên mạnh, một sâu bùng nổ mãnh hiệp nhất.",
+   "avg_logprob": -0.332,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 3840.66,
+   "end": 3842.82,
+   "text": "Thorin đi đã trách nhiệm viên sinh về người mình yêu.",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.16
+  },
+  {
+   "start": 3842.82,
+   "end": 3846.42,
+   "text": "Cô dơi vào khoảng khoảng khu nô vô, bỏ rơi Verrier kiệt vọng phân đời với kiệp.",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.16
+  },
+  {
+   "start": 3846.42,
+   "end": 3852.28,
+   "text": "Cũng từ dưới phút đó, sứ mạnh vượt thảm giấn nút trọn hắn",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.16
+  },
+  {
+   "start": 3852.28,
+   "end": 3854.44,
+   "text": "biến hắn trở thành một trong sáu tội nhân của Tây Vát.",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.16
+  },
+  {
+   "start": 3855.4,
+   "end": 3858.2,
+   "text": "Chuyện tình của Verrier và Thorin đi thực sự rất ngang trái.",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.16
+  },
+  {
+   "start": 3858.2,
+   "end": 3861.96,
+   "text": "Thì nói trở thành niềm tình ngôi lớn nhất của tôi và cũng chính nhiều câu chuyện như vậy,",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.16
+  },
+  {
+   "start": 3861.96,
+   "end": 3865.96,
+   "text": "Verrier mặc dù chỉ xuất hiện vai phiên bản nhưng lại để lại dù ấn rất lớn trong người chơi.",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.16
+  },
+  {
+   "start": 3865.96,
+   "end": 3872.1,
+   "text": "Sau khi kết túc câu chuyện của Verrier,",
+   "avg_logprob": -0.32,
+   "no_speech_prob": 0.16
+  },
+  {
+   "start": 3872.1,
+   "end": 3874.34,
+   "text": "phía la đuổi nhiên được trải nghiệm quả khứ của Nefer,",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.742
+  },
+  {
+   "start": 3874.34,
+   "end": 3876.74,
+   "text": "Nefer đã từng là một cô bé thông minh và ngoan ngoãn,",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.742
+  },
+  {
+   "start": 3876.74,
+   "end": 3879.06,
+   "text": "cô sống ở bộ lạc nhỏ trên giam mặc Sumeru,",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.742
+  },
+  {
+   "start": 3879.06,
+   "end": 3881.06,
+   "text": "đôi mà nước chính là tài sản sống còn.",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.742
+  },
+  {
+   "start": 3881.06,
+   "end": 3884.82,
+   "text": "Chia của cô, trưởng làng đã viết rất nhiều đơn cầu cứu cho giáo viện Sumeru,",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.742
+  },
+  {
+   "start": 3884.82,
+   "end": 3886.26,
+   "text": "nhưng không hề có hồi âm.",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.742
+  },
+  {
+   "start": 3886.26,
+   "end": 3889.14,
+   "text": "Trước tình thế nguyên nan, ông đã phải đi trộm nước của làm bên cạnh,",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.742
+  },
+  {
+   "start": 3889.14,
+   "end": 3892.74,
+   "text": "hệ quả là cả làng của ông đã bị sát hại, chỉ còn mỗi Nefer may mắn sống sót.",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.742
+  },
+  {
+   "start": 3893.38,
+   "end": 3896.98,
+   "text": "Sau này, cô đòi nhận vào giáo viện Sumeru nhờ chỉ thông minh thiên bẩm.",
+   "avg_logprob": -0.257,
+   "no_speech_prob": 0.742
+  },
+  {
+   "start": 3897.06,
+   "end": 3900.1,
+   "text": "Tại đây, cô nhận ra sự phân biệt của giáo viện dành trong người dân giam mặc,",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.196
+  },
+  {
+   "start": 3900.1,
+   "end": 3904.1,
+   "text": "và cũng tìm thấy bức thư mà cha cô đã gửi cho giáo viện bị vất sót ở nước trái để ý.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.196
+  },
+  {
+   "start": 3904.1,
+   "end": 3907.46,
+   "text": "Không phẫn nộ, cô nhận ra thể giới trì toàn là rối lừa.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.196
+  },
+  {
+   "start": 3907.46,
+   "end": 3911.7,
+   "text": "Từ ngày đó, cô biến sự rối lừa trở thành viên dần và trở thành một người không ai có thể rừa rối.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.196
+  },
+  {
+   "start": 3911.7,
+   "end": 3914.34,
+   "text": "Verrier đã phát hiện nhóm Nefer là lúc điều tra về hắn.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.196
+  },
+  {
+   "start": 3914.34,
+   "end": 3916.42,
+   "text": "Hắn sử dụng sức mạnh vực sâu không chia tất cả,",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.196
+  },
+  {
+   "start": 3916.42,
+   "end": 3919.22,
+   "text": "nhưng Dan Slav đã có mặt ghip thời, giải cứu tất cả.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.196
+  },
+  {
+   "start": 3919.3,
+   "end": 3929.0,
+   "text": "Nhưng, cổ vật không thể giam giữ được sức mạnh khủng lồ của Verrier quá lâu.",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.171
+  },
+  {
+   "start": 3929.0,
+   "end": 3932.2,
+   "text": "Thạ đuổi phải giải phóng ấn để chiến trận chiến cuối cùng với tên Verrier.",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.171
+  },
+  {
+   "start": 3971.56,
+   "end": 3993.05,
+   "text": "Nguồn đã sử dụng sức mạnh để đề phang tên tội đồ trở về hưu vô.",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.171
+  },
+  {
+   "start": 3994.89,
+   "end": 4005.99,
+   "text": "Họ đã thành công, ngăn chặng một trong những tên khủng bố khủng khiếp nhất của toàn đại lục.",
+   "avg_logprob": -0.333,
+   "no_speech_prob": 0.171
+  },
+  {
+   "start": 4005.99,
+   "end": 4009.67,
+   "text": "Nefer đã bị thương ở mắt, nhưng nhiều sức mạnh của Laoma đôi mắt ấy sẽ sớm hôi phục.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 4013.38,
+   "end": 4017.38,
+   "text": "Sau trận trình không liệt với Verrier, cả đuổi lên kế hoạch đưa Colom về nhà vào đêm cầu nguyện.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 4017.38,
+   "end": 4019.86,
+   "text": "Tuy nhiên, người thần vẫn đang bị tê vắt bãi xích.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 4019.86,
+   "end": 4022.5,
+   "text": "Cô thể cũng vẫn luôn bị tê vắt tiêu chử cho đến khi biến mất.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 4022.5,
+   "end": 4026.26,
+   "text": "Nguyên nhân là từ rất lâu về trước, 3 nữ thần mặt trang đã mạo phạm biến thiên lý",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 4026.26,
+   "end": 4030.02,
+   "text": "để ngăn Colom biến mất, phê la đã tới gặp thiêng sứ Ninh Con để xin lời khuyên.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 4030.02,
+   "end": 4032.9,
+   "text": "Cùng nhau, họ đã tới thần điện nơi con người ra tiếp với mặt trang.",
+   "avg_logprob": -0.281,
+   "no_speech_prob": 0.058
+  },
+  {
+   "start": 4033.14,
+   "end": 4037.54,
+   "text": "Tại đây, Ninh Con gợi ý rằng, nếu muốn ai đó tồn tại thì hãy công nhận tên của họ.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.405
+  },
+  {
+   "start": 4037.54,
+   "end": 4041.86,
+   "text": "Sau một hồi duy nghĩ, mọi người đều nhận ra cái tên Colom biến đã nằm trong tiềm thức của mọi người.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.405
+  },
+  {
+   "start": 4041.86,
+   "end": 4047.14,
+   "text": "Và chỉ khi Colom có một cái tên thực sự được mọi người công nhận, khi ấy Colom sẽ không còn bị tê vắt bãi xích nữa.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.405
+  },
+  {
+   "start": 4047.14,
+   "end": 4118.23,
+   "text": "Bởi vì giờ đây cũng đã có một cái tên, Cà Thị Trấn Nha Cha đều mừng và trao đón sự trở lại của Nguyệt Thần.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.405
+  },
+  {
+   "start": 4118.23,
+   "end": 4123.03,
+   "text": "Họ tổ chức Lê Hội đêm Nguyệt Thật Thoanh Tráng trong Lê Hội có rất nhiều cho chơi vui và thú vị.",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.405
+  },
+  {
+   "start": 4123.03,
+   "end": 4124.07,
+   "text": "Và cả đây nữa...",
+   "avg_logprob": -0.25,
+   "no_speech_prob": 0.405
+  },
+  {
+   "start": 4124.31,
+   "end": 4127.19,
+   "text": "Ờ, Alec Đội Tâm Hèo đang yêu xì yếu.",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.132
+  },
+  {
+   "start": 4127.19,
+   "end": 4132.15,
+   "text": "Sandron và Colom đi khỏi ban rùi, cặp đôi này quá là cựu tề, tôi giúp Mek à hai em.",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.132
+  },
+  {
+   "start": 4132.15,
+   "end": 4137.99,
+   "text": "Nhưng cuộc vui nào cũng phải đến lúc tàn, Đêm Nghiệt cũng là lời cho tạm biệt để đưa Colom trở về mặt trăng, nhà của cô.",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.132
+  },
+  {
+   "start": 4137.99,
+   "end": 4141.19,
+   "text": "Trước khi đi, mọi người tặng cộng một cuốn sổ tự họa rất ý nghĩa.",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.132
+  },
+  {
+   "start": 4141.19,
+   "end": 4144.87,
+   "text": "Hai hương nhất là bức của Flynn, đây là bức vẽ của đội trường vắc ca.",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.132
+  },
+  {
+   "start": 4144.87,
+   "end": 4147.27,
+   "text": "Aino và Yahoda vẽ đeo hướng rất dễ thương.",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.132
+  },
+  {
+   "start": 4147.27,
+   "end": 4151.11,
+   "text": "4 người một kiểu vẽ, một đặc trưng riêng, biến của sách trở nên ý nghĩa hơn bao giờ hết.",
+   "avg_logprob": -0.357,
+   "no_speech_prob": 0.132
+  },
+  {
+   "start": 4151.19,
+   "end": 4153.75,
+   "text": "Nói là minh trứng cho tình bạn của Colom và những người đồng đội.",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4153.75,
+   "end": 4156.95,
+   "text": "Mọi thứ đã sẵn sàng, Colom hào hứt đến lương con thuyền trở về nhà.",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4156.95,
+   "end": 4186.34,
+   "text": "Chỉ tiếc là... mọi thứ đã bị tên Dr. Te Phá Học.",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4203.05,
+   "end": 4205.69,
+   "text": "Colom bị đưa tới hương không và biến bất chức mặt mọi người.",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4205.69,
+   "end": 4225.06,
+   "text": "Te Vắt Bài chưa sướm mạnh, hắn tạm rút lùi, cả nhóm Phi La cũng phải trở về để bàn chính lương tiếp theo.",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4225.06,
+   "end": 4229.86,
+   "text": "Nhờ tình báo của đội quân pha tuy, quân đồng minh Phi La đã thành công đồn nhập được thỉ nghiệp của tên Dr. Rè.",
+   "avg_logprob": -0.302,
+   "no_speech_prob": 0.019
+  },
+  {
+   "start": 4230.1,
+   "end": 4233.38,
+   "text": "Cả đội đã ra xích trình đối quy nhiệt, bao gồm cả Sandron và Alex.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.059
+  },
+  {
+   "start": 4233.38,
+   "end": 4237.78,
+   "text": "Những kết quả thì không lạc quan. Dr. Rè đưa mọi người vào khứ ảnh giữa bắt giữa nhà lửa hành.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.059
+  },
+  {
+   "start": 4237.78,
+   "end": 4240.74,
+   "text": "Quay trở lại với Colom, nơi cô đến là một khoảng không không rõ.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.059
+  },
+  {
+   "start": 4240.74,
+   "end": 4245.3,
+   "text": "Tại đây, cô bắt sắc tạo ra những tác động vào quà khứ, khiến cho những diễn biển trong quà khứ trở nên dễ hiểu hơn.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.059
+  },
+  {
+   "start": 4245.3,
+   "end": 4247.86,
+   "text": "Trong khi đó, Phi La đang bị tên Dr. Rè thao túng.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.059
+  },
+  {
+   "start": 4247.86,
+   "end": 4253.06,
+   "text": "Bằng những kiến thức sẵn có, hắn tạm muốn dụ dụng Phi La theo phía hắn để có thể cảm phá nhiều hơn về bản chức thế giới.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.059
+  },
+  {
+   "start": 4253.38,
+   "end": 4256.34,
+   "text": "Colom-Bina vẫn đang hỷ hục trong hư không tìm lối thoát quay trở về.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.234
+  },
+  {
+   "start": 4256.34,
+   "end": 4260.18,
+   "text": "Trong khóa trình tìm lối ra, cô vô tình nhận ra những không gian cô đến đều là quà khứ.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.234
+  },
+  {
+   "start": 4260.18,
+   "end": 4264.74,
+   "text": "Thứ ảnh sáng bởi vệ đảo Henshey, con mạ đã giúp Flynn và Phi La thường xét cường ngon Hải Đăng.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.234
+  },
+  {
+   "start": 4264.74,
+   "end": 4268.74,
+   "text": "Tất cả, đều là cô ở tương lai đã làm ở quà khứ được tạo nên một rong thời gian liền mạch.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.234
+  },
+  {
+   "start": 4268.74,
+   "end": 4273.06,
+   "text": "Bỏ ngoài tai là dũ dũ của tên Dr. Rè, Phi La can đả một mình chống lại tên bác sĩ.",
+   "avg_logprob": -0.268,
+   "no_speech_prob": 0.234
+  },
+  {
+   "start": 4273.06,
+   "end": 4278.9,
+   "text": "Rất may mắn, những đồng binh đã ứng cứu kiếp thời, họ giải cứu cô thành công và sẵn sàng cho trận chiến cuối cùng với tên bác sĩ.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4278.9,
+   "end": 4284.58,
+   "text": "Colom vẫn đang là thang trong không gian vô định, cô đã gặp Rere, nhưng lần này hẳn đã không còn ta ác nữa.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4284.58,
+   "end": 4288.82,
+   "text": "Rere giúp cô luôn phá bỏ xíu xích vực sâu, giúp cô sử dụng sức mạnh dễ dàng hơn.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4288.82,
+   "end": 4295.82,
+   "text": "Ngay sau đó, cô cũng gặp Tholendis, trận tình của Tholendis và Rere đến đây coi như viên mát,",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4295.82,
+   "end": 4298.62,
+   "text": "mặc hoàn cách có sang nhìn dặng, nhưng tâm trí họ vẫn luôn ở bên nhau.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4299.18,
+   "end": 4310.86,
+   "text": "Cuối con đường, Colom gặp Tâm Nguyệt, ba chị em nhỉu nhậu trào đón Colom.",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.13
+  },
+  {
+   "start": 4310.86,
+   "end": 4315.9,
+   "text": "Colom Mina kể toàn bộ hành trình của cô cho ba chị em, họ đã xúc động và đưa ra một quyết định rất quan trọng.",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.13
+  },
+  {
+   "start": 4315.9,
+   "end": 4318.78,
+   "text": "Đó là trào toàn bộ sức mạnh cho Colom Mina và biến mất.",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.13
+  },
+  {
+   "start": 4318.78,
+   "end": 4322.46,
+   "text": "Họ trao cho Colom cơ hội vết tiếp câu chuyện của mình, với sức mạnh của Tâm Nguyệt,",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.13
+  },
+  {
+   "start": 4322.46,
+   "end": 4326.38,
+   "text": "Colom Mina hoa mình và thế giới, vào ánh sáng, thiên nhân của quá khứ,",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.13
+  },
+  {
+   "start": 4326.38,
+   "end": 4328.78,
+   "text": "chờ cho đến ngày câu thức tỉnh ở dòng thời gian hiện tại.",
+   "avg_logprob": -0.24,
+   "no_speech_prob": 0.13
+  },
+  {
+   "start": 4329.74,
+   "end": 4335.58,
+   "text": "Trận chiến cuối cùng cũng xảy ra, Fela, Flynn, Neffle và Laoma cũng nhau chiến đấu chống lại tiên bác sĩ.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.085
+  },
+  {
+   "start": 4335.58,
+   "end": 4339.98,
+   "text": "Khi mỗi người đã bị dịch trần từ công gian khác, chỉ còn mình Fela solo với Dr. Re.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.085
+  },
+  {
+   "start": 4339.98,
+   "end": 4344.94,
+   "text": "Nhưng để cái hoài không bị phá hỏng, ít thân Sandron đã ra mặt để chứng cự cho đến khi lõi thật tức đầy.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.085
+  },
+  {
+   "start": 4344.94,
+   "end": 4364.58,
+   "text": "Sandron của tui!",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.085
+  },
+  {
+   "start": 4364.58,
+   "end": 4369.3,
+   "text": "Tùy Sandron nằm xuống như cố ất tính lúc đi nề trước, Colom đã tái sức với sức mạnh của Tâm Nguyệt,",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.085
+  },
+  {
+   "start": 4369.3,
+   "end": 4371.94,
+   "text": "cố giải kiểu những đồng đội bị giam dựa ở chiều công gian khác.",
+   "avg_logprob": -0.328,
+   "no_speech_prob": 0.085
+  },
+  {
+   "start": 4384.36,
+   "end": 4387.56,
+   "text": "Cùng nhau, họ đã đánh bại tiên Dr. Re và kinh nghiệm một chương mới.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 4387.56,
+   "end": 4390.12,
+   "text": "Đó là những gì đã xảy ra trong tàn bộ chưa not cry.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 4390.12,
+   "end": 4392.6,
+   "text": "Cái đoạn trở chuyển hình trình của tui xong vài ngay nữa nhé!",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 4392.6,
+   "end": 4396.28,
+   "text": "Ngày 86, sau khi Colom tái sinh và đập vỡ alo tiên Dr. Re,",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 4396.28,
+   "end": 4399.08,
+   "text": "Fela từ thị trấn Nasha để cùng người dân tái thiết lại thị trấn.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 4399.08,
+   "end": 4402.12,
+   "text": "Đội trưởng Vaka muốn trở về quê hương tham gia sau trận lại chiến.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 4402.12,
+   "end": 4405.48,
+   "text": "Laoma thì khác, cùng muốn làm thành viên trạy việc cụ hơi đông bí mật.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 4405.48,
+   "end": 4409.24,
+   "text": "Dùi Neffle của cố gắng từ trôi khéo, nhưng số phận của hai chị đã về bên nhau rồi.",
+   "avg_logprob": -0.311,
+   "no_speech_prob": 0.042
+  },
+  {
+   "start": 4409.32,
+   "end": 4412.68,
+   "text": "Từ bên cản, Fela nghe được thông tin rất tốt từ môi che về trẻ.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.606
+  },
+  {
+   "start": 4412.68,
+   "end": 4415.56,
+   "text": "Sanron có thể được hồi sinh với một lõi phản đường mới.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.606
+  },
+  {
+   "start": 4415.56,
+   "end": 4419.24,
+   "text": "Thật ra, cố gắng tính cả nước sẽ hy sinh trong nhiêu vụ được chuẩn bị một phương án dự phòng.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.606
+  },
+  {
+   "start": 4419.24,
+   "end": 4423.48,
+   "text": "Nhưng có Alec, cô vật Polonia sẽ được đưa về Fontaine và tái tạo lại.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.606
+  },
+  {
+   "start": 4423.48,
+   "end": 4427.8,
+   "text": "Sau khi trở tận biệt Alec, Fela tới gặp Colom để tìm thêm thông tin với anh trai.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.606
+  },
+  {
+   "start": 4427.8,
+   "end": 4431.56,
+   "text": "Cô được Colom đưa lên mặt trăng về lý do nơi ấy sẽ có đáp án mà Fela cần.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.606
+  },
+  {
+   "start": 4431.56,
+   "end": 4433.48,
+   "text": "Trong hành lang nổi niển tây vắt với mặt trăng,",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.606
+  },
+  {
+   "start": 4433.48,
+   "end": 4435.56,
+   "text": "Fela đã biết thêm nhiều thông tin của cà hứa.",
+   "avg_logprob": -0.274,
+   "no_speech_prob": 0.606
+  },
+  {
+   "start": 4435.56,
+   "end": 4437.88,
+   "text": "Một rồi cùng nhau, họ lên con huyền tiến thẳng tới mặt trăng.",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.267
+  },
+  {
+   "start": 4437.88,
+   "end": 4440.68,
+   "text": "Nơi mà phí tuyển của cô và Aether đáp xuống,",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.267
+  },
+  {
+   "start": 4440.68,
+   "end": 4443.08,
+   "text": "tại đây, cô đã thêm nhiều manh mối với anh trai của mình,",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.267
+  },
+  {
+   "start": 4443.08,
+   "end": 4445.32,
+   "text": "nhưng vẫn còn rất nhiều bị ẩn còn phải tiếp tục điều tra.",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.267
+  },
+  {
+   "start": 4445.32,
+   "end": 4447.56,
+   "text": "Cô cũng tìm được bộ trang phục mới.",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.267
+  },
+  {
+   "start": 4447.56,
+   "end": 4449.56,
+   "text": "Từ giờ, trong cô dùng lũa mì hơn rồi đây,",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.267
+  },
+  {
+   "start": 4449.56,
+   "end": 4453.08,
+   "text": "cô luôn cũng giúp cô giải phòng ấn sức mạnh khiến sức mạnh của Fela tăng lên đáng kể.",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.267
+  },
+  {
+   "start": 4453.08,
+   "end": 4456.52,
+   "text": "Kết thúc ngày, tôi ngồi ngắm không cảnh tây vắc tuyên đẹp cùng với Colomina.",
+   "avg_logprob": -0.284,
+   "no_speech_prob": 0.267
+  },
+  {
+   "start": 4457.24,
+   "end": 4461.48,
+   "text": "Ngay 87, mở đầu ngày, tôi đi xảy yệu pham nguyên liệu đột phá cho Mizuki.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.491
+  },
+  {
+   "start": 4461.48,
+   "end": 4464.2,
+   "text": "Sắp tới, Mizuki sẽ sất mạnh nếu được đầu tư đúng cách,",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.491
+  },
+  {
+   "start": 4464.2,
+   "end": 4465.64,
+   "text": "nhưng tôi sẵn sàng nơi bé luôn.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.491
+  },
+  {
+   "start": 4465.64,
+   "end": 4469.08,
+   "text": "Tôi về nhà chắp để bộ bóng hình cho Mizuki, cũng được vài món hữu dụng.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.491
+  },
+  {
+   "start": 4469.08,
+   "end": 4471.08,
+   "text": "Như này cũng hòm hòm dưới đây.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.491
+  },
+  {
+   "start": 4471.08,
+   "end": 4473.88,
+   "text": "Sau đó, tôi lên đường từ Fontaine làm sự kiện nè hẹ.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.491
+  },
+  {
+   "start": 4473.88,
+   "end": 4476.12,
+   "text": "Tôi cùng Colomina đã gặp những bệnh bè tại Fontaine.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.491
+  },
+  {
+   "start": 4476.12,
+   "end": 4478.92,
+   "text": "Nói chuyện một hồi, thì nhỏ Colomina mua yêu một cú.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.491
+  },
+  {
+   "start": 4478.92,
+   "end": 4481.4,
+   "text": "Hòa ra, đây là cách thể hiện sự thân diện cùng mới học được.",
+   "avg_logprob": -0.239,
+   "no_speech_prob": 0.491
+  },
+  {
+   "start": 4481.48,
+   "end": 4484.6,
+   "text": "Thế là tôi cũng hợp theo, cơ hội quá tốt để chạm vào cơ bắp dây đẹp.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.565
+  },
+  {
+   "start": 4484.6,
+   "end": 4486.92,
+   "text": "Do đó, tôi cùng Samuel tôi mua du thuyền đọa.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.565
+  },
+  {
+   "start": 4486.92,
+   "end": 4488.76,
+   "text": "Ngay đồn đây là một thuyền cung rất lớn.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.565
+  },
+  {
+   "start": 4488.76,
+   "end": 4491.32,
+   "text": "Tình cờ, Syntaline cũng có một cách mặt trên con thuyền này.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.565
+  },
+  {
+   "start": 4491.32,
+   "end": 4495.08,
+   "text": "Syntaline trong cực kỳ của T trong bộ đồ ngủ, em rất hoảng hốt khi trong thế tui.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.565
+  },
+  {
+   "start": 4495.08,
+   "end": 4498.12,
+   "text": "Hình như biểu cảm của Syntaline sẽ khác nếu tôi chơi nhà lưỡng hành Nam.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.565
+  },
+  {
+   "start": 4498.68,
+   "end": 4499.72,
+   "text": "Đây dùi!",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.565
+  },
+  {
+   "start": 4499.72,
+   "end": 4502.52,
+   "text": "Đây chính là lý do tôi phải cài hết đến vụ Martin Nutcrite.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.565
+  },
+  {
+   "start": 4502.52,
+   "end": 4504.44,
+   "text": "Chủ của con thuyền này chính là Sandron.",
+   "avg_logprob": -0.338,
+   "no_speech_prob": 0.565
+  },
+  {
+   "start": 4504.6,
+   "end": 4508.04,
+   "text": "Sau cuộc chiến với Dr. Ray, cô được đưa về Fontaine để tài tạo lại cơ thể.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.857
+  },
+  {
+   "start": 4508.04,
+   "end": 4511.0,
+   "text": "Chính sắc thì Alain đã để lại cho cùng một di sản cuối cùng.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.857
+  },
+  {
+   "start": 4511.0,
+   "end": 4514.28,
+   "text": "Trái tim thứ 2 đã thất tỉnh, hiện cùng có một sức mạnh mới cùng với sự tài sinh.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.857
+  },
+  {
+   "start": 4514.28,
+   "end": 4517.4,
+   "text": "Cho tinh tú, hiểu đơn giản, thứ này cũng là tương tự vision,",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.857
+  },
+  {
+   "start": 4517.4,
+   "end": 4519.48,
+   "text": "nhưng nó có một chút sức mạnh từ bên ngoài tây vắt,",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.857
+  },
+  {
+   "start": 4519.48,
+   "end": 4522.84,
+   "text": "khiến người sở hữu cho tinh tú có một sức mạnh đặc biệt khác với vision không thường.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.857
+  },
+  {
+   "start": 4522.84,
+   "end": 4526.36,
+   "text": "Sau cuộc cảm cỡ, Sandron để hịp phê làn giúp mình xây dựng thuyền cùng.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.857
+  },
+  {
+   "start": 4526.36,
+   "end": 4528.36,
+   "text": "Cụ thể thì nó là công việc lặn bắt cá.",
+   "avg_logprob": -0.248,
+   "no_speech_prob": 0.857
+  },
+  {
+   "start": 4528.44,
+   "end": 4532.92,
+   "text": "Nhưng bất ngờ thay, đoàn phim của Charlote cũng lựa chọn con thuyền của Sandron làm nơi quay phim.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.163
+  },
+  {
+   "start": 4532.92,
+   "end": 4536.28,
+   "text": "Chính vì lý do như vậy, mà rất nhiều tình huống hài hước đã xảy ra về sau.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.163
+  },
+  {
+   "start": 4536.28,
+   "end": 4541.16,
+   "text": "Sự kiện lặng này chơi rất đơn giản, chúng ta chỉ cần tánh mấy con cá để khiến ngất xỉu, rô lụng thôi.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.163
+  },
+  {
+   "start": 4541.16,
+   "end": 4544.92,
+   "text": "Ngoài ra, những cái dương cũng có rất nhiều kho báo, đặc biệt là cái vỏ so này.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.163
+  },
+  {
+   "start": 4544.92,
+   "end": 4550.36,
+   "text": "Khi dương đầy, mấy ông sẽ phải chơi cho chơi sức hình, phải cân đo đông đếm để mang nhiều đồ giá chị nhất trước khi lên bờ.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.163
+  },
+  {
+   "start": 4550.68,
+   "end": 4555.24,
+   "text": "Mỗi 1 con cá 2 vật phẩm đều có giá tiền riêng, khiến việc phải sắp xếp phải tính toán rất kỹ lưỡng.",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.608
+  },
+  {
+   "start": 4555.24,
+   "end": 4557.72,
+   "text": "Có 5 vùng nước, tựng ở với 5 cấp độ lặng.",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.608
+  },
+  {
+   "start": 4557.72,
+   "end": 4562.36,
+   "text": "Phần năng lực tượng Việt này giống 1 dạng cây kĩ năng, khi tăng điểm sẽ hỗ trợ việc lặng hiệu quả hơn.",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.608
+  },
+  {
+   "start": 4562.36,
+   "end": 4565.56,
+   "text": "Tôi nâng 1 điểm vào liềm cá đuối, sức mạnh của cá liềm hay rất tốt.",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.608
+  },
+  {
+   "start": 4565.56,
+   "end": 4569.48,
+   "text": "Tôi thấy sự kiện này chơi rất vui, cảm giác luật đồ rồi phải tính toán xếp đồ cho thật ngăn nắp.",
+   "avg_logprob": -0.197,
+   "no_speech_prob": 0.608
+  },
+  {
+   "start": 4569.48,
+   "end": 4574.44,
+   "text": "Trong cân phấn khích, tôi vào luôn con box của M1, và tất nhiên tôi đã bị 2 con cá cho lên diễn.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.804
+  },
+  {
+   "start": 4574.44,
+   "end": 4578.12,
+   "text": "Thật ra, tôi chỉ muốn giới thiệu phần hình phản khi lỡ để máu tốt về không thôi.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.804
+  },
+  {
+   "start": 4578.12,
+   "end": 4582.84,
+   "text": "Trước tôi đồ con gà như vậy, tôi trở lại vùng biển ngay sau đó và lần này sẽ xét cẩn thận hơn.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.804
+  },
+  {
+   "start": 4582.84,
+   "end": 4586.12,
+   "text": "Bắt phải con cá sinh lam và lấp đầy túi đồ xong là tôi lên bờ liền.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.804
+  },
+  {
+   "start": 4586.12,
+   "end": 4589.48,
+   "text": "Trở lại biển lần 3, lần này tôi đã biết làm những vụ của sự kiện.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.804
+  },
+  {
+   "start": 4589.48,
+   "end": 4593.16,
+   "text": "5 sự kiện này đơn giản, chuyến chuyện này khá là ngon, tôi kiếm nhẹ 3 cá su.",
+   "avg_logprob": -0.235,
+   "no_speech_prob": 0.804
+  },
+  {
+   "start": 4593.32,
+   "end": 4598.44,
+   "text": "Về nhà, tôi ấp đen túi đồ để có thêm không gian nhặt vật phẩm, thêm đam và máu đề sinh tôn hiệu quả hơn.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.147
+  },
+  {
+   "start": 4598.44,
+   "end": 4603.16,
+   "text": "Sau khi tôi gặp sích Wynh và nhận yêu cầu bắt xong cá đuối, nó là con box mà tôi vào huynh nãy.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.147
+  },
+  {
+   "start": 4603.16,
+   "end": 4606.6,
+   "text": "Cũng chiến diễn ra cực kỳ cam go khi mà cả 2 đều ăn biến trả miếng.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.147
+  },
+  {
+   "start": 4606.6,
+   "end": 4613.4,
+   "text": "Đến phút cuối, khi mà cả tôi và con box đều chỉ còn đu 1 máu, tôi đã lẽ hơn đánh cứ chốt hạ, chiến thắng trong sự ngơ ngang của con box.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.147
+  },
+  {
+   "start": 4613.4,
+   "end": 4617.4,
+   "text": "Đấy, tôi đã bảo tôi nhường nó thôi, chứ con box này tùa gì đánh tôi.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.147
+  },
+  {
+   "start": 4617.4,
+   "end": 4620.28,
+   "text": "Wow, con box có giá 1.800 su lận.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.147
+  },
+  {
+   "start": 4620.36,
+   "end": 4624.28,
+   "text": "Tôi lụng nót để ghé quận nhiệm vụ zolenber, chuẩn đi này đã khá hơn lần trước.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4624.28,
+   "end": 4630.28,
+   "text": "Điểm đặc biệt của sự kiện này, đó là chúng ta có thể trang trí bể cá, thẳng những con cá mà chúng ta đã bắt vào bể trong khung khí xinh động.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4630.28,
+   "end": 4634.28,
+   "text": "Ngoài ra, còn có 1 bộ piano rất ngầu, cần chúng ta thu thập để đủ hoàn thiện.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4634.28,
+   "end": 4637.28,
+   "text": "Sau khi đánh bại, box cả đuối là tôi đã đủ điều kiện đến sang vùng miền 2.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4637.28,
+   "end": 4640.28,
+   "text": "Độ khó tặng, đồng nghiệm về việc kho báo cũng giá trị hơn.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4640.28,
+   "end": 4644.28,
+   "text": "Tuy nhiên, vẫn là cả tính cầm nền trị trức ô tô, tôi và luôn con box của.",
+   "avg_logprob": -0.27,
+   "no_speech_prob": 0.009
+  },
+  {
+   "start": 4644.28,
+   "end": 4646.28,
+   "text": "Mình vẫn còn rất yếu, nhưng mà tôi cũng lấy được 1 nửa bó con box.",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.732
+  },
+  {
+   "start": 4646.28,
+   "end": 4649.28,
+   "text": "Tiếc là 1 phút lơ lả, tôi đã bị con box dáp về bờ.",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.732
+  },
+  {
+   "start": 4650.28,
+   "end": 4652.28,
+   "text": "Hên là vẫn mang theo đồng ngón đồ giá trị nhất.",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.732
+  },
+  {
+   "start": 4652.28,
+   "end": 4655.28,
+   "text": "Ngày 89, tôi vẫn tiếp tục làm sự kiện.",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.732
+  },
+  {
+   "start": 4655.28,
+   "end": 4658.28,
+   "text": "Lần trước cho dại chập nhầm đại ca, nên hôm nay tôi sẽ cẩn thận hơn.",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.732
+  },
+  {
+   "start": 4658.28,
+   "end": 4660.28,
+   "text": "Tôi lòng vòng lụng đủ hết nhiệm vụ và củ vật.",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.732
+  },
+  {
+   "start": 4660.28,
+   "end": 4664.28,
+   "text": "Lần này, tôi được hẳn bể cá su, tôi update luôn sức mạnh và sức trở đồ,",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.732
+  },
+  {
+   "start": 4664.28,
+   "end": 4666.28,
+   "text": "thêm chỗ trở là thêm xiền.",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.732
+  },
+  {
+   "start": 4666.28,
+   "end": 4669.28,
+   "text": "Lần bơi vừa rồi, giúp tôi đủ điều kiện để mở quá quay bắn hàng.",
+   "avg_logprob": -0.223,
+   "no_speech_prob": 0.732
+  },
+  {
+   "start": 4669.28,
+   "end": 4671.28,
+   "text": "Vật phẩm bán là những thứ tôi đã lụng dưới biển,",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4671.28,
+   "end": 4673.28,
+   "text": "bàn đồ sẽ có ba ô để ta bay đồ bán.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4673.28,
+   "end": 4676.28,
+   "text": "Lần đầu hơi bỡ ngỡ, tôi lỡ để ba vị khách tư dận bỏ đi.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4676.28,
+   "end": 4679.28,
+   "text": "Khi có kinh nghiệm rùi, tôi nhanh chóng bàn cho những vị khách đến hỏi hàng.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4680.28,
+   "end": 4683.28,
+   "text": "Danh thu của việc bán hàng này rất ấn tượng, gấp đôi tiền tôi phải khô sợ đi lạnh.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4683.28,
+   "end": 4686.28,
+   "text": "Dùng dình rùi, tôi nâng thêm vài điểm và sức mạnh.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4686.28,
+   "end": 4690.28,
+   "text": "Trở lại với vùng biển 2, lần này tôi cắn lụng nhiều cổ vật nhất có thể để kiếm thêm sụ.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4690.28,
+   "end": 4693.28,
+   "text": "Lần tiếp theo, tôi tới tai chiếm con box của.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.222
+  },
+  {
+   "start": 4693.28,
+   "end": 4696.28,
+   "text": "Do khi ăn nâng gấp quá chơi sức mạnh, thì sao mà thua con cô này được?",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.859
+  },
+  {
+   "start": 4696.28,
+   "end": 4700.28,
+   "text": "Quên con cô xong, tôi có nhận được một cái không đáng piano, phần còn thiếu cổ bộ piano đó.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.859
+  },
+  {
+   "start": 4700.28,
+   "end": 4703.28,
+   "text": "Về nhà, tôi dùng hết sụ đã có để áp điểm phần kinh doanh.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.859
+  },
+  {
+   "start": 4703.28,
+   "end": 4706.28,
+   "text": "Già bán tăng thì siền cũng tăng. Tôi tới luôn của kinh doanh để bán hàng.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.859
+  },
+  {
+   "start": 4706.28,
+   "end": 4708.28,
+   "text": "Kiểu cho chơi kinh doanh để bán hàng như này tôi rất thích.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.859
+  },
+  {
+   "start": 4708.28,
+   "end": 4710.28,
+   "text": "Chơi quài cũng không chán luôn.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.859
+  },
+  {
+   "start": 4710.28,
+   "end": 4713.28,
+   "text": "Tổng kết buổi bán, tôi lực cơn 20.000 sụ.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.859
+  },
+  {
+   "start": 4713.28,
+   "end": 4716.28,
+   "text": "Nó cũng mở quá cho tôi thêm một trò chơi mới, đó là bắt cá.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.859
+  },
+  {
+   "start": 4716.28,
+   "end": 4718.28,
+   "text": "Cái trọng bán cá này đúng là nghiện luôn.",
+   "avg_logprob": -0.233,
+   "no_speech_prob": 0.859
+  },
+  {
+   "start": 4718.28,
+   "end": 4720.28,
+   "text": "Các tiền cứ nổ bum bum rất là thích.",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 4720.28,
+   "end": 4722.28,
+   "text": "Tổng kết lần câu này, tôi được 15.000 sụ.",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 4722.28,
+   "end": 4725.28,
+   "text": "Tôi nâng thêm vài điểm kinh doanh và chiến đấu rồi cho lại biển luôn.",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 4726.28,
+   "end": 4728.28,
+   "text": "Lần này là vùng biển thứ 3.",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 4728.28,
+   "end": 4730.28,
+   "text": "Trong vùng biển lần này có cái khẩu phào bắn rất khó chịu.",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 4730.28,
+   "end": 4734.28,
+   "text": "Tôi loài hoai mã mà không phát được nó đi, nên phải tạm nè nó để đi lụng dương khác.",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 4734.28,
+   "end": 4737.28,
+   "text": "Đây nè, mấy ông xem, cảm giác sắp xếp đồ đà quảng",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 4737.28,
+   "end": 4739.28,
+   "text": "làm cái việc đi lặn này trở lên thú vị rơn rất nhiều.",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 4739.28,
+   "end": 4742.28,
+   "text": "Tôi lặn thêm vài lần để nâng cấp kinh năng trước khi vai nhau với con box.",
+   "avg_logprob": -0.186,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 4742.28,
+   "end": 4745.28,
+   "text": "Tôi sử dụng kinh năng lưới kiếm của cá đuối để bính con box.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 4745.28,
+   "end": 4748.28,
+   "text": "Hiệu quả của vũ khí này quá rõ rệt khi tôi cho vai chém là nó lầm.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 4748.28,
+   "end": 4752.28,
+   "text": "Lụm xong con box cùng với mảnh piano thứ 3 là tôi lên bờ liền.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 4752.28,
+   "end": 4755.28,
+   "text": "Tôi tới lắp mảnh piano thứ 3 rồi con nói chuyện với Colum ngay cạnh đó.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 4755.28,
+   "end": 4757.28,
+   "text": "Rồi quay lại quay bán hàng tiếp khách luôn.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 4757.28,
+   "end": 4759.28,
+   "text": "Lần này, tôi đã có kinh nghiệm hơn rất nhiều",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 4759.28,
+   "end": 4762.28,
+   "text": "nên đã bán hết sạch số hàng tuần trước cả tới hạm thời gian.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 4762.28,
+   "end": 4764.28,
+   "text": "Mấy cái bể cá cũng có trang trí rong tàu rất đẹp.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 4764.28,
+   "end": 4766.28,
+   "text": "Mỗi món tố 1 nhìn du để mua.",
+   "avg_logprob": -0.179,
+   "no_speech_prob": 0.696
+  },
+  {
+   "start": 4766.28,
+   "end": 4769.28,
+   "text": "Tiền thì kiếm xíu là xong nhưng mà để đẹp thì rất khó làm.",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.479
+  },
+  {
+   "start": 4769.28,
+   "end": 4772.28,
+   "text": "Trách điểm sự kiện thì tôi đã đủ để nhận Free Betalot.",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.479
+  },
+  {
+   "start": 4772.28,
+   "end": 4774.28,
+   "text": "Sau đó tôi dễ qua bể cá để chơi bán cá.",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.479
+  },
+  {
+   "start": 4774.28,
+   "end": 4776.28,
+   "text": "Bán cá này vừa vui mà phần thường cũng rất hậu hãng.",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.479
+  },
+  {
+   "start": 4776.28,
+   "end": 4778.28,
+   "text": "Một lần câu mà được tận 2-3 nghìn su.",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.479
+  },
+  {
+   "start": 4778.28,
+   "end": 4781.28,
+   "text": "Xong suôi, tôi kiểm tra bằng lặng thì đã mở 2 vùng nước cuối cùng.",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.479
+  },
+  {
+   "start": 4781.28,
+   "end": 4784.28,
+   "text": "Độ khó của 2 mắp cuối cùng này cũng không khác gì nhiều mắp cũ.",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.479
+  },
+  {
+   "start": 4784.28,
+   "end": 4786.28,
+   "text": "Chỉ là nhiều của vật hơn thôi.",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.479
+  },
+  {
+   "start": 4786.28,
+   "end": 4789.28,
+   "text": "Tôi làm thêm một nhiệm vụ thật 3 cái đen pha.",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.479
+  },
+  {
+   "start": 4789.28,
+   "end": 4792.28,
+   "text": "Phần thường khá hậu hãng, 2 đồ vàng với 2 món tím.",
+   "avg_logprob": -0.201,
+   "no_speech_prob": 0.479
+  },
+  {
+   "start": 4796.28,
+   "end": 4800.28,
+   "text": "Từ sau khi tôi nắm nước rõ sức mạnh của kiểm ca đuối, việc đánh boss trở nên quá đơn giản,",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.272
+  },
+  {
+   "start": 4800.28,
+   "end": 4803.28,
+   "text": "tôi chạy cân đánh mà cứ chạy lanh quen con boss, nó tự lanh quay ra ngờ vụng.",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.272
+  },
+  {
+   "start": 4803.28,
+   "end": 4806.28,
+   "text": "Lụm thêm mảnh piano thứ 4 rồi trở lại bờ luôn.",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.272
+  },
+  {
+   "start": 4806.28,
+   "end": 4808.28,
+   "text": "Vậy là các bể cá cũng gần hoàn thiện dùi.",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.272
+  },
+  {
+   "start": 4808.28,
+   "end": 4811.28,
+   "text": "Tôi mua hết tảo và xan hô được trang tríu cho bể thêm sinh động.",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.272
+  },
+  {
+   "start": 4811.28,
+   "end": 4813.28,
+   "text": "Tiện thể, tôi tiếp tục mở cửa hàng bàn đồ,",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.272
+  },
+  {
+   "start": 4813.28,
+   "end": 4815.28,
+   "text": "càng chơi cái minigame này tôi càng thì thích.",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.272
+  },
+  {
+   "start": 4815.28,
+   "end": 4818.28,
+   "text": "Doanh thu của lần bán này cứ kiến tượng, tận sóc táo nghiêm xù.",
+   "avg_logprob": -0.246,
+   "no_speech_prob": 0.272
+  },
+  {
+   "start": 4818.28,
+   "end": 4824.28,
+   "text": "Quá trời là tiền, tôi nâng cấp thêm một loạt kĩ năng, nâng cấp xong là tôi tới vùng biển cuối cùng, biển số 5.",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.208
+  },
+  {
+   "start": 4824.28,
+   "end": 4828.28,
+   "text": "Với sức mạnh hiện tại, tôi đi tìm con boss thì sử lý luôn, nó chưa tăng hình,",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.208
+  },
+  {
+   "start": 4828.28,
+   "end": 4830.28,
+   "text": "nhưng mà chỉ là chuyện nhỏ với lợi giao đuổi.",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.208
+  },
+  {
+   "start": 4830.28,
+   "end": 4832.28,
+   "text": "Cứ bơi lòng vào một lúc là con boss tự ngỏng,",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.208
+  },
+  {
+   "start": 4832.28,
+   "end": 4835.28,
+   "text": "mam này cũng có một nhiệm vụ phụ là chuyên tim thuyến ma.",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.208
+  },
+  {
+   "start": 4835.28,
+   "end": 4839.28,
+   "text": "Phần thường nhiệm vụ phụ lúc nào cũng hậu hãng cả, nhận xong tôi lên bờ luôn.",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.208
+  },
+  {
+   "start": 4839.28,
+   "end": 4842.28,
+   "text": "Trở lại biển ngay sau đó, tôi làm nó những ủy thác răng rở,",
+   "avg_logprob": -0.18,
+   "no_speech_prob": 0.208
+  },
+  {
+   "start": 4842.28,
+   "end": 4846.28,
+   "text": "vùng biển thứ 5 thực sự có rất nhiều cổ vật vàng, giá trị cũng mỗi món đồ rất lớn.",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.76
+  },
+  {
+   "start": 4846.28,
+   "end": 4850.28,
+   "text": "Tôi lận vài lần kiếm thật nhiều cổ vật để danh cho lần mở bán gửi hàng tiếp theo.",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.76
+  },
+  {
+   "start": 4850.28,
+   "end": 4853.28,
+   "text": "Không quên đánh con boss hải cầu thêm lần nữa để lụng mảnh piano cuối cùng.",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.76
+  },
+  {
+   "start": 4853.28,
+   "end": 4857.28,
+   "text": "Cho lại tuyển, tôi đặt mảnh piano cuối cùng và hoàn thiện dãy cổ vật ở Hành Lan.",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.76
+  },
+  {
+   "start": 4857.28,
+   "end": 4860.28,
+   "text": "Sau đó là phần tôi thích nhất, mở bán hàng tác hóa.",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.76
+  },
+  {
+   "start": 4861.28,
+   "end": 4865.28,
+   "text": "Tôi đã tích con một rất nhiều đồ để bán, để xem lần này tôi sẽ được bao nhiêu xù nha.",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.76
+  },
+  {
+   "start": 4865.28,
+   "end": 4869.28,
+   "text": "Khách cứ tới nầm lượp, liên tục và chỉ hơn 2 phút tôi đã bán xong,",
+   "avg_logprob": -0.177,
+   "no_speech_prob": 0.76
+  },
+  {
+   "start": 4869.28,
+   "end": 4875.28,
+   "text": "tổng danh thu của lần này là 227.000 xù. Cộng về số xù tôi sẵn có thì con số ấy lên tới gần 300.000 xù.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.068
+  },
+  {
+   "start": 4875.28,
+   "end": 4879.28,
+   "text": "Như này thì tôi có thể soạn nâng cấp hết sạch kĩ năng dùi, cảm giác tiêu tiền cũng thích nữa.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.068
+  },
+  {
+   "start": 4879.28,
+   "end": 4883.28,
+   "text": "Tiêu xong, tôi sẽ qua bể cá chơi bàn cá tiếp, giờ câu cá cũng đã chiêu hơn rất nhiều.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.068
+  },
+  {
+   "start": 4883.28,
+   "end": 4888.28,
+   "text": "Không những thế, giá trị cầu cũng rất cao, 59.000 xù cho một lần bắt là quá khủng rùi.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.068
+  },
+  {
+   "start": 4889.28,
+   "end": 4892.28,
+   "text": "Sau cái ghép đủ 5 mảnh piano, tôi tới gặp Feminette để trà nhiệm vụ.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.068
+  },
+  {
+   "start": 4892.28,
+   "end": 4895.28,
+   "text": "Thì ra, bộ piano này là của Sandro đã bị mất từ rất lâu.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.068
+  },
+  {
+   "start": 4895.28,
+   "end": 4899.28,
+   "text": "Sau một thời gian sửa chữa, cái đàn đã trở nên cực ký lông linh và đẹp mắt.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.39
+  },
+  {
+   "start": 4899.28,
+   "end": 4902.28,
+   "text": "Ờ... chứ cái đống đàm đỏ ra nhỉ?",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.39
+  },
+  {
+   "start": 4902.28,
+   "end": 4905.28,
+   "text": "Mọi thứ đã hoàn thành, tôi tới gặp Sandro ở văn phòng giám đốc.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.39
+  },
+  {
+   "start": 4905.28,
+   "end": 4911.28,
+   "text": "Xếp bất ngờ về số tiên mà tôi đã kiếm được, mà là xếp không biết tôi vẫn còn đụt túi thêm 1 bé challenge và 1 nuôi nguyên thạch tây.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.39
+  },
+  {
+   "start": 4911.28,
+   "end": 4915.28,
+   "text": "Tôi tới gặp Sick Queen, sau đó, hai bọn tôi đừng ngắm bể cá một lúc.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.39
+  },
+  {
+   "start": 4915.28,
+   "end": 4918.28,
+   "text": "Cô giao cho tôi nhiệm vụ trở lại biển, tìm kiếm những robot lặng.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.39
+  },
+  {
+   "start": 4918.28,
+   "end": 4922.28,
+   "text": "Nhận vụ này rất nguy hiểm, vì nó ở vùng nước bị ôn nhiễm nên báo sẽ bị rút liên tục.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.359
+  },
+  {
+   "start": 4922.28,
+   "end": 4926.28,
+   "text": "Những con robot tuần tra có máu rất châu, khi bắt còn phải trải qua một minigame nhỏ.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.359
+  },
+  {
+   "start": 4926.28,
+   "end": 4930.28,
+   "text": "Ngay cả những con cá cũng mạnh lên không kém, nhưng con cá màu đỏ này đã biến dịm và rất châu.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.359
+  },
+  {
+   "start": 4930.28,
+   "end": 4934.28,
+   "text": "Tôi cố gắng hoàn thành tất cả nhiệm vụ của sự kiện, cùng với đó là trang phục của trà lốt thám tử rất đẹp.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.359
+  },
+  {
+   "start": 4934.28,
+   "end": 4938.62,
+   "text": "Ngày chín 1, sự kiện đã kết thúc.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.359
+  },
+  {
+   "start": 4938.62,
+   "end": 4941.62,
+   "text": "Đã đến lúc tôi trở về North Cry để một phu dương tại đây.",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.359
+  },
+  {
+   "start": 4941.62,
+   "end": 4945.62,
+   "text": "Đầu tiên là Đào Hitsi. Thu viện của phương nguyên đã được xây dựng trở lại,",
+   "avg_logprob": -0.218,
+   "no_speech_prob": 0.359
+  },
+  {
+   "start": 4945.62,
+   "end": 4947.62,
+   "text": "lòng mà rất cảm kích vì những gì phila đã đóng góp.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.853
+  },
+  {
+   "start": 4947.62,
+   "end": 4950.62,
+   "text": "Tôi lên đường tới Đào Lempô tiếp tục chuyến hành trình.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.853
+  },
+  {
+   "start": 4950.62,
+   "end": 4953.62,
+   "text": "Nhưng cái cảm giác mà khám phá Dương North Cry đem lại rất tăng giá.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.853
+  },
+  {
+   "start": 4953.62,
+   "end": 4957.62,
+   "text": "Từ giải đố đến âm nhạc, mọi thứ kết hợp lại khiến quá trình trạy mép không hề nhắm trà chút nào.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.853
+  },
+  {
+   "start": 4957.62,
+   "end": 4961.62,
+   "text": "Kết thúc Đào Lempô, tạm biệt Aino và Inefa tôi đã đảo của Flynn.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.853
+  },
+  {
+   "start": 4961.62,
+   "end": 4964.62,
+   "text": "Ngọn hải đăng lạnh liệu cho tôi pháo đại pha tôi đồ sộ.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.853
+  },
+  {
+   "start": 4964.62,
+   "end": 4966.62,
+   "text": "Tôi đã vượt bao ngọn núi, thứ 3 con sứa thành đỏ,",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.853
+  },
+  {
+   "start": 4966.62,
+   "end": 4970.62,
+   "text": "đồng hành cùng nét tóc ca cực nâu đánh bại tình trung ý pha tôi cực mạnh.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.517
+  },
+  {
+   "start": 4970.62,
+   "end": 4973.62,
+   "text": "Không những thế từ còn tra trộn, thâm nhập vào số bên trong phỏ đại pha tôi.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.517
+  },
+  {
+   "start": 4973.62,
+   "end": 4976.62,
+   "text": "Cuối cùng là vượt biển của những trừ ca voi sanh vĩ đại.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.517
+  },
+  {
+   "start": 4976.62,
+   "end": 4979.62,
+   "text": "Kết thúc chuyến hành trình, tôi mở hết hầm kho bóng nhận thành duy vật 5 sao,",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.517
+  },
+  {
+   "start": 4979.62,
+   "end": 4981.62,
+   "text": "trong số đó có rất nhiều món đồ ngon.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.517
+  },
+  {
+   "start": 4981.62,
+   "end": 4984.62,
+   "text": "Với một F2P như tôi thì những thành duy vật này thức sự là kho bóng.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.517
+  },
+  {
+   "start": 4984.62,
+   "end": 4987.62,
+   "text": "Tôi mở nót chích sương một chiều khóa điện linh và...",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.517
+  },
+  {
+   "start": 4987.62,
+   "end": 4989.62,
+   "text": "Ta-da!",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.517
+  },
+  {
+   "start": 4989.62,
+   "end": 4991.62,
+   "text": "103 đảo khởi Đào North Cry.",
+   "avg_logprob": -0.298,
+   "no_speech_prob": 0.517
+  },
+  {
+   "start": 4991.62,
+   "end": 4994.62,
+   "text": "1993, tôi xảy nhiệm pham nguy liệu đột phá cho Ouroron.",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.698
+  },
+  {
+   "start": 4994.62,
+   "end": 4996.62,
+   "text": "Tôi đang rất cần nhân vật cấp lưu hiệu quả.",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.698
+  },
+  {
+   "start": 4996.62,
+   "end": 4999.62,
+   "text": "Hiện tại, những con bóng sửa nát lan có thể dễ dàng vượt qua dùi,",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.698
+  },
+  {
+   "start": 4999.62,
+   "end": 5001.62,
+   "text": "nên việc pham rất nhanh chóng.",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.698
+  },
+  {
+   "start": 5001.62,
+   "end": 5004.62,
+   "text": "Sau đó, tôi trở lại fontain hoàn thành nốt hồi sau sự kiện công cá.",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.698
+  },
+  {
+   "start": 5004.62,
+   "end": 5006.62,
+   "text": "Tôi tới gặp Sandron tại căng nhà cũ của cô.",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.698
+  },
+  {
+   "start": 5006.62,
+   "end": 5009.62,
+   "text": "Đây là căng nhà của cô và Alain từng sống.",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.698
+  },
+  {
+   "start": 5009.62,
+   "end": 5011.62,
+   "text": "Tại đây, chúng ta được biết nhiều hơn về bản thân Sandron",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.698
+  },
+  {
+   "start": 5011.62,
+   "end": 5013.62,
+   "text": "và những việc đã diễn ra trong quá khứ.",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.698
+  },
+  {
+   "start": 5013.62,
+   "end": 5016.62,
+   "text": "Nhưng mối quan hệ, những nỗi đau mà cũng đã trải qua,",
+   "avg_logprob": -0.224,
+   "no_speech_prob": 0.698
+  },
+  {
+   "start": 5016.62,
+   "end": 5019.62,
+   "text": "chiến thắng lớn nhất của cuộc đời là chiến thắng chính bản thân mình.",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.073
+  },
+  {
+   "start": 5019.62,
+   "end": 5022.62,
+   "text": "Sandron tự an nổi bản thân, chấp nhận những nỗi đau của quá khứ,",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.073
+  },
+  {
+   "start": 5022.62,
+   "end": 5024.62,
+   "text": "trưởng thành hơn và mạnh ngẽ hơn.",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.073
+  },
+  {
+   "start": 5024.62,
+   "end": 5027.62,
+   "text": "Sao sự kiện ấy, mùa đơn cảm xúc của cô đã hoàn thiện hơn nhiều.",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.073
+  },
+  {
+   "start": 5027.62,
+   "end": 5039.61,
+   "text": "Chỉ còn thiếu một việc, đó là giải quyết hoán linh ngầm một kiện nghiêm cứu.",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.073
+  },
+  {
+   "start": 5040.61,
+   "end": 5043.61,
+   "text": "Sandron mỏng hóa chú thật sự, bùng tay hóa dài mọi hoán niệm.",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.073
+  },
+  {
+   "start": 5052.69,
+   "end": 5054.69,
+   "text": "Mọi chuyện đã kết thúc rất tốt đẹp.",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.073
+  },
+  {
+   "start": 5054.69,
+   "end": 5113.62,
+   "text": "Sandron cùng mọi người trở về tuyến ăn mừng vì bỗng chốt.",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.073
+  },
+  {
+   "start": 5113.62,
+   "end": 5115.62,
+   "text": "Đây, vừa chính là kết thúc tốt đẹp mà tôi muốn thấy.",
+   "avg_logprob": -0.199,
+   "no_speech_prob": 0.073
+  },
+  {
+   "start": 5115.62,
+   "end": 5119.62,
+   "text": "Cái tốt sự kiện, tích thân Sandron ngồi đánh piano trước sự trình kiến của tất cả người dân thăm quan,",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.404
+  },
+  {
+   "start": 5119.62,
+   "end": 5123.62,
+   "text": "và nhạc này như là lời khẳng định về nguồn ngốc của cô và cũng là sự hoàn nghiệm dành cho Alain.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.404
+  },
+  {
+   "start": 5123.62,
+   "end": 5129.67,
+   "text": "Ngày 94, mở đầu ngày, tôi đi nhặt nguy liệu đột phá cho Mizuki.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.404
+  },
+  {
+   "start": 5129.67,
+   "end": 5131.67,
+   "text": "Một thế giới là chưa đủ.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.404
+  },
+  {
+   "start": 5131.67,
+   "end": 5134.67,
+   "text": "Tôi xin sang mua của bạn nở HT để nhặt thêm hoa.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.404
+  },
+  {
+   "start": 5134.67,
+   "end": 5136.67,
+   "text": "Bạn ấy cho tôi ngắm không cảnh rất đẹp ở Inazuma.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.404
+  },
+  {
+   "start": 5136.67,
+   "end": 5140.67,
+   "text": "Đây là lần đầu tiên tôi được ngắm nhìn tan cảnh lâu đài Inazuma từ góc như này.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.404
+  },
+  {
+   "start": 5140.67,
+   "end": 5142.67,
+   "text": "Ngắm cảnh xong tôi tiếp tục đi nhặt hoa,",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.404
+  },
+  {
+   "start": 5142.67,
+   "end": 5144.67,
+   "text": "và Mizuki của tôi đã đặt cấp 80.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.784
+  },
+  {
+   "start": 5144.67,
+   "end": 5148.67,
+   "text": "Hầu hết nguy liệu đột phá đã đủ, nhưng mà nã phòng tôi không có một cụp nào.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.784
+  },
+  {
+   "start": 5148.67,
+   "end": 5151.67,
+   "text": "Nên thùi, bao giờ có thêm nguy liệu thì áp bé lên sau vậy.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.784
+  },
+  {
+   "start": 5151.67,
+   "end": 5153.67,
+   "text": "Sau đó tựa tới Not Cry để mở dương.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.784
+  },
+  {
+   "start": 5153.67,
+   "end": 5155.67,
+   "text": "Mục tiêu của tân này là phải mở phun dương của hôn đảo này.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.784
+  },
+  {
+   "start": 5155.67,
+   "end": 5157.67,
+   "text": "Tôi bắt đầu đi từ thành Pyramida,",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.784
+  },
+  {
+   "start": 5157.67,
+   "end": 5159.67,
+   "text": "đi ngang qua cầu thủy tư gặp Hai Runny,",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.784
+  },
+  {
+   "start": 5159.67,
+   "end": 5162.67,
+   "text": "đang nói chuyện, đồng độc của người dữ đèn không may bị kiểm soát,",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.784
+  },
+  {
+   "start": 5162.67,
+   "end": 5165.67,
+   "text": "sau một hồi giải tây, trữ giải kiếu cả hai đất khỏi cuộc sân hoang dã.",
+   "avg_logprob": -0.244,
+   "no_speech_prob": 0.784
+  },
+  {
+   "start": 5165.67,
+   "end": 5168.67,
+   "text": "Tôi được đưa lên thành Pyramida, gặp những người dữ đèn khác.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.287
+  },
+  {
+   "start": 5168.67,
+   "end": 5172.67,
+   "text": "Tại đây, họ đang tập trung lực lượng để tấn công chiếm cứu lại bách đá Kipu Maki.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.287
+  },
+  {
+   "start": 5172.67,
+   "end": 5176.67,
+   "text": "Phela được một runnyx sinh chợ giúp và với bản tính nghĩa hiệp, Phela luyên sẵn lòng.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.287
+  },
+  {
+   "start": 5176.67,
+   "end": 5179.67,
+   "text": "Mọi việc xong ruôi, tôi thảm phá thêm đầm lây bóng tối và một số điểm dịch chuyển.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.287
+  },
+  {
+   "start": 5179.67,
+   "end": 5183.67,
+   "text": "Ngày 1995, hôm nay tôi sẽ làm một nhận vụ rất rất hẹ trọng.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.287
+  },
+  {
+   "start": 5183.67,
+   "end": 5185.67,
+   "text": "Đó là đi đánh tất cả boss, ở tất cả các vùng đất.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.287
+  },
+  {
+   "start": 5185.67,
+   "end": 5188.67,
+   "text": "Tuy nhiên, nhận vụ này yêu cầu phải chơi cùng với đồng đội.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.287
+  },
+  {
+   "start": 5188.67,
+   "end": 5190.67,
+   "text": "May mắn thay, tôi đã hẹn được bạn nữa hát tê giúp đỡ hôm qua.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.655
+  },
+  {
+   "start": 5190.67,
+   "end": 5195.67,
+   "text": "Bọn tôi bắt đầu từ monstat, con đầu tiên là phong nguyên bản, con thứ hai là cây cấp đông.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.655
+  },
+  {
+   "start": 5195.67,
+   "end": 5197.67,
+   "text": "AKA con boss khổ nhất trên sinh.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.655
+  },
+  {
+   "start": 5197.67,
+   "end": 5200.67,
+   "text": "Sau đó là lôi nguyên bản và vừa xóa bắp phong.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.655
+  },
+  {
+   "start": 5200.67,
+   "end": 5203.67,
+   "text": "Qua từ đi dưới, chúng ta có tinh linh nước trong AKA kể kiếm chân đại gia.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.655
+  },
+  {
+   "start": 5203.67,
+   "end": 5208.67,
+   "text": "Vì có muốn đánh nhanh cũng không được, tiếp đó là cây nổ, rồi dùng đất cổ nhạm.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.655
+  },
+  {
+   "start": 5208.67,
+   "end": 5211.67,
+   "text": "Không có cái thành tiệu này thì tôi đã quên mất sự tự tải của con boss này rồi.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.655
+  },
+  {
+   "start": 5211.67,
+   "end": 5215.67,
+   "text": "Con cuối cùng là nhạm nguyên bản, con này dùng hầu khái lực điên đánh nước siêu lệ.",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 5215.67,
+   "end": 5220.67,
+   "text": "Tiếp theo là long tích cấp sơn, trên này có mỗi con băng nguyên bản thôi, cũng khá lâu rồi tôi không đánh con này.",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 5220.67,
+   "end": 5221.67,
+   "text": "Thế là xong.",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 5221.67,
+   "end": 5227.67,
+   "text": "Giờ tới Inazuma nào, mùa hình động cơm ích cử, hoàng nguyên bản, magukenki, thủy nguyên bản,",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 5227.67,
+   "end": 5230.67,
+   "text": "vô thủ hoàng kim và cuối cùng là thực thể sấm xét.",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 5230.67,
+   "end": 5235.67,
+   "text": "Tiếp tục tiền tên Sumeru nào, con đầu tiên là dùng điểm báo mạng kiếm.",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 5235.67,
+   "end": 5238.67,
+   "text": "Tiếp theo là nằm thủy linh mà cây kích điện.",
+   "avg_logprob": -0.249,
+   "no_speech_prob": 0.87
+  },
+  {
+   "start": 5238.67,
+   "end": 5242.67,
+   "text": "Qua tới trầm ngọc cốc, chỉ có duy một con boss là ẩn sơn nghe thú, tạp nước vượt mây.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 5242.67,
+   "end": 5245.67,
+   "text": "Wow, mấy cái tên thành tiểu nghe cứ nghĩa hiểu thế nào ấy.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 5245.67,
+   "end": 5250.67,
+   "text": "Tới Fonten, từ bắt đầu với pika của Coppelia và quả báo của Coppelius.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 5250.67,
+   "end": 5254.67,
+   "text": "Tiếp theo là robot nguyên mẫu, con này có cái trò dậm nhảy như cui phết.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 5254.67,
+   "end": 5256.67,
+   "text": "Tiếp đến là cả ngựa ngọc trai ngàn năm.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 5256.67,
+   "end": 5259.67,
+   "text": "Nhân dạng ngước, cố hoàng đế thép nữa.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 5259.67,
+   "end": 5262.67,
+   "text": "Và cuối cùng là một con boss ẩn rất ít người biết.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 5262.67,
+   "end": 5266.67,
+   "text": "Tốc quấn ma tượng, con boss này không những action trên bản đồ nên rất khó nhận ra.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.045
+  },
+  {
+   "start": 5266.67,
+   "end": 5268.67,
+   "text": "Fonten xong rồi, giờ tới xa mạc thôi.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 5268.67,
+   "end": 5272.67,
+   "text": "Còn đầu tiên là cái giữ mộ vô xa mạc, aka con boss khổ thứ nhì nghe chìm.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 5272.67,
+   "end": 5274.67,
+   "text": "Tiếp theo là con sông ữ khoan.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 5274.67,
+   "end": 5277.67,
+   "text": "Tiếp đến là cái giờ tội tàn ác, người dẫn đường từ điện đăng đen.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 5277.67,
+   "end": 5280.67,
+   "text": "Tiếp theo là tới Nát Lan, Sơn Vương.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 5280.67,
+   "end": 5283.67,
+   "text": "Dùng lửa bạo chúa và tượng rong rung nhèm.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 5283.67,
+   "end": 5285.67,
+   "text": "Những con boss tuần cũng tính làm buồn nhiệm vụ thành tiểu.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 5285.67,
+   "end": 5290.67,
+   "text": "Tui đánh thôn kinh ngư, Alex Chino, Shoukinokami, nghề thủ hộ của ốc đảo cuối cùng.",
+   "avg_logprob": -0.269,
+   "no_speech_prob": 0.034
+  },
+  {
+   "start": 5290.67,
+   "end": 5295.67,
+   "text": "Tiếp đến là mạng xa ri tích giữ vụng đa sâu, chị đẹp sinh Nora và cuối cùng là Viet Nam Đấm.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.624
+  },
+  {
+   "start": 5295.67,
+   "end": 5298.67,
+   "text": "Tưởng đành cùng với con boss tuổi, ai ngồi nó nhiều không suẻ.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.624
+  },
+  {
+   "start": 5298.67,
+   "end": 5301.67,
+   "text": "Còn rất nhiều con boss, nhưng tuổi tôi sẽ để hôm khác làm tiếp.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.624
+  },
+  {
+   "start": 5301.67,
+   "end": 5304.67,
+   "text": "Ngày 1996, là hoàn đã rơi xét mùa mới.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.624
+  },
+  {
+   "start": 5304.67,
+   "end": 5308.67,
+   "text": "Trước khi kết thúc 100 ngày, hãy xem chúng ta sẽ đạt đến tầng mây với gian tra này.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.624
+  },
+  {
+   "start": 5308.67,
+   "end": 5310.67,
+   "text": "Tầng 9, vẫn là hai tim kênh thuộc.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.624
+  },
+  {
+   "start": 5310.67,
+   "end": 5312.67,
+   "text": "Thaynery nửa trên và Dilac nửa dưới.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.624
+  },
+  {
+   "start": 5312.67,
+   "end": 5314.67,
+   "text": "Với Thaynery thì tầng này quá đơn giản rùi.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.624
+  },
+  {
+   "start": 5314.67,
+   "end": 5315.67,
+   "text": "Dilac cũng vậy.",
+   "avg_logprob": -0.275,
+   "no_speech_prob": 0.624
+  },
+  {
+   "start": 5315.67,
+   "end": 5318.67,
+   "text": "Nội 86K Dam, như vậy là cũng yên tâm vượt quà ấy dễ dàng rùi.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.627
+  },
+  {
+   "start": 5318.67,
+   "end": 5321.67,
+   "text": "Tôi có cảm giác, lâu hàng mùa này đánh dễ hơn nhiều.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.627
+  },
+  {
+   "start": 5321.67,
+   "end": 5323.67,
+   "text": "Khi các con quái không có quá nhiều mách hàng nguyên tố,",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.627
+  },
+  {
+   "start": 5323.67,
+   "end": 5325.67,
+   "text": "nhớ lại con ghì lân mùa trước thì tôi chỉ biết khóc.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.627
+  },
+  {
+   "start": 5325.67,
+   "end": 5328.67,
+   "text": "Wow, 102K Dam này.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.627
+  },
+  {
+   "start": 5328.67,
+   "end": 5330.67,
+   "text": "Đợi bao giờ mắc thiên phú xem ảnh thể hiện tiếp vậy.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.627
+  },
+  {
+   "start": 5330.67,
+   "end": 5332.67,
+   "text": "Tầng 9 và 10 khá dễ.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.627
+  },
+  {
+   "start": 5332.67,
+   "end": 5334.67,
+   "text": "Tôi đánh một mạc lên thằng tầng 11.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.627
+  },
+  {
+   "start": 5334.67,
+   "end": 5337.67,
+   "text": "Tầng 11, độ khó đã tăng một chút, số lượng quái đã tăng lên một chút,",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.627
+  },
+  {
+   "start": 5337.67,
+   "end": 5338.67,
+   "text": "và máu cũng châu hơn.",
+   "avg_logprob": -0.205,
+   "no_speech_prob": 0.627
+  },
+  {
+   "start": 5338.67,
+   "end": 5341.67,
+   "text": "Mặc dù tôi đã vượt qua được phòng 1, nhưng mà kết quả rất miễn cưỡng.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.215
+  },
+  {
+   "start": 5341.67,
+   "end": 5342.67,
+   "text": "Phòng 2 cũng vậy.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.215
+  },
+  {
+   "start": 5342.67,
+   "end": 5345.67,
+   "text": "Tôi cũng đã vượt qua đủ 3 sao, nhưng mà thời gian đánh rất lâu.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.215
+  },
+  {
+   "start": 5345.67,
+   "end": 5348.67,
+   "text": "Sang đến phòng số 3 thì dam của tôi thực sự đã qua đuối.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.215
+  },
+  {
+   "start": 5348.67,
+   "end": 5351.67,
+   "text": "Tôi chỉ đánh được 1 sao và dừng chân ở tầng 11 phòng 3.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.215
+  },
+  {
+   "start": 5351.67,
+   "end": 5352.67,
+   "text": "Ngay 9, 7.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.215
+  },
+  {
+   "start": 5352.67,
+   "end": 5355.67,
+   "text": "Tôi tiếp tục hành trình mở dương đàn bộ đảo Not Cry.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.215
+  },
+  {
+   "start": 5355.67,
+   "end": 5358.67,
+   "text": "Tôi phải giúp lại bỏ hơi thờ vực sâu của một cái trụ thần khổng lồ.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.215
+  },
+  {
+   "start": 5358.67,
+   "end": 5360.67,
+   "text": "Tôi không biết phải kênh thêm bao nhiêu lần cho ngang Not Cry nữa.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.215
+  },
+  {
+   "start": 5360.67,
+   "end": 5363.67,
+   "text": "Giải đố, cảnh vật, mọi thứ đều quá hình dịu và hào nháng.",
+   "avg_logprob": -0.192,
+   "no_speech_prob": 0.215
+  },
+  {
+   "start": 5363.67,
+   "end": 5367.67,
+   "text": "Chải qua hàng loạt các nhiệm vụ khó khăn, cuối cùng Phela đã thành tầng được lõi trụ thần.",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 5367.67,
+   "end": 5371.67,
+   "text": "Nhưng nhầm vui chưa được bao lâu, lần này trụ thần Empla đã bị vực sâu chiêm cứ hoàn toàn.",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 5371.67,
+   "end": 5377.56,
+   "text": "Khung cảnh hoang tàn, khủng khiếp quấn hướng cả khi chưa được thanh tới.",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 5377.56,
+   "end": 5380.56,
+   "text": "Phela phải từ doanh chạy của hội người giữ đèn đến ban chiến thuật.",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 5380.56,
+   "end": 5384.56,
+   "text": "Tại đây, đội trưởng Iluga thảo luận chiến thuật và chuẩn bị cho cuộc tỉnh tấn công thở lại con mắt vực sâu.",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 5384.56,
+   "end": 5388.56,
+   "text": "Sau đó, Phela trở chuyện với vài người lính trước chận chiến, trong đó có John,",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 5388.56,
+   "end": 5390.56,
+   "text": "một người lính lưu lạc quan và quả cảm.",
+   "avg_logprob": -0.209,
+   "no_speech_prob": 0.844
+  },
+  {
+   "start": 5395.56,
+   "end": 5399.56,
+   "text": "Trong chiến khó khăn, cùng những running, một vài người đã phải hy sinh, trong đó có John.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.796
+  },
+  {
+   "start": 5399.56,
+   "end": 5408.28,
+   "text": "Cuối cùng, khi ngọn dừng xanh được kích hoạt, Phela cùng mọi người đã có màn đắp trả gây ông độc lưng ông khiến sức mạnh vực sâu than vỡ.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.796
+  },
+  {
+   "start": 5408.28,
+   "end": 5412.28,
+   "text": "Ma nhãn đã bị xóa sổ, cũng đã chiến đã gây ra thiệt hại rất lớn cho cả hai bên.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.796
+  },
+  {
+   "start": 5412.28,
+   "end": 5416.28,
+   "text": "Để cuộc chiến kết thúc một lần và mãi mãi, Iluga quyết định một mình sông thẳng và ma nhãn,",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.796
+  },
+  {
+   "start": 5416.28,
+   "end": 5421.28,
+   "text": "quyết tâm hình thể hoàn toàn than dư vực sâu, với ý trí kênh cường, Iluga đã vượt qua cắm dỗ để tới thứ thách cuối cùng.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.796
+  },
+  {
+   "start": 5421.28,
+   "end": 5425.28,
+   "text": "Như khi từng mỗi trách nhiệm phải tự ngánh vắt trên đôi vai gầy, những đồng đội của Iluga bỗ xuất hiện,",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.306
+  },
+  {
+   "start": 5425.28,
+   "end": 5430.28,
+   "text": "cùng nhau họ đã chiến thắng tế hoạ suy tàn vô tận và thành công thanh tẩy gốc dễ tay hoạ.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.306
+  },
+  {
+   "start": 5430.28,
+   "end": 5439.34,
+   "text": "Tuy nhiên, khi vách nụ đã được thanh tẩy thì chủ thần Empla đã càng nghĩ sông lớn.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.306
+  },
+  {
+   "start": 5439.34,
+   "end": 5442.34,
+   "text": "Doan đội trở về thành Pyramida, gặp bố già để bàn chín lực tiếp theo.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.306
+  },
+  {
+   "start": 5442.34,
+   "end": 5446.34,
+   "text": "Kiểm soán óc được lấy thêm man nhãn sẽ trở thành vũ khí thanh chốt thanh tẩy ma vật.",
+   "avg_logprob": -0.236,
+   "no_speech_prob": 0.306
+  },
+  {
+   "start": 5446.34,
+   "end": 5451.34,
+   "text": "Nhưng vực sâu đã đi trước một bước, chú mơ rộng của sân hoang dã để ngăn cản thiết bị khuyết đại hoạt động.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.843
+  },
+  {
+   "start": 5451.34,
+   "end": 5457.9,
+   "text": "Như sự quả cảm của những người dưỡi đèn, phê la và Iluga đã thành công kích hoạp thiết bị khuyết đại.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.843
+  },
+  {
+   "start": 5457.9,
+   "end": 5467.03,
+   "text": "Doan thành Pyramida, bộ trúc biển thành khẩu đại bác Hồng Lô bắn gũi lao sắn thẳng vào trụ thần.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.843
+  },
+  {
+   "start": 5467.03,
+   "end": 5470.03,
+   "text": "Mà vật đã hoàn toàn bị xã sổ, trả lại bình yên cho cùng đất nơi đây.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.843
+  },
+  {
+   "start": 5470.03,
+   "end": 5475.03,
+   "text": "Sau cuộc chiến, tôi và Iluga tới môi mộ của John và những người dưỡi đèn đã hên sinh trong cuộc chiến.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.843
+  },
+  {
+   "start": 5475.03,
+   "end": 5478.03,
+   "text": "Một phút mặc niệm cho những người dưỡi đèn dũng cảm thì sinh chấp thầm lặng.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.93
+  },
+  {
+   "start": 5478.03,
+   "end": 5487.04,
+   "text": "Ngày 100, tôi đã dành ra 3 ngày để chạy map, mở nốt cái dương điện lên ngày la.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.93
+  },
+  {
+   "start": 5487.04,
+   "end": 5490.04,
+   "text": "Ta-da! 100% đảo nát cry hoàn hảo.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.93
+  },
+  {
+   "start": 5490.04,
+   "end": 5493.04,
+   "text": "Hôm nay cũng là ngày roll luôn để xem chúng ta sẽ được tình nha.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.93
+  },
+  {
+   "start": 5493.04,
+   "end": 5495.04,
+   "text": "Mời roll đầu tiên.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.93
+  },
+  {
+   "start": 5495.04,
+   "end": 5498.04,
+   "text": "Yes, bé sụp roll đã về nha.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.93
+  },
+  {
+   "start": 5498.04,
+   "end": 5499.04,
+   "text": "Mời roll tiếp theo.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.93
+  },
+  {
+   "start": 5499.04,
+   "end": 5505.58,
+   "text": "Yeah, lần này chắc chắn là da nhân vật limit rồi nên tôi skip nha.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.93
+  },
+  {
+   "start": 5505.58,
+   "end": 5508.58,
+   "text": "Những lần sau đó tôi chỉ roll thêm được Linux nên C3 là hết lượt roll rồi.",
+   "avg_logprob": -0.276,
+   "no_speech_prob": 0.93
+  },
+  {
+   "start": 5508.58,
+   "end": 5511.58,
+   "text": "Không sao, roll vậy là quá mũi bản rồi.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.04
+  },
+  {
+   "start": 5511.58,
+   "end": 5513.58,
+   "text": "Vậy là hành trình 100 ngày gần tôi đã kết thúc.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.04
+  },
+  {
+   "start": 5513.58,
+   "end": 5516.58,
+   "text": "Thực sự đây là một chuyến hành trình rất dài và da nhân nạn.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.04
+  },
+  {
+   "start": 5516.58,
+   "end": 5518.58,
+   "text": "Tất nhiên đây sẽ không phải là kết thúc.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.04
+  },
+  {
+   "start": 5518.58,
+   "end": 5520.58,
+   "text": "Có rất nhiều việc mà tôi còn phải làm.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.04
+  },
+  {
+   "start": 5520.58,
+   "end": 5523.58,
+   "text": "Kết thúc ngày 100 chúng ta sẽ tới 200 ngày, 300 ngày.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.04
+  },
+  {
+   "start": 5523.58,
+   "end": 5526.58,
+   "text": "Nên đừng lo series này sẽ dừng lại nha.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.04
+  },
+  {
+   "start": 5526.58,
+   "end": 5529.58,
+   "text": "Vậy đó, hẹn gặp lại mọi người ở thứ 2 tần sau nghe.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.04
+  },
+  {
+   "start": 5529.58,
+   "end": 5533.58,
+   "text": "À quên, nếu mà thấy video này hay thì ủng hộ 1 like và 1 subscribe nha.",
+   "avg_logprob": -0.234,
+   "no_speech_prob": 0.04
+  },
+  {
+   "start": 5533.58,
+   "end": 5537.58,
+   "text": "Ngoài ra, mấy ông có thể ủng hộ 1 tách trà giúp tương tình ta hơn vì làm việc tại đây.",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.829
+  },
+  {
+   "start": 5537.58,
+   "end": 5538.58,
+   "text": "Tạm biệt!",
+   "avg_logprob": -0.364,
+   "no_speech_prob": 0.829
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ngnhattrung/vieneu-tts-lora-gomastergi-2x-t4-parallel",
+  "title": "VieNeu TTS LoRA gomastergi - 2x T4 parallel",
+  "code_file": "train.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "ngnhattrung/vieneu-gomastergi-50min"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

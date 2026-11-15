@@ -1,0 +1,350 @@
+{
+ "id": "sample-Y_d_o7czcDM",
+ "language": "vi",
+ "lang_prob": 0.994,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.62,
+   "text": "Viewer hỏi, em đi trả lời số thứ tư",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.168
+  },
+  {
+   "start": 3.34,
+   "end": 7.04,
+   "text": "Tiếp nổi series Viewer hỏi, nơi mà mọi thác mắc của mọi người chơi sẽ được giải đáp",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.168
+  },
+  {
+   "start": 7.04,
+   "end": 9.24,
+   "text": "Ở số trước, chúng ta có 4 câu hỏi nổi vật",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.168
+  },
+  {
+   "start": 9.24,
+   "end": 11.42,
+   "text": "Đầu tiên là bạn brokenhearted",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.168
+  },
+  {
+   "start": 11.42,
+   "end": 13.16,
+   "text": "Chị ơi, em newbie nha!",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.168
+  },
+  {
+   "start": 13.16,
+   "end": 15.62,
+   "text": "Chị gửi ý cho em và nhân vật nên roll cho newbie đi",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.168
+  },
+  {
+   "start": 15.62,
+   "end": 19.12,
+   "text": "DBS càng tốt ạ, em muốn roll column nhưng mà sợ không chơi được á chị",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.168
+  },
+  {
+   "start": 19.12,
+   "end": 21.8,
+   "text": "Câu hỏi của em rất thật tế nha, bao gồm 2 ý chính",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.168
+  },
+  {
+   "start": 21.8,
+   "end": 25.36,
+   "text": "Đầu tiên là DBS nào tốt, chị xin lời xuất Sandron",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.168
+  },
+  {
+   "start": 25.36,
+   "end": 29.64,
+   "text": "Sandron có thể đi kẹn với Lionel và Bedel cùng Bender cũng đủ một tim rối",
+   "avg_logprob": -0.383,
+   "no_speech_prob": 0.168
+  },
+  {
+   "start": 29.76,
+   "end": 32.08,
+   "text": "Sau này sẽ có nhiều nhân vật DBS mạnh hơn",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 32.08,
+   "end": 35.78,
+   "text": "Lúc ấy em cần đánh giá sức mạnh và tập trung tối yêu độ hình mình có sẵn nhé",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 35.78,
+   "end": 38.42,
+   "text": "Yên thứ 2, có nên roll column không?",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 38.42,
+   "end": 41.0,
+   "text": "Theo chị thấy, cơ chế của những con ăn đe rất khó chịu",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 41.0,
+   "end": 44.08,
+   "text": "Em vẫn nên đầu tư một tim nguyệt để dành cho các content sau này nha",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 44.48,
+   "end": 46.72,
+   "text": "Câu hỏi số 2 của bạn Cudal",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 46.72,
+   "end": 50.48,
+   "text": "Chị ơi, tinh thông của Marvelka M421 level 90",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 50.48,
+   "end": 51.96,
+   "text": "Sao đa em vẫn bé về chị?",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 51.96,
+   "end": 54.62,
+   "text": "Thiên phú cốc 6 rồi mà chỉ có tầm 40 cadam",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 54.62,
+   "end": 57.32,
+   "text": "Em mang một lỗi nhỏ, đó là chơi đầu tư và thiên phú",
+   "avg_logprob": -0.324,
+   "no_speech_prob": 0.011
+  },
+  {
+   "start": 57.32,
+   "end": 59.76,
+   "text": "Phối hầu hết nhân vật, việc áp thiên phú rất quan trọng",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 59.76,
+   "end": 61.96,
+   "text": "Lượng đam sẽ trình nhau đáng kể với mối cấp độ",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 61.96,
+   "end": 64.92,
+   "text": "Thứ em cần làm là nâng cấp thiên phú nộ đến tối đa nhé",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 64.92,
+   "end": 68.4,
+   "text": "Chỉ số tinh thông sẽ gây đam lớn khi nhân vật kây ra phản ứng nguyên tố",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 68.4,
+   "end": 71.64,
+   "text": "Mí dụ, Marvelka tan trảy, bốc hơi hoặc quá tải",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 71.64,
+   "end": 75.2,
+   "text": "Còn nếu em chơi monô hỏa thì giá trị tinh thông của em sẽ là vô dụng nha",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 75.2,
+   "end": 77.68,
+   "text": "Câu hỏi số 3 là của bạn Lâm Phạm",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 77.68,
+   "end": 79.28,
+   "text": "Em mới cướp bão hiểm 43",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 79.28,
+   "end": 81.88,
+   "text": "Cích nào kiếm thánh di vật ngày nổi gió cho Lohen VA?",
+   "avg_logprob": -0.242,
+   "no_speech_prob": 0.044
+  },
+  {
+   "start": 81.96,
+   "end": 85.52,
+   "text": "Thứ nhất, em cần liên hạm bão hiểm 45 để đối xưa nhận thánh di vật 5 sao",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.268
+  },
+  {
+   "start": 85.52,
+   "end": 87.56,
+   "text": "Bộ ngày nổi gió em có thể farm ở đây",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.268
+  },
+  {
+   "start": 87.56,
+   "end": 88.72,
+   "text": "Bên map not cry",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.268
+  },
+  {
+   "start": 88.72,
+   "end": 93.32,
+   "text": "Em cũng có thể nhận free một số thánh di vật 5 sao ở những vị trí này khi em liên hạm bão hiểm 45",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.268
+  },
+  {
+   "start": 93.32,
+   "end": 95.52,
+   "text": "Câu hỏi số 4 của bạn Quỳnh Chi",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.268
+  },
+  {
+   "start": 95.52,
+   "end": 99.88,
+   "text": "Chị ơi làm sao để biết thiên phú nhân vật ấy theo hb, phòng ngự, vân vân vậy hả?",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.268
+  },
+  {
+   "start": 99.88,
+   "end": 103.32,
+   "text": "Cái này rất đơn giản, em chỉ cần bật 8 nhân vật lên vào một thiên phú nè",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.268
+  },
+  {
+   "start": 103.32,
+   "end": 105.12,
+   "text": "Sau đó em chọn vào chi tiết kỹ nặng",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.268
+  },
+  {
+   "start": 105.12,
+   "end": 107.28,
+   "text": "Ở đây chị lấy ví dụ là Baba Ra nhé",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.268
+  },
+  {
+   "start": 107.28,
+   "end": 109.32,
+   "text": "Những kỹ nặng khác cũng có cộng hb tương tự",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.268
+  },
+  {
+   "start": 109.36,
+   "end": 112.0,
+   "text": "Thì ta có thể xem xét chỉ số hát bê sẽ là chỉ số chính",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.274
+  },
+  {
+   "start": 112.72,
+   "end": 115.2,
+   "text": "Một số nhân vật sẽ không nghi rõ trực tiếp ở phần chi tiết",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.274
+  },
+  {
+   "start": 115.2,
+   "end": 116.92,
+   "text": "Bà là ở phần thiên phú đột phá",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.274
+  },
+  {
+   "start": 116.92,
+   "end": 118.16,
+   "text": "Ví dụ như này nè",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.274
+  },
+  {
+   "start": 118.16,
+   "end": 122.01,
+   "text": "Tương tự thế, cô hỏi tôi dành cho mọi người là",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.274
+  },
+  {
+   "start": 122.01,
+   "end": 123.61,
+   "text": "Cô lấy sẽ cần chỉ số nào?",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.274
+  },
+  {
+   "start": 123.61,
+   "end": 127.37,
+   "text": "Thị thống tin này em có thể tự đánh giá hoặc xem các chuyên gia hình dẫn cho khách quan nha",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.274
+  },
+  {
+   "start": 127.37,
+   "end": 129.45,
+   "text": "Đó là một số cô hỏi 2 trong số vừa rồi",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.274
+  },
+  {
+   "start": 129.45,
+   "end": 131.77,
+   "text": "Mấy ông còn có hỏi nào khác để cứ mạnh dạc nha",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.274
+  },
+  {
+   "start": 131.77,
+   "end": 133.05,
+   "text": "Bye bye",
+   "avg_logprob": -0.285,
+   "no_speech_prob": 0.274
+  }
+ ]
+}

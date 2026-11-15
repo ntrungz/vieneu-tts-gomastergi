@@ -1,0 +1,959 @@
+{
+ "id": "iKaFFTNAd3w",
+ "language": "vi",
+ "lang_prob": 0.99,
+ "segments": [
+  {
+   "start": 0.02,
+   "end": 6.18,
+   "text": "Ngày 80, làm Nubi trong Genshin. Mở đầu ngày, tôi tài chiến lôi thần cùng với sự trợ giúp của bạn tôi.",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.304
+  },
+  {
+   "start": 6.18,
+   "end": 10.04,
+   "text": "Với Nubi, cứ mạnh dạng kết bạn và thật nhiều bạn bé cốc cao, sự sinh trợ giúp nhé.",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.304
+  },
+  {
+   "start": 10.04,
+   "end": 13.36,
+   "text": "Sau đó, tôi đi farm một chút say kinh nghiệm để nâng cốc các nhân vật trong khó.",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.304
+  },
+  {
+   "start": 13.36,
+   "end": 17.72,
+   "text": "Cryt trở lại có chuyện Not Cry. Sau khi nhóm của Phelah thắt khỏi nguy hiểm trong gang tức,",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.304
+  },
+  {
+   "start": 17.72,
+   "end": 20.82,
+   "text": "Phelah đã trở lại chân Nasha để điều tra thêm về Rarier.",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.304
+  },
+  {
+   "start": 20.82,
+   "end": 27.62,
+   "text": "Cũng lúc đó, cả Flings, Laoma, Inefa và Aino đều ra sức tìm kiếm thêm thông tin về tên tội đồ Rarier.",
+   "avg_logprob": -0.334,
+   "no_speech_prob": 0.304
+  },
+  {
+   "start": 27.62,
+   "end": 31.02,
+   "text": "Mành mùa đã dẫn họ tới đảo Hinshin, nơi Nguyệt Thuân đang nhỉnh dưỡng.",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.15
+  },
+  {
+   "start": 31.02,
+   "end": 34.58,
+   "text": "Nhưng khi họ vượt tới thì đã bắt gặp Nguyệt Thuân đâm bị Rarier tấn công.",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.15
+  },
+  {
+   "start": 34.58,
+   "end": 92.48,
+   "text": "Cả đội đã tới kịp thời và ngăn chặt tên Rarier làm hại Columbina, đã thất tỉnh sương mạnh và đã giải cứu cả đội khỏi tình thí nguy hiểm.",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.15
+  },
+  {
+   "start": 92.48,
+   "end": 116.96,
+   "text": "Động của xanh hoang dã trên chiện rộng, mục tiêu của hắn là tri đuổi băng giữ Nguyệt Thuân.",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.15
+  },
+  {
+   "start": 116.96,
+   "end": 120.32,
+   "text": "Trước tình thí nguy hiểm ấy, đốt nhiên một thanh đại kiếm lớn lao tới,",
+   "avg_logprob": -0.31,
+   "no_speech_prob": 0.15
+  },
+  {
+   "start": 120.4,
+   "end": 125.28,
+   "text": "Bụi bay kín trời, sương mơ dây đặc, xuất hiện cùng với cái đại kiếm là ngay đội trưởng Vakka cực ngầu.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.798
+  },
+  {
+   "start": 125.28,
+   "end": 128.4,
+   "text": "Vakka tới dạy kiếm nhóm Vela và đưa cả đội tới nơi hầm bí mật.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.798
+  },
+  {
+   "start": 128.4,
+   "end": 132.72,
+   "text": "Nơi đây là điểm tập kết của đội chỉ sĩ, cũng là nơi những thông tin của mạng với tình báo Bắc Đại lục.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.798
+  },
+  {
+   "start": 132.72,
+   "end": 136.44,
+   "text": "Cùng nhau họ lên kế hoạch lấy lại 3 mặt trang để khối phục sương mạnh của Columbina.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.798
+  },
+  {
+   "start": 136.44,
+   "end": 138.8,
+   "text": "Nhiệp phơ cũng có mặt để tham gia trong chiếm dịch này.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.798
+  },
+  {
+   "start": 138.8,
+   "end": 142.04,
+   "text": "Kế hoạch thực thi, mỗi đội được chia nhỏ ra để lôi kéo thêm đồng đội.",
+   "avg_logprob": -0.255,
+   "no_speech_prob": 0.798
+  },
+  {
+   "start": 142.12,
+   "end": 147.72,
+   "text": "Columbina, Vela và Paimon đã tới chủ sở vô pha tui để gặp Sandron đàm phán và xin chợ giúp.",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.493
+  },
+  {
+   "start": 147.72,
+   "end": 152.84,
+   "text": "Nhưng chính họ cũng không thể ngờ quân đoàn của sân hoang dã đặc quá áp đảo khiến quân pha tui bị thiết thại nặng nề.",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.493
+  },
+  {
+   "start": 152.84,
+   "end": 158.16,
+   "text": "Nhóm của Nèphơ cũng mệt không kém. Cô cùng Laoma và Yahuda phải niêu tra về quán cứu của Tên Väria.",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.493
+  },
+  {
+   "start": 158.16,
+   "end": 162.16,
+   "text": "Bang một củ vật thân kỳ, Nèphơ đã thành công thâm nhập vào tâm trí của Tên Väria.",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.493
+  },
+  {
+   "start": 162.16,
+   "end": 165.64,
+   "text": "Tại đây, họ đã tìm ra được cái tên Thorindisk là hôn phu của hắn",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.493
+  },
+  {
+   "start": 165.64,
+   "end": 168.64,
+   "text": "và cũng biết được hắn chính là đô tế trí sắt của người dân Kenrier.",
+   "avg_logprob": -0.319,
+   "no_speech_prob": 0.493
+  },
+  {
+   "start": 168.84,
+   "end": 172.44,
+   "text": "Trở lại về nhóm của Vela, họ đang bị bao vây bởi cuộc sân hoang dã.",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.1
+  },
+  {
+   "start": 172.44,
+   "end": 174.84,
+   "text": "Nhưng bất ngờ, một đối lửa đó lứt ngang quá.",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.1
+  },
+  {
+   "start": 174.84,
+   "end": 177.84,
+   "text": "Phía sau của đàm quả vật bỗng xuất hiện một bóng hình của ai đó.",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.1
+  },
+  {
+   "start": 177.84,
+   "end": 183.04,
+   "text": "Và đó là... Alexio cực ngầu, đen đi đột phá vòng vây và giải kiếm nhóm của Vela.",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.1
+  },
+  {
+   "start": 183.04,
+   "end": 187.64,
+   "text": "Sau một hồi giải thích kế hoạch cho Alex, đen đi đã tham gia và hỗ trợ Colum lấy lại hồng nguyệt.",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.1
+  },
+  {
+   "start": 187.64,
+   "end": 189.24,
+   "text": "Điều của anh.",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.1
+  },
+  {
+   "start": 190.24,
+   "end": 196.98,
+   "text": "Hôn hồn của anh, đen đi đột phá vòng vây và giải kiếm nhóm của Vela.",
+   "avg_logprob": -0.386,
+   "no_speech_prob": 0.1
+  },
+  {
+   "start": 196.98,
+   "end": 215.81,
+   "text": "Chạy qua vô vàng trận chiến khó khăn, cuối cùng Vela cũng thanh tỉnh được hồng nguyệt và giao hồng nguyệt cho Colum.",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.288
+  },
+  {
+   "start": 215.81,
+   "end": 219.81,
+   "text": "Hồng nguyệt vừa giao, toàn hầm ngủ bỗng sụp đổ, quái vật áo áo rất tỉnh ngăn cản hồng Vela.",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.288
+  },
+  {
+   "start": 219.81,
+   "end": 222.81,
+   "text": "Nhưng mọi thứ chỉ dừng lại ở đấy vẫn luôn là Alex cực ngầu,",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.288
+  },
+  {
+   "start": 222.81,
+   "end": 225.81,
+   "text": "vào lúc hen chốt cũng ngăn cản hồng với vật và giải kiếm nhóm Vela.",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.288
+  },
+  {
+   "start": 231.16,
+   "end": 235.16,
+   "text": "Ngày 81, trở lại căn hầm bí mật, lần này quân số của chiến dịch đã tăng vọt",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.288
+  },
+  {
+   "start": 235.16,
+   "end": 238.16,
+   "text": "với sự tham gia của Dance Lake, Abedo và Durin.",
+   "avg_logprob": -0.213,
+   "no_speech_prob": 0.288
+  },
+  {
+   "start": 238.16,
+   "end": 242.16,
+   "text": "Có thể nói, đây là lần đầu tiên, một cuộc chiến của sự xuất hiện của quá nhiều tin anh.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.275
+  },
+  {
+   "start": 242.16,
+   "end": 245.16,
+   "text": "Chiến dịch lần này quí mô rất lớn, mỗi nhóm lại có một nhiệm vụ riêng.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.275
+  },
+  {
+   "start": 245.16,
+   "end": 248.16,
+   "text": "Nhóm của Nenfer lại tiếp tục điều tra về coi cứu của tên Verrier.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.275
+  },
+  {
+   "start": 248.16,
+   "end": 251.16,
+   "text": "Thực ra, Verrier chỉ là một kiện bất hạnh.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.275
+  },
+  {
+   "start": 251.16,
+   "end": 254.16,
+   "text": "Số phận của hắn là trở thành công cục của tên Hắc Vương Yilmin.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.275
+  },
+  {
+   "start": 254.16,
+   "end": 258.16,
+   "text": "Công việc của hắn đó là đồ sát găn bộ người dân Kenrier theo lệnh của tên Hắc Vương.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.275
+  },
+  {
+   "start": 258.16,
+   "end": 261.16,
+   "text": "Mất kỷ giá hay trẻ, chỉ cần là người Kenrier thì được phải tiêu diệt.",
+   "avg_logprob": -0.265,
+   "no_speech_prob": 0.275
+  },
+  {
+   "start": 261.16,
+   "end": 264.16,
+   "text": "Chảy qua hàng loạt mang rẻ mã nạo đồ, chúng ta càng hiểu hơn về hắn.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.964
+  },
+  {
+   "start": 264.16,
+   "end": 269.16,
+   "text": "Cùng thời điểm ấy, Dance Lake cùng những quân thần khác đang lên cửa hoạch mương phản, lật đồ tên Hắc Vương.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.964
+  },
+  {
+   "start": 269.16,
+   "end": 273.16,
+   "text": "Holindice cô là hôn vù của Verrier và cũng là người Verrier yêu thương nhất.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.964
+  },
+  {
+   "start": 273.16,
+   "end": 278.16,
+   "text": "Nhưng trở chiều thay, cô lẹ mang dòng máu Kenrier, thứ mà Verrier phải tiêu diệt băng mọi giá.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.964
+  },
+  {
+   "start": 278.16,
+   "end": 280.16,
+   "text": "Số phận đưa đẩy, tình thế nguy cấp.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.964
+  },
+  {
+   "start": 280.16,
+   "end": 282.16,
+   "text": "Ngay dây phút suất mạnh được sâu bùng nồng mãnh liệt nhất.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.964
+  },
+  {
+   "start": 282.16,
+   "end": 284.16,
+   "text": "Holindid đã trách nhận viên sinh về người mình yêu.",
+   "avg_logprob": -0.294,
+   "no_speech_prob": 0.964
+  },
+  {
+   "start": 284.16,
+   "end": 288.16,
+   "text": "Cô dây vào khoảng không lưu vô, bỏ rơi Verrier tuyệt vọng xuất đời với kịp.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.323
+  },
+  {
+   "start": 288.16,
+   "end": 297.01,
+   "text": "Cũng từ dây phút đó, số mạnh vượt thảm dẫn lút trọn hắn, biến hắn trở thành một trong 6 tội nhân của Tây Vát.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.323
+  },
+  {
+   "start": 297.01,
+   "end": 300.01,
+   "text": "Chuyện tình của Verrier và Holindid thực sự rất ngang trái.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.323
+  },
+  {
+   "start": 300.01,
+   "end": 304.01,
+   "text": "Thì nó trở thành niếm tình nguôi lớn nhất của tôi, và cũng chính nhau câu chuyện như vậy.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.323
+  },
+  {
+   "start": 304.01,
+   "end": 308.01,
+   "text": "Verrier mặc dù chỉ xuất hiện vai phiên bản nhưng lại để lại dù ấn rất lớn trong người chơi.",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.323
+  },
+  {
+   "start": 308.01,
+   "end": 316.07,
+   "text": "Sau khi kết thúc câu chuyện của Verrier, phía la đuổi nhân được trải nghiệm quả khứ của Nefer,",
+   "avg_logprob": -0.26,
+   "no_speech_prob": 0.323
+  },
+  {
+   "start": 316.07,
+   "end": 321.07,
+   "text": "Nefer đã từng là một cô bé thông minh và ngoan ngoan, cô sống ở bộ lạc nhỏ trên giam mặc Sumeru,",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.319
+  },
+  {
+   "start": 321.07,
+   "end": 323.07,
+   "text": "nơi mà nước chính là tài sản sống còn.",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.319
+  },
+  {
+   "start": 323.07,
+   "end": 328.07,
+   "text": "Chá của cô, trưởng làng đã viết rất nhiều đơn cầu cứu cho giáo viện Sumeru, nhưng không hề có hồi âm.",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.319
+  },
+  {
+   "start": 328.07,
+   "end": 331.07,
+   "text": "Trước tình thế nguyên nan, ông đã phải đi chụm nước của làm bên cạnh,",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.319
+  },
+  {
+   "start": 331.07,
+   "end": 335.07,
+   "text": "hệ quả là cả làng của ông đã bị sát hại, chỉ còn mỗi Nefer may mắn sống sót.",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.319
+  },
+  {
+   "start": 335.07,
+   "end": 339.07,
+   "text": "Sau này, cô đòi nhận vào giáo viện Sumeru, nhờ chỉ thông minh thiên bẩm,",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.319
+  },
+  {
+   "start": 339.07,
+   "end": 342.07,
+   "text": "tại đây cô nhận ra sự phân biệt của giáo viện dành trong người dân giam mạc",
+   "avg_logprob": -0.168,
+   "no_speech_prob": 0.319
+  },
+  {
+   "start": 342.07,
+   "end": 346.07,
+   "text": "và cũng tìm thấy bức thư mà chá cô đã gửi cho giáo viện bị vất sót ở nước trái để ý.",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.358
+  },
+  {
+   "start": 346.07,
+   "end": 349.07,
+   "text": "Không phẫn nộ, cô nhận ra thể giới trì toàn là rối lừa.",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.358
+  },
+  {
+   "start": 349.07,
+   "end": 353.07,
+   "text": "Từ ngày đó, cô biến sự rối lừa trở thành viên dần và trở thành một người không ai có thể rừa rối.",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.358
+  },
+  {
+   "start": 353.07,
+   "end": 356.07,
+   "text": "Barrier đã phát hiện nhóm Nefer lần lúc điều tra về hắn.",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.358
+  },
+  {
+   "start": 356.07,
+   "end": 358.07,
+   "text": "Hắn sử dụ sức mạnh vực sâu không chế tất cả,",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.358
+  },
+  {
+   "start": 358.07,
+   "end": 361.07,
+   "text": "nhưng Dan Slap đã có mặt kịp thời giải cứu tất cả.",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.358
+  },
+  {
+   "start": 361.07,
+   "end": 364.07,
+   "text": "Nhưng, cổ vật không thể giam giỡn được sức mạnh khủng logo của Barrier quá lâu.",
+   "avg_logprob": -0.203,
+   "no_speech_prob": 0.358
+  },
+  {
+   "start": 364.07,
+   "end": 373.28,
+   "text": "Khả nội phải giải phóng ấn để chiến trận trên cuối cùng với tên Barrier.",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.455
+  },
+  {
+   "start": 412.88,
+   "end": 427.66,
+   "text": "Cô lộng đã sử dụng sức mạnh để đề phang tên tội độ trở về hưu vô.",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.455
+  },
+  {
+   "start": 444.46,
+   "end": 447.46,
+   "text": "Họ đã thành công, ngăn chặng một trong những tên khủng vũ khủng khí mếp của toàn đại lục.",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.455
+  },
+  {
+   "start": 447.46,
+   "end": 451.46,
+   "text": "Nefer đã bị thương ở mắt, nhưng nhiều sức mạnh của Laoma đôi mắt ấy sẽ sớm hơi phục.",
+   "avg_logprob": -0.279,
+   "no_speech_prob": 0.455
+  },
+  {
+   "start": 451.46,
+   "end": 459.58,
+   "text": "Ngày 83, do trận trình khống liện với Barrier, cả đội lên kế hoạch đưa cô lông về nhà vào đêm công nguyện.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.047
+  },
+  {
+   "start": 459.58,
+   "end": 464.58,
+   "text": "Tuy nhiên, người thần vẫn đang bị tê vắt bài xích, cô thể cũng vẫn luôn bị tê vắt tiêu chử cho đến khi biến mất.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.047
+  },
+  {
+   "start": 464.58,
+   "end": 469.58,
+   "text": "Nguyên nhân là từ rất lâu về trước, ban nữa thần mặt Trang đã mạo phạm biến thiên lý để ngăn cô lông biến mất.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.047
+  },
+  {
+   "start": 469.58,
+   "end": 474.58,
+   "text": "Vela đã tới gặp thiêng sứ Ninh Con để xin lời khuyên, cùng nhau họ đã tới thần điện nơi con người giao tiếp với mặt Trang.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.047
+  },
+  {
+   "start": 474.58,
+   "end": 479.58,
+   "text": "Tại đây, Ninh Con gợi ý rằng, nếu muốn ai đó tồn tại thì hãy công nhận tên của họ.",
+   "avg_logprob": -0.219,
+   "no_speech_prob": 0.047
+  },
+  {
+   "start": 479.58,
+   "end": 483.58,
+   "text": "Sau một hồi duy nghĩ, mọi người đều nhận ra cái tên cô lông Bina đã nằm trong tiềm thức của mọi người.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.241
+  },
+  {
+   "start": 483.58,
+   "end": 488.58,
+   "text": "Và chỉ khi cô lông có một cái tên thực sự được mọi người công nhận, khi ấy cô lông sẽ không còn bị tê vắt bài xích nữa.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.241
+  },
+  {
+   "start": 488.58,
+   "end": 559.6,
+   "text": "Bởi vì giờ đây cũng đã có một cái tên, cả thị trấn NASA đều mừng và chào đón sự trận lại của Nguyên Thần.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.241
+  },
+  {
+   "start": 559.6,
+   "end": 564.6,
+   "text": "Họ tổ chức lệ hội đêm nguyệt thật hoanh tráng, trong lệ hội có rất nhiều cho chơi vui và thú vị.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.241
+  },
+  {
+   "start": 564.6,
+   "end": 568.6,
+   "text": "Và cả đây nữa, áo, Alec Đội Tây Mèo đang yêu xíu.",
+   "avg_logprob": -0.247,
+   "no_speech_prob": 0.241
+  },
+  {
+   "start": 568.6,
+   "end": 573.6,
+   "text": "Sandron và cô lông đi khỏi ban rùi, cặp đôi này quá là cựu tề, tôi giúp mê cả hai em.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.802
+  },
+  {
+   "start": 573.6,
+   "end": 579.6,
+   "text": "Nhưng cuộc vui nào cũng phải đến lúc tàn, đêm nghịt cũng là lời trò tạm biệt để đưa cô lông trở về mặt trăng, nhà của cô.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.802
+  },
+  {
+   "start": 579.6,
+   "end": 584.6,
+   "text": "Trước khi đi, mọi người tặng cộng một cuốn số tự họa rất ý nghĩa, hai hướng nhất là Bức Cột Flynn.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.802
+  },
+  {
+   "start": 584.6,
+   "end": 586.6,
+   "text": "Đây là bức vẽ của đội trường vắc ca.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.802
+  },
+  {
+   "start": 586.6,
+   "end": 588.6,
+   "text": "Aino và Yahuda vẽ đeo hướng rất dễ thương.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.802
+  },
+  {
+   "start": 588.6,
+   "end": 592.6,
+   "text": "Mỗi người một kiểu vẽ, một đặc trưng riêng, biến cuốn sách trở nên ý nghĩa hơn bao giờ hết.",
+   "avg_logprob": -0.259,
+   "no_speech_prob": 0.802
+  },
+  {
+   "start": 592.6,
+   "end": 598.6,
+   "text": "Nó là minh trứng cho tình bạn của cô lông và những người đồng đội, mọi thứ đã sẵn sàng cô lông hào hước đến lưu con thuyền trở về nhà.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 598.6,
+   "end": 628.42,
+   "text": "Chỉ tiếc là... mọi thứ đã bị tên Dr. Te Phá Học.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 644.94,
+   "end": 646.94,
+   "text": "Cô lông bị đưa tới Hương Công và đến bất chức mặt mọi người.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 646.94,
+   "end": 666.38,
+   "text": "Mẹ bị Tây Vắt Bài chứ xuất mạnh, hắn tạm xuất lùi, cả nhóm Phi Lạc cũng phải trở về để bàn chính lương tiếp theo.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 666.38,
+   "end": 671.38,
+   "text": "Nhờ tình báo của đội quân pha tuy, quân đồng minh Phi Lạc đã thành công đồn nhập được chứng nhịp của tên Dr. R.",
+   "avg_logprob": -0.262,
+   "no_speech_prob": 0.081
+  },
+  {
+   "start": 672.38,
+   "end": 675.38,
+   "text": "Cả đội đã ra xích trình đối quy nhiệm, bao gồm cả Sandron và Alex.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.273
+  },
+  {
+   "start": 675.38,
+   "end": 677.38,
+   "text": "Những kết quả thì không là quán.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.273
+  },
+  {
+   "start": 677.38,
+   "end": 679.38,
+   "text": "Dr. R. đã đưa mọi người vào khứ ảnh rồi bắt giữa nhà lưỡ hành.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.273
+  },
+  {
+   "start": 679.38,
+   "end": 682.38,
+   "text": "Quay trở lại với cô lông, nơi cô đến là một khoảng không không rõ.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.273
+  },
+  {
+   "start": 682.38,
+   "end": 687.38,
+   "text": "Tại đây, cô bắt sắc tạo ra những tác động vào quà khứ, khiến cho những diễn biển trong quà khứ trở nên dễ hiểu hơn.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.273
+  },
+  {
+   "start": 687.38,
+   "end": 689.38,
+   "text": "Trong khi đó, Phi Lạ đang bị tên Dr. Thao Túng.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.273
+  },
+  {
+   "start": 689.38,
+   "end": 695.38,
+   "text": "Bằng những kiến thức sẵn có, hắn ta muốn dụ dụng Phi Lạ theo phê hắn để có thể cảm phá nhiều hơn về bản chức thế giới.",
+   "avg_logprob": -0.22,
+   "no_speech_prob": 0.273
+  },
+  {
+   "start": 695.38,
+   "end": 698.38,
+   "text": "Cô Lông Bina vẫn đang hỷ hục trong hư không tìm lối thoát quay trở về.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.344
+  },
+  {
+   "start": 698.38,
+   "end": 702.38,
+   "text": "Trong khóa trình tìm lối ra, cô vô tình nhận ra những không gian cô đến đều là quà khứ.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.344
+  },
+  {
+   "start": 702.38,
+   "end": 706.38,
+   "text": "Thường anh sáng bởi vệ đảo Hinsi, con mạ đã giúp Flynn và Phi Lạ thíu xét cường ngon Hải Đăng.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.344
+  },
+  {
+   "start": 706.38,
+   "end": 710.38,
+   "text": "Tất cả, đều là cô ở tương lai đã làm quà khứ được tạo nên một rong thời gian liền mạch.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.344
+  },
+  {
+   "start": 710.38,
+   "end": 712.38,
+   "text": "Bò ngoài tai là dũ rốt của tên Dr. R.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.344
+  },
+  {
+   "start": 712.38,
+   "end": 715.38,
+   "text": "Phi Lạ can đả một mình chúng lại tên bác sĩ.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.344
+  },
+  {
+   "start": 715.38,
+   "end": 717.38,
+   "text": "Rất may mắn, tiễn đồng Minh đã ứng cứu kiếp thời.",
+   "avg_logprob": -0.227,
+   "no_speech_prob": 0.344
+  },
+  {
+   "start": 717.38,
+   "end": 721.38,
+   "text": "Họ giải cứu cô thành công và sẵn sàng cho trận chiến cuối cùng với tên bác sĩ.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.263
+  },
+  {
+   "start": 721.38,
+   "end": 723.38,
+   "text": "Cô Lung vẫn đang là thang trong không gian vô định.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.263
+  },
+  {
+   "start": 723.38,
+   "end": 726.38,
+   "text": "Cô đã gặp Rarier nhưng lần này hẳn đã không còn ta ác nữa.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.263
+  },
+  {
+   "start": 726.38,
+   "end": 730.38,
+   "text": "Rarier giúp cô Lung phá bỏ xíng xinh vực sâu, giúp cô sử dụng sức mạnh dễ dàng hơn.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.263
+  },
+  {
+   "start": 730.38,
+   "end": 734.23,
+   "text": "Ngay sau đó, cô cũng gặp Tholendis.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.263
+  },
+  {
+   "start": 734.23,
+   "end": 737.23,
+   "text": "Trận tình của Tholendis và Rarier đến đây có như viên mát.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.263
+  },
+  {
+   "start": 737.23,
+   "end": 740.23,
+   "text": "Mặc hoảng cách của sang nhìn dặng, tâm trí họ vẫn luôn ở bên nhau.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.263
+  },
+  {
+   "start": 749.48,
+   "end": 751.48,
+   "text": "Cuối con đường, cô Lung gặp táng nguyệt.",
+   "avg_logprob": -0.185,
+   "no_speech_prob": 0.263
+  },
+  {
+   "start": 751.48,
+   "end": 753.48,
+   "text": "Chị em nhìm được trao đón cô Lung.",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.057
+  },
+  {
+   "start": 753.48,
+   "end": 755.48,
+   "text": "Cô Lung Mina kể toàn bộ hành trình của cô cho ba chị em.",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.057
+  },
+  {
+   "start": 755.48,
+   "end": 757.48,
+   "text": "Họ đã xúc động và đưa ra một quyết định rất quan trọng.",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.057
+  },
+  {
+   "start": 757.48,
+   "end": 760.48,
+   "text": "Đó là trao toàn bộ sức mạnh cho cô Lung Mina và biến mất.",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.057
+  },
+  {
+   "start": 760.48,
+   "end": 763.48,
+   "text": "Họ trao cho cô Lung cơ hội viết tiếp câu chuyện của mình.",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.057
+  },
+  {
+   "start": 763.48,
+   "end": 766.48,
+   "text": "Với sức mạnh của tám nguyệt, cô Lung Mina hoa mình và thế giới.",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.057
+  },
+  {
+   "start": 766.48,
+   "end": 768.48,
+   "text": "Vào ánh sáng, thiên nhiên của quá khứ.",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.057
+  },
+  {
+   "start": 768.48,
+   "end": 770.48,
+   "text": "Chờ cho đến ngày câu thức tỉnh ở dòng thời gian hiện tại.",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.057
+  },
+  {
+   "start": 772.48,
+   "end": 773.48,
+   "text": "Trận chiến cuối cùng cũng xảy ra.",
+   "avg_logprob": -0.204,
+   "no_speech_prob": 0.057
+  },
+  {
+   "start": 773.48,
+   "end": 777.48,
+   "text": "Phê la, Flynn, Neffle và Laoma cùng nhau chiến đấu chống lại kênh bác sĩ.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.592
+  },
+  {
+   "start": 777.48,
+   "end": 781.48,
+   "text": "Khi mỗi người đã bị dịch trần từ công gian khác, chỉ có mình phê la solo với Dr. Re.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.592
+  },
+  {
+   "start": 781.48,
+   "end": 786.48,
+   "text": "Nhưng để kế hoạch không bị phá hỏng, ích thân sân Lung đã ra mặt kịch chứng cự cho đến khi lõi thật thức đầy.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.592
+  },
+  {
+   "start": 786.48,
+   "end": 806.14,
+   "text": "Thôi!",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.592
+  },
+  {
+   "start": 806.14,
+   "end": 809.14,
+   "text": "Tùy sân Lung nằm xuống như cố ất tính nước đi lề trước.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.592
+  },
+  {
+   "start": 809.14,
+   "end": 811.14,
+   "text": "Cô Lung đã tái xuất bệnh của tám nguyệt.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.592
+  },
+  {
+   "start": 811.14,
+   "end": 814.14,
+   "text": "Cô giải kiểu những đồng đội bị giam giữa ở chiều công gian khác.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.592
+  },
+  {
+   "start": 814.14,
+   "end": 829.78,
+   "text": "Họ đã đánh bại tính Dr. Re và cứ nhìn một chương mới.",
+   "avg_logprob": -0.307,
+   "no_speech_prob": 0.592
+  },
+  {
+   "start": 829.78,
+   "end": 831.78,
+   "text": "Đó là những gì đã xảy ra trong tan bộ chứu Not Cry.",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.985
+  },
+  {
+   "start": 831.78,
+   "end": 834.78,
+   "text": "Hãy đón chờ chuyến hình trình của tôi xong vài ngay nữa nhé!",
+   "avg_logprob": -0.335,
+   "no_speech_prob": 0.985
+  }
+ ]
+}

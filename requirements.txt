@@ -1,0 +1,8 @@
+# Dataset build + transcription (CPU)
+faster-whisper
+soundfile
+numpy
+pyarrow
+# Inference / training need the upstream SDK + torch (see README):
+#   pip install vieneu torch
+# Training runs on Kaggle (see kaggle-kernel*/train.py).

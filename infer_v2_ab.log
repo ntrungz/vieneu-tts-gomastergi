@@ -1,0 +1,16 @@
+=== loading v1r16 (/home/hatch/workspace/vieneu-tts-gomastergi/final-gomastergi-r16) ===
+--- infer v1r16 short ---
+saved /home/hatch/workspace/vieneu-tts-gomastergi/test-v2ab-v1r16-short.wav (85s total)
+--- infer v1r16 long ---
+saved /home/hatch/workspace/vieneu-tts-gomastergi/test-v2ab-v1r16-long.wav (161s total)
+=== loading v2r16 (/home/hatch/workspace/vieneu-tts-gomastergi/final-gomastergi-v2-r16) ===
+--- infer v2r16 short ---
+saved /home/hatch/workspace/vieneu-tts-gomastergi/test-v2ab-v2r16-short.wav (51s total)
+--- infer v2r16 long ---
+saved /home/hatch/workspace/vieneu-tts-gomastergi/test-v2ab-v2r16-long.wav (118s total)
+=== loading v2r32 (/home/hatch/workspace/vieneu-tts-gomastergi/final-gomastergi-v2-r32-all) ===
+--- infer v2r32 short ---
+saved /home/hatch/workspace/vieneu-tts-gomastergi/test-v2ab-v2r32-short.wav (41s total)
+--- infer v2r32 long ---
+saved /home/hatch/workspace/vieneu-tts-gomastergi/test-v2ab-v2r32-long.wav (105s total)
+ALL DONE
